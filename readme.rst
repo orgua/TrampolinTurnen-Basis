@@ -34,8 +34,33 @@ Viewing the document in a browser:
 
 In browser go to `localhost:8000` to view the documentation.
 
+Generating a PDF
+----------------
+
+Install for Ubuntu / Debian, following `Sphinx.LaTeXBuilder <https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.latex.LaTeXBuilder>`_
+
+.. code-block:: bash
+
+    sudo apt install texlive-latex-recommended
+    sudo apt install texlive-fonts-recommended
+    sudo apt install texlive-latex-extra
+    sudo apt install tex-gyre latexmk
+    sudo apt install texlive-lang-german
+
+Generating the PDF
+
+.. code-block:: bash
+
+    cd docs/
+    make latex
+    make latexpdf
+
+
 Wie kann ich beitragen?
 --------------------------------
 
-Hilfe und Anmerkungen willkommen
+Hilfe und Anmerkungen willkommen. Die Quellen befinden sich unter `docs/content` in Form von rst-Dateien.
+
+- `Writing reStructuredText <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
+-
 

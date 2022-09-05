@@ -18,6 +18,8 @@ Literaturhinweise
 Links
 -----
 
+- `Projekt-Quellen das Dokuments <https://github.com/orgua/TrampolinTurnen-Basis>`_
+
 Quellen
 _______
 

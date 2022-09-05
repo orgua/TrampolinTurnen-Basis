@@ -6,7 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Einführung ins Trampolinturnen'
+#project = 'Einführung ins Trampolinturnen'
+project = 'BasisSchein-Trampolinturnen'
 copyright = '2022, Ingmar Splitt'
 author = 'Ingmar Splitt'
 release = '0.1'

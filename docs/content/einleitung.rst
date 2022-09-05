@@ -9,7 +9,7 @@ Obwohl das Turnen auf dem Trampolin von einigen Pädagogen sowohl aus Unkenntnis
 
 
 Geschichte des Trampolinturnens
-------------------------------
+---------------------------------
 
 Viele Kulturen haben immer wieder Gerätschaften entwickelt, um Menschen in die Luft zu katapultieren und ihnen eine sichere Landung auf dem Boden zu ermöglichen.
 

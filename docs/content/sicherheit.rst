@@ -48,7 +48,7 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 - nie unter das Trampolin kriechen während sich eine Person darauf befindet.Grundausbildung Trampolinturnen Seite 6
 - vom Trampolin sollte heruntergeklettert und nicht gesprungen werden
 - auf dem Trampolin kein Kaugummi oder Bonbon im Mund behalten
-- keine Ketten, Uhren oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer ☺
+- keine Ketten, Uhren oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
 - beim Springen sollten die Aktiven möglichst enge Kleidung tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben.
 
 Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut gemacht werden. Für einen möglichst ungefährlichen Stundenablauf ist die Einhaltung dieser Regeln absolut unerlässlich!
