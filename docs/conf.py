@@ -10,7 +10,7 @@
 project = 'BasisSchein-Trampolinturnen'
 copyright = '2022, Ingmar Splitt'
 author = 'Ingmar Splitt'
-release = '0.1'
+release = '0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

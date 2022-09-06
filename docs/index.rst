@@ -8,7 +8,7 @@ Welcome to Einführung ins Trampolinturnen's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhaltsverzeichnis:
 
    content/einleitung
    content/sicherheit
