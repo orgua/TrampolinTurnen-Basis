@@ -16,11 +16,6 @@ Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der Q
 
 Eine andere Ausführungsform betrifft das Timing. Ab einer gewissen Sprunghöhe und Geschwindigkeit ... TODO später
 
-TODO TEST
-
-.. contents:: Kapitel-Inhalt
-   :local:
-
 Fußsprünge
 -----------
 
@@ -121,13 +116,13 @@ Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme
 - Stempel-Vorübung: Trainer greift die Füße aus der Trockenposition und federt den Aktiven. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
 - Geräteaufbau: TODO
 
-    - zwei Turnbänke parallel stellen, darauf einen Weichboden (je nach Mattenhärte Abstand der Bänke variieren).
-    - Seile verhindern ein Auseinanderrutschen der Bänke.
-    - auch möglich: ohne Bänke, nur Weichboden und darauf eventuell eine Schiebematte
+  - zwei Turnbänke parallel stellen, darauf einen Weichboden (je nach Mattenhärte Abstand der Bänke variieren).
+  - Seile verhindern ein Auseinanderrutschen der Bänke.
+  - auch möglich: ohne Bänke, nur Weichboden und darauf eventuell eine Schiebematte
 
 - Jeweils auf die Matte stellen und versuchen, gestreckt auf dem Rücken zu landen. Die Schultern sollen sich beim „Absprung“ nach oben bewegen („wie eine Marionette“) und Füße nach vorne geschoben werden. Der Körper ist dabei völlig gespannt
 
-    - Bem.: dieser Geräteaufbau kann auch parallel zum Trainings auf dem Trampolin benutzt werden
+  - Bemerkung: dieser Geräteaufbau kann auch parallel zum Trainings auf dem Trampolin benutzt werden
 
 - auf dem Trampolin: Schiebematte in die Mitte des Trampolins legen und wie vorher zum Rücken springen
 - stärker abspringen
@@ -146,14 +141,14 @@ Sobald diese sogenannte **gestreckte Rückenlandung** beherrscht wird, kann dazu
 - zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen
 - die Beine sind in der Landung nicht optimal gestellt; Folgen:
 
-    - zu tief -> die Beine fallen auf das Tuch, der Sprung ist zu flach, Stehauf-Männchen-Effekt mit deutlichem Vorwärtswandern in der Luft
-    - zu hoch / über der Senkrechten -> die Beine kippen nach hinten, der Aktive macht eine gefährliche Bewegung oder Rotation nach hinten
-    - seitliches Ausweichen -> der Springer kippt nach der Landung zur Seite
+  - zu tief -> die Beine fallen auf das Tuch, der Sprung ist zu flach, Stehauf-Männchen-Effekt mit deutlichem Vorwärtswandern in der Luft
+  - zu hoch / über der Senkrechten -> die Beine kippen nach hinten, der Aktive macht eine gefährliche Bewegung oder Rotation nach hinten
+  - seitliches Ausweichen -> der Springer kippt nach der Landung zur Seite
 
 - die Kippbewegung der Beine erfolgt nicht zum richtigen Zeitpunkt; Folgen:
 
-    - zu früh: das Aufstehen erfolgt zu flach und zu weit nach vorne (Stehauf-Männchen)
-    - zu spät: nicht genügend Rotation zum Aufstehen, die Landung erfolgt im Sitz
+  - zu früh: das Aufstehen erfolgt zu flach und zu weit nach vorne (Stehauf-Männchen)
+  - zu spät: nicht genügend Rotation zum Aufstehen, die Landung erfolgt im Sitz
 
 - der Absprung erfolgt nach hinten gelehnt / gebeugt: auf aufrechten und bewusst nach oben gerichteten Absprung achten („Schultern/Arme zur Decke“)
 - zu wenig Körperspannung in der Landung: der Körper klappt regelrecht zusammen.

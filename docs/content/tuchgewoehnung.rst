@@ -84,9 +84,9 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 - Variation: kleine (Plastik-) Flaschen oder Keulen in den Händen halten
 - Bewegungsablauf „Arme stellen“, Vorschlag
 
-    - „und“ Arme sind gestreckt am Körper angelegt
-    - „eins“ Arme gestreckt zur Decke ziehen
-    - „zwei“ Arme wieder gestreckt am Körper angelegt
-    - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
+  - „und“ Arme sind gestreckt am Körper angelegt
+  - „eins“ Arme gestreckt zur Decke ziehen
+  - „zwei“ Arme wieder gestreckt am Körper angelegt
+  - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
 
 - Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten.

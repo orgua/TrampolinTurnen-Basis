@@ -7,9 +7,6 @@
 
 TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
 
-.. contents:: On this page
-   :local:
-
 Ohne Materialien
 ----------------
 

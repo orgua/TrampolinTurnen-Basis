@@ -13,7 +13,8 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 - bei misslungenen Versuchen nicht so lange weitermachen, bis es „endlich“ klappt
 - den Aktiven ruhig auch mal direkt nach einem gut gelungenen Sprung vom Gerät schicken (auch wenn es der erste ist)
 
-Übungsformen:
+Übungsformen
+~~~~~~~~~~~~~
 
 - Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 5 Sprüngen, Pflicht- oder Kürübung bzw. Teile daraus
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
@@ -92,20 +93,20 @@ Einführung in Wettkampfbestimmungen
 - Im Einzelwettkampf beurteilen 5 Haltungskampfrichter unabhängig voneinander die **Ausführung**. Von den 5 Noten wird die höchste und niedrigste gestrichen und die 3 verbleibenden addiert.
 - Zu dieser Haltungsnote wird der **Schwierigkeitsgrad** der Übung addiert; Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen.
 
-    - Jede 1/4 Saltorotation erhält 0,1 Punkte;
-    - jede ½ Schraubendrehung ebenfalls 0,1 Punkte.
-    - Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte.
-    - Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
+  - Jede 1/4 Saltorotation erhält 0,1 Punkte;
+  - jede ½ Schraubendrehung ebenfalls 0,1 Punkte.
+  - Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte.
+  - Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
 
 - folgende **Anforderungen** werden an die **Haltung** gestellt:
 
-    - in allen Positionen sollen die Füße und Beine geschlossen sein (Ausnahme Grätschwinkelsprung) und Füße und Zehen gestreckt
-    - der Körper soll eindeutig gehockt, gebückt oder gestreckt sein
-    - in der Hock- und Bückposition sollen die Oberschenkel nahe dem Oberkörper sein
-    - die Arme sollen wann immer möglich gestreckt sein und/oder nahe am Körper gehalten werden
-    - bei **gestreckten Übungsteilen** muss der Winkel zwischen Oberkörper (OK) und Oberschenkel (OS) größer als 135 Grad sein
-    - bei **gebückten Sprüngen** muss der Winkel zwischen OK und OS kleiner als 135 Grad sein, der Winkel zwischen Ober- und Unterschenkel größer als 135 Grad
-    - bei **gehockten Sprüngen** müssen die Winkel zwischen OK und OS bzw. Ober- und Unterschenkel kleiner als 135 Grad sein
+  - in allen Positionen sollen die Füße und Beine geschlossen sein (Ausnahme Grätschwinkelsprung) und Füße und Zehen gestreckt
+  - der Körper soll eindeutig gehockt, gebückt oder gestreckt sein
+  - in der Hock- und Bückposition sollen die Oberschenkel nahe dem Oberkörper sein
+  - die Arme sollen wann immer möglich gestreckt sein und/oder nahe am Körper gehalten werden
+  - bei **gestreckten Übungsteilen** muss der Winkel zwischen Oberkörper (OK) und Oberschenkel (OS) größer als 135 Grad sein
+  - bei **gebückten Sprüngen** muss der Winkel zwischen OK und OS kleiner als 135 Grad sein, der Winkel zwischen Ober- und Unterschenkel größer als 135 Grad
+  - bei **gehockten Sprüngen** müssen die Winkel zwischen OK und OS bzw. Ober- und Unterschenkel kleiner als 135 Grad sein
 
 
 Literaturhinweise

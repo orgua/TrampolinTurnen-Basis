@@ -6,6 +6,8 @@
 Einführung ins Trampolinturnen
 ================================
 
+Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer.
+
 .. toctree::
    :maxdepth: 2
    :caption: Inhaltsverzeichnis
