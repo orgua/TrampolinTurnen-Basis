@@ -1,6 +1,13 @@
 Einführung ins TrampolinTurnen
 ==============================
 
+`Inhalt als Webseite <https://orgua.github.io/TrampolinTurnen-Basis/>`_
+
+`Inhalt als PDF -> TODO <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+
+Installation
+--------------
+
 Compiling this document needs Python 3 and a shell.
 For installation:
 
