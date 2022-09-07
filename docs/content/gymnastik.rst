@@ -1,4 +1,4 @@
-Gymnastik
+﻿Gymnastik
 ==========
 
 Wie bei allen anderen Sportarten auch, sollte dem eigentlichen Training immer eine den Erfordernissen der Sportart angepasste Erwärmung vorangestellt werden. So natürlich auch beim Trampolinturnen.

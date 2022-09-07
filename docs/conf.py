@@ -1,4 +1,4 @@
-# Configuration file for the Sphinx documentation builder.
+﻿# Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
@@ -28,6 +28,7 @@ language = 'de'
 
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
+# TODO: https://sphinxawesome.xyz/how-to/options/
 html_static_path = ['_static']
 
 # -- Options for LATEX output -------------------------------------------------

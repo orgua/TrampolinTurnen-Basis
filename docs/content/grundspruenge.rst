@@ -1,4 +1,4 @@
-Grundsprünge und Landungsarten
+﻿Grundsprünge und Landungsarten
 ==============================
 
 Im Folgenden sollen einfache TODO Sprünge auf dem Trampolin vorgestellt werden. Nach einer kurzen **Bewegungsbeschreibung** erfolgt dann eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.
@@ -20,7 +20,7 @@ Diese Sprünge sind so leicht, dass sie normalerweise von Anfängern ohne große
 Sitzlandung / Sitz
 ------------------
 
-Bewegungsbeschreibung:
+.. rubric:: Bewegungsbeschreibung
 
 - im Absprung Hüfte und Beine (gestreckt) nach vorne schieben, so dass eine Schräglage des gestreckten Körpers im höchsten Punkt erreicht wird
 - Arme getreckt neben den Ohren halten
@@ -29,14 +29,14 @@ Bewegungsbeschreibung:
 - bei der Landung die Hände neben/etwas hinter dem Gesäß abstützen, die Finger zeigen dabei nach vorne, der Oberkörper ist bei geradem Rücken leicht nach hinten geneigt
 - zum Stand die Hüfte nach vorne oben strecken; Arme getreckt vorne hoch führen
 
-Methodische Übungsreihe:
+.. rubric:: Methodische Übungsreihe
 
 - Demonstration des Trainers; besonders die Landeposition verdeutlichen
 - aus dem Stand Hüfte vorschieben, dann die Beine vorschieben und sich in den Sitz fallen lassen
 - aus dem Wippen Hüfte und Beine nach vorne Schieben, zusätzlich die Arme nach oben führen
 - Sprunghöhe immer weiter steigern
 
-Mögliche Fehler:
+.. rubric:: Mögliche Fehler
 
 - Beine und Hüfte werden nicht genug oder zu sehr nach vorne geschoben
 - die Hände stützen den Oberkörper in der Landung nicht ab

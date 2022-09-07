@@ -1,4 +1,4 @@
-Materialien
+﻿Materialien
 ===========
 
 Trainingsorganisation
@@ -29,6 +29,27 @@ Pflichtübungen
 --------------
 
 TODO
+
+.. note::
+    TEST für verschiedene Admonitions
+
+.. warning::
+    Don't eat yellow snow
+
+.. tip::
+    Try again
+
+.. caution::
+    Caution, Important
+
+
+*-------*-----------*---------------*
+| #     | P1        | P2            |
+*-------*-----------*---------------*
+| 1     | Hocke     | Grätsche      |
+*-------*-----------*---------------*
+| 2     | Hocke     | Grätsche      |
+*-------*-----------*---------------*
 
 Einführung in Wettkampfbestimmungen
 -----------------------------------

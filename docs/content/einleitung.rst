@@ -1,4 +1,4 @@
-Einleitung
+﻿Einleitung
 ===========
 
 *"Ein kleiner Traum vom Fliegen..."*
@@ -44,4 +44,4 @@ Ergänzend ist die **Rahmenhöhe** des Trampolins stetig vergrößert worden, um
 
 Weitere Unterschiede bestehen in der Art der benutzten Ständer. Ältere Geräte besitzen oft nur einfache Rollständer. Beim Aufbau des Trampolins muss dieses daher kurz angehoben werden. Neuere Modelle sind in mit **Heberollständern** ausgestattet, die ein Absenken des Trampolins erlauben.
 
-Eine **bebilderte Aufbauanleitung** ist im Internet unter `www.eurotramp.com <www.eurotramp.com>`_ zu finden.
+Eine **bebilderte Aufbauanleitung** ist im Internet unter `<www.eurotramp.com>`_ zu finden.

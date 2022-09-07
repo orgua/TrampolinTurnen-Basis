@@ -1,9 +1,13 @@
-Einführung ins TrampolinTurnen
+﻿Einführung ins TrampolinTurnen
 ==============================
 
-`Inhalt als Webseite <https://orgua.github.io/TrampolinTurnen-Basis/>`_
+[![pages-deployment](https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment)
 
-`Inhalt als PDF -> TODO <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+`Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen-Basis/>`_
+
+`Inhalt als PDF 📄 -> TODO <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+
+`Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
 
 Installation
 --------------

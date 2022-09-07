@@ -1,4 +1,4 @@
-Verbindung von Sprüngen
+﻿Verbindung von Sprüngen
 ==============================
 
 Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben. Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire erlaubt ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
