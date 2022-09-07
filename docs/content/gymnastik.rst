@@ -3,7 +3,7 @@
 
 Wie bei allen anderen Sportarten auch, sollte dem eigentlichen Training immer eine den Erfordernissen der Sportart angepasste Erwärmung vorangestellt werden. So natürlich auch beim Trampolinturnen.
 
-Das Trampolinturnen ist im Wesentlichen eine **Kraftsportart**. Das hat Einfluss auf die Art und den Umfang der Übungen, die bei der Gymnastik verwendet werden sollen. Weiterhin werden durch die Wettkampfbestimmungen Anforderungen an die **Beweglichkeit** der Aktiven gestellt, die mit dem Aufwärmen erlangt werden müssen. Als dritter wichtiger Aspekt bei der Gymnastik sollte nicht außer acht gelassen werden, dass das Trampolinturnen auch erhöhte Anforderungen an die **koordinativen Fähigkeiten** der Aktiven stellt (zum Beispiel Gleichgewichtsgefühl, die Fähigkeit, verschiedene Bewegungen zur gleichen Zeit auszuführen, ...), die ebenfalls bei der Erwärmung geschult werden können.
+Das Trampolinturnen ist im Wesentlichen eine **Kraftsportart**. Das hat Einfluss auf die Art und den Umfang der Übungen, die bei der Gymnastik verwendet werden sollen. Weiterhin werden durch die Wettkampfbestimmungen Anforderungen an die **Beweglichkeit** der Aktiven gestellt, die mit dem Aufwärmen erlangt werden müssen. Als dritter wichtiger Aspekt bei der Gymnastik sollte nicht außer Acht gelassen werden, dass das Trampolinturnen auch erhöhte Anforderungen an die **koordinativen Fähigkeiten** der Aktiven stellt (zum Beispiel Gleichgewichtsgefühl, die Fähigkeit, verschiedene Bewegungen zur gleichen Zeit auszuführen, ...), die ebenfalls bei der Erwärmung geschult werden können.
 
 Aus dem oben Gesagten lassen sich folgende Anforderungen an die Gymnastik beim Trampolinturnen formulieren:
 
@@ -47,7 +47,7 @@ Im Anschluss an die Erwärmung ist eine Einspringphase sehr sinnvoll. In dieser 
 Aufgaben des Trainers
 ---------------------
 
-Neben dem Anleiten gehören auch folgende Punkte zu den Aufgaben eines Trainers:
+Neben dem Anleiten der Erwärmung gehören auch folgende Punkte zu den Aufgaben eines Trainers:
 
 - Überblick über die Gruppe behalten (gerade bei Kindern)
 - Korrekturen anbieten und wichtige Punkte auch während der Durchführung ansprechen (Hohlkreuz, durchhängende Hüfte, Unsymmetrie, Verdrehung)

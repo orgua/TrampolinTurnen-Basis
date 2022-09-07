@@ -19,16 +19,6 @@ Die Trampoline werden direkt hintereinander gestellt, ohne die Weichböden dazwi
 
 Selbst mit nur einem Trampolin lässt sich etwas ähnliches umsetzen indem die Teilnehmer auf den Mattentischen starten und pro Übung jeweils aufs Trampolin gehen und anschließend die Seite wechseln. Mit diesem Kreislauf wird ein hoher Durchsatz erreicht.
 
-Grundregeln (TODO: zu sicherheit)
------------
-
-Es sollten sehr früh Grundregeln, ergänzend zu den Sicherheitsbestimmungen, etabliert werden:
-
-- Hauptblickrichtung immer die Stirnseite des Trampolins, daher nur Vielfache von halben Schrauben erlaubt
-- im Falle eines unerwarteten Ereignis (auch beim Verlassen des inneren Quadrats) lieber abstoppen
-- Knie im Tuch gestreckt lassen
-- im Falle eines Sturzes nicht mit den Händen abfangen, sondern versuchen auf den Rücken zu drehen
-
 Der erste Kontakt
 --------------------
 

@@ -3,6 +3,8 @@
 
 TODO
 
+Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire erlaubt ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
+
 Salto Rückwärts (gehockt)
 --------------------------
 

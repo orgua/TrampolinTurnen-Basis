@@ -32,6 +32,26 @@ Diese Sprünge lassen sich normalerweise von Anfängern ohne große Hilfe erlern
 .. tip::
     Hocke und Grätsche sind leichter erlernbar und für den Anfang ausreichend. Das Erlernen der Bücke kann auch zu einem späteren Zeitpunkt - beispielsweise nach dem Rückensprung - erfolgen.
 
+Schraubensprünge
+-----------------
+
+Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
+
+Es gibt zwei verschiedene Techniken, Schraubenbewegungen in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite Technik funktioniert nur bei Saltoverbindungen; es erfolgt in der Luft eine **asynchrone Armbewegung**, die eine Längsachsendrehung bewirkt.
+
+Bei den Sprüngen des hier behandelten Anfängerbereichs handelt es sich ausschließlich um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
+
+- im Tuch (in der Steigphase) eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist
+- je mehr der Körper gestreckt ist, desto schneller erfolgt die Schraubendrehung (wichtig: Arme dicht am Körper); Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
+- erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltobewegungen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
+- es kostet bis zu zehnmal mehr Kraft, einen gestreckter Salto auszuführen, als dies bei einer ganzen Schraube der Fall ist
+- Vorsicht! Je mehr Schraubenimpuls „mitgegeben“ wird, desto mehr ist davon auch im Tuch noch vorhanden; Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
+
+Spezielle Gewöhnungsübungen zu den Schraubensprüngen sind nicht unbedingt notwendig. Die Aktiven sollten sie ausprobieren (Sicherheitsstellung auf dem Rahmen ist hierbei wichtig) und zunächst mit geringen Schraubenmengen beginnen. Hierbei sollte auf **exakte Dosierung** der Sprünge geachtet werden. Es dürfen ruhig auch mal nicht wettkampfgerechte Schraubenbewegungen ausprobiert werden (z.B. ¼-Standsprungschraube).
+
+Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** werden. Wie beim Schreiben auch, gibt es Vorlieben für das Drehen nach rechts oder links. In welche Richtung der Turner sich dreht, ist egal; wichtig ist bloß, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren Drehrichtung zu „benutzen“, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
+
+
 Sitzlandung / Sitz
 ------------------
 
@@ -94,7 +114,7 @@ Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme
 
 - Demonstration durch den Trainer. Insbesondere auf die Position der Beine und Arme bei der Landung sollte eingegangen werden
 - Trockenposition auf dem Tuch einnehmen
-- Stempel-Hilfestellung: Trainer greift die Füße aus der Trockenposition und federt den Aktiven. Dieser versucht mit dem Oberkörper waagerecht zu bleiben
+- Stempel-Vorübung: Trainer greift die Füße aus der Trockenposition und federt den Aktiven. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
 - Geräteaufbau: TODO
     - zwei Turnbänke parallel stellen, darauf einen Weichboden (je nach Mattenhärte Abstand der Bänke variieren).
     - Seile verhindern ein Auseinanderrutschen der Bänke.
@@ -139,20 +159,22 @@ und auch angebracht ist.
 
 .. rubric:: Bewegungsbeschreibung
 
-- im Absprung Hüfte und Beine nach hinten schieben, bis der Körper gestreckt waagerecht in der Luft liegt
+- im Absprung Körper spannen und Beine streckt leicht nach hinten kicken (siehe Technik vom Sitzsprung), bis der Körper gestreckt waagerecht in der Luft liegt
+- Eine Nachjustierung der Rotation ist wie beim Rückensprung durch leichtes Abbücken oder Aufstrecken möglich (auch wenn die Form darunter leidet ist dies einer möglichen Verletzung vorzuziehen)
 - die Arme unterstützen den Absprung nach oben (sind gestellt)
-- die Arme befinden sich bei der Landung leicht gebeugt vor dem Kopf auf dem Tuch
-- der Kopf wird auf dem Trampolin etwas angehoben
-- die Beine sind bei der Landung gestreckt
-- im Moment der Landung drücken die Arme den gestreckten Körper aus dem Tuch
+- die Arme befinden sich bei der Landung leicht gebeugt vor dem Gesicht auf dem Tuch -> Hände können flach aufliegen, Schulterblätter sind zusammengezogen und Ellenbogen nach vorne/oben gezogen (damit diese nicht aufliegen bzw. aufreiben)
+- der Kopf wird auf dem Trampolin etwas angehoben - der Blick kann zur Mattenkante gerichtet sein
+- die Beine sind bei der Landung gestreckt und geschlossen
+- im Moment des erneuten Abhebens drücken die Arme den gestreckten Körper aus dem Tuch
 - die Arme werden beim Aufstehen gestreckt an den Körper gelegt und erst kurz vor dem erneuten Landen vorne hoch geführt
 
 .. rubric:: Methodische Übungsreihe
 
 - Demonstration durch jemanden, der den Sprung in der Feinform beherrscht
 - Demonstration der Landeposition; insbesondere der Arme und Beine
+- Trockenposition auf dem Tuch einnehmen (testen Spannung der geschlossenen Beine, abgehobene Ellenbogen, ...)
 - Übungen auf derselben Bank-Matte-Konstruktion wie bei der Rückenlandung
-- Bankstellung auf dem Tuch; aus dem leichten Wippen den Körper strecken
+- Bankstellung auf dem Tuch; aus dem leichten Wippen den Füße nach hinten strecken (grobe Richtung ist unter die Abdeckung der Federn), der Oberkörper sollte gerade herunterfallen (Bauchnabel über Kreuz als Test)
 - Liegestützposition (mit immer spitzer werdendem Winkel zwischen Ober- und Unterkörper):
     leichtes Wippen, Körper strecken und auf dem Bauch landen TODO
 - Körper immer weiter aufrichten
@@ -161,34 +183,13 @@ und auch angebracht ist.
 
 .. rubric:: Hilfestellung
 
-Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen (Unterstützungspunkte: Oberkörper und Oberschenkel).
+Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel. Das ermöglicht neben der Ausrichtung in die Waagerechten auch das Stoppen einer Vorwärtsbewegung.
 
 .. rubric:: Häufige Fehler
 
-- der Oberkörper wird im Absprung zu sehr und/oder zu früh nach vorne gekippt: auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“)
+- der Oberkörper wird im Absprung oder schon im Tuch nach vorne gekippt: Vorwärtsbewegung; Auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“)
 - die Hüfte knickt in der Luft zu sehr ab (oder zu viel Schwung): der „Beinschub“ muss genau dosiert sein
 - die Arme werden nicht auf das Tuch aufgelegt, sondern die Ellenbogen werden aufgesetzt: Achtung, Verletzungsgefahr!
 - die Beine sind bei der Landung angewinkelt
 - zu wenig Spannung in der Landung; der Turner bleibt quasi auf dem Tuch liegen
 - die Arme wirbeln beim Aufstehen unkontrolliert durch die Luft: Arme ruhig an den Körper anlegen
-
-Schraubensprünge
------------------
-
-Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
-
-Es gibt zwei verschiedene Techniken, Schraubenbewegungen in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite Technik funktioniert nur bei Saltoverbindungen; es erfolgt in der Luft eine **asynchrone Armbewegung**, die eine Längsachsendrehung bewirkt.
-
-Bei den Sprüngen des hier behandelten Anfängerbereichs handelt es sich ausschließlich um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
-
-- im Tuch (in der Steigphase) eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist
-- je mehr der Körper gestreckt ist, desto schneller erfolgt die Schraubendrehung (wichtig: Arme dicht am Körper); Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
-- erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltobewegungen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
-- es kostet bis zu zehnmal mehr Kraft (gestreckter Salto), einen Salto auszuführen, als dies bei einer ganzen Schraube der Fall ist
-- Vorsicht! Je mehr Schraubenimpuls „mitgegeben“ wird, desto mehr ist davon auch im Tuch noch vorhanden; Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
-
-Spezielle Gewöhnungsübungen zu den Schraubensprüngen sind nicht unbedingt notwendig. Die Aktiven sollten sie ausprobieren (Sicherheitsstellung auf dem Rahmen ist hierbei wichtig) und zunächst mit geringen Schraubenmengen beginnen. Hierbei sollte auf **exakte Dosierung** der Sprünge geachtet werden. Es dürfen ruhig auch mal nicht wettkampfgerechte Schraubenbewegungen ausprobiert werden (z.B. ¼-Standsprungschraube).
-
-Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** werden. Wie beim Schreiben auch, gibt es Vorlieben für das Drehen nach rechts oder links. In welche Richtung der Turner sich dreht, ist im Endeffekt egal; wichtig ist bloß, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren Drehrichtung zu „benutzen“, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
-
-TODO: Schraube nach Standsprung

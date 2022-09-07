@@ -1,7 +1,7 @@
 ﻿Verbindung von Sprüngen
 ==============================
 
-Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben. Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire erlaubt ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
+Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
 
 TODO: querlink, Salto verschoben
 TODO: doppelpunkt nach bewegungsbeschreibung und co entfernen, dafür bold
@@ -12,19 +12,19 @@ Sitz - ½ Schraube zum Stand
 .. rubric:: Bewegungsbeschreibung
 
 - nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt
-- im Tuch wird durch ein Drehen der Hüfte die gewünschte Schraube erzeugt
+- um die Schraube einzuleiten führt einer der Arme die Bewegung an (linker Arm für Schraube linksherum)
 
 .. rubric:: Häufige Fehler
 
-- die Hüfte wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Schwung
+- die Hüfte wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
 
 ½ Schraube zum Sitz
 ---------------------
 
 .. rubric:: Bewegungsbeschreibung
 
-- im Absprung Hüfte und Beine (gestreckt) nach **hinten** schieben, so dass eine Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
-- im Tuch Drehung in die gewünschte Richtung einleiten
+- im Absprung Beine (gestreckt) nach **hinten** schieben, so dass eine Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
+- im Tuch mit der Schulter eine Drehung in die gewünschte Richtung einleiten
 - Arme getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
 
@@ -32,6 +32,7 @@ Sitz - ½ Schraube zum Stand
 
 - Demonstration des Trainers
 - im Stand das Bein auf der Seite der gewünschten Drehrichtung getreckt nach hinten stellen: das andere Bein als Standbein unter dem Körper leicht beugen; Oberkörper vorbeugen, die Arme befinden sich gestreckt neben den Ohren (der Körper ist nun komplett gestreckt); drehen und sich in den Sitz fallen lassen
+- aus dem Wippen heraus abspringen, mit dem Zeigefinger einer Hand (Rechte Hand für Schraube nach Links) nach vorne in die Luft tippen (das leitet sowohl Vorlage als auch Rotation ein)
 - aus dem Wippen Beine nach hinten schieben, drehen und im Sitz landen
 - Sprunghöhe immer weiter steigern
 

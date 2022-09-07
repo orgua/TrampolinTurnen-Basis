@@ -13,25 +13,27 @@ Geräteauf- und Abbau
 
 Besondere Beachtung im Hinblick auf die Sicherheit beim Trampolinturnen muss zu aller erst dem Auf- und Abbau der Geräte geschenkt werden. Durch die Größe der Trampoline bedingt haben die Hersteller ein kompliziertes aber effektives Verfahren entwickelt, ein Trampolin möglichst klein „zusammenzufalten“.
 
-Dieses Verfahren muss von den Aktiven und Trainern regelrecht **auswendig** gelernt werden, um mögliche Gefahren beim Auf- und Abbau eines Trampolins zu minimieren. Dabei steht vor allem die körperliche Unversehrtheit der Aktiven im Vordergrund; nicht ohne Bedeutung ist jedoch auch, dass das Trampolin bei unsachgemäßer Handhabung **erheblichen Schaden** davontragen kann - und so ein Gerät ist nicht billig!
+Dieses Verfahren muss von den Aktiven und Trainern verinnerlicht (sprich **auswendig** gelernt und geübt) werden, um mögliche Gefahren beim Auf- und Abbau eines Trampolins zu minimieren. Dabei steht vor allem die körperliche Unversehrtheit der Aktiven im Vordergrund; nicht ohne Bedeutung ist jedoch auch, dass das Trampolin bei unsachgemäßer Handhabung **erheblichen Schaden** davontragen kann - und so ein Gerät ist nicht billig!
 
 Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 
 - die Aktiven müssen regelmäßig auf die Gefahren beim Auf- und Abbau hingewiesen werden. Dies gilt insbesondere für Neulinge und Kinder
 - der Auf- und Abbau darf nur unter der Aufsicht erfahrener Lehrkräfte erfolgen
-- beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände geachtet werden und ein Überfahren vermieden werden
+- Mitwirkende sollten feste, geschlossene Turnschuhe tragen
+- beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet werden und ein Überfahren vermieden werden
 - beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu
 - beim Kippen des Geräts darauf achten, dass die Ketten frei beweglich sind und nirgendwo hängenbleiben
-- darauf achten, dass die Metallbügel beim Kippen nicht unkontrolliert auf den Boden fallen
+- darauf achten, dass der **innere Metallbügel** beim Kippen nicht **unkontrolliert auf den Boden fällt** -> Der Aufprall verbiegt sehr schnell die Aufnahme für die Querstangen
 - bevor die Heberollständer entfernt werden, erst alle vier Ketten einhängen und kontrollieren; beim Einhängen der Ketten darauf achten, dass diese nicht verdreht sind
 - beim Aufklappen des Trampolins beide Seitenflügel festhalten und nicht fallen lassen
-- der zweite Seitenflügel muss zunächst kräftig gezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Seitenflügels notwendig.
+- der zweite Seitenflügel muss kräftig aufgezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Seitenflügels notwendig.
 - beim Aufklappen sollte möglichst nur je eine Person auf jeder Seite heben. Ansonsten kann es passieren, dass man sich im Weg steht. Des weiteren ist darauf zu achten, dass keine Gegenstände im Weg liegen, über die man stolpern könnte.
 - erst eine Seite komplett mit Hilfe der Fußstützen befestigen - und erst dann mit dem zweiten Flügel fortfahren
 - die Heberollständer sollten in sicherer Entfernung zu den Aktiven gelagert werden – am besten im Geräteraum
-- die Stirnseiten des Trampolins müssen mit Weichböden abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die gleiche Höhe wie das Trampolin haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
+- die Stirnseiten des Trampolins müssen mit Weichböden bzw. Trampolintischen abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die gleiche Höhe wie das Trampolin haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
 - die Längsseiten des Trampolins mit Bodenmatten und/oder Turnmatten sichern
-- vor Benutzen des Trampolins erst den korrekten Aufbau überprüfen; die Fußstützen sollen eingerastet, die Federn mit dem Haken nach unten montiert und die Ketten gespannt sein - beim Zusammenklappen verhindern, dass die Seitenteile herunterfallen; bei der ersten Seite ist zu beachten, dass das Tuch noch unter Spannung steht
+- vor Benutzen des Trampolins erst den korrekten Aufbau überprüfen; die Fußstützen sollen eingerastet, die Federn mit dem Haken nach unten montiert und die Ketten gespannt sein
+- beim Zusammenklappen verhindern, dass die Seitenteile herunterfallen; bei der ersten Seite ist zu beachten, dass das Tuch noch unter Spannung steht
 - die Metallbügel der Heberollständer müssen nach oben zeigen
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
 
@@ -42,14 +44,22 @@ Organisatorische Maßnahmen beim Training
 
 Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven zu beachten:
 
-- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollten natürlich auch entsprechend aufmerksam sein.
+- das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
+- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollten natürlich auch entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive wird nicht aufgefangen sondern zurück aufs Trampolin befördert
 - neben und hinter dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
-- in der Regel sollte niemand auf den Rahmen oder den dicken Matten sitzen
-- nie unter das Trampolin kriechen während sich eine Person darauf befindet.Grundausbildung Trampolinturnen Seite 6
+- in der Regel sollte niemand auf den Rahmen oder den Matten an den Stirnseiten (Mattentische) sitzen
+- nie unter das Trampolin kriechen während sich eine Person darauf befindet
 - vom Trampolin sollte heruntergeklettert und nicht gesprungen werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
 - auf dem Trampolin kein Kaugummi oder Bonbon im Mund behalten
-- keine Ketten, Uhren oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
+- gesprungen wird mit Strümpfen oder Turnschläppchen (nicht barfuß oder in Turnschuhen)
+- keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
 - beim Springen sollten die Aktiven möglichst enge Kleidung tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben. Keine Kapuzen!
+- weitere ungeeignete Kleidung: Zehensocken, Jeans (Abrieb), Gürtel mit Gürtelschnallen, Kleidung mit Metallteilen wie Reißverschlüssen oder Nieten
+- neue Sprungelemente sind vorher mit dem Trainer abzusprechen. Dies gilt insbesondere für Sprünge mit Saltorotation sowie Landungen in Bauch- oder Rückenlage.
+- Hauptblickrichtung immer die Stirnseite des Trampolins, daher nur Vielfache von halben Schrauben erlaubt
+- im Falle eines unerwarteten Ereignis Springen (auch beim Verlassen des inneren Quadrats) lieber abstoppen
+- im Falle eines Sturzes nicht mit den Händen abfangen, sondern versuchen auf den Rücken zu drehen
+- Knie sind im Tuch gestreckt (ansonsten Gefahr ab gewissen Sprunghöhen)
 
 Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut gemacht werden. Für einen möglichst ungefährlichen Stundenablauf ist die Einhaltung dieser Regeln absolut unerlässlich!
 
@@ -68,9 +78,11 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Der Trainer steht dann meist nur noch auf dem Rahmen:
 
 - während der Ausführung eines Sprunges muss immer Blickkontakt zum Übenden gehalten werden
-- direkt nach dem Absprung betritt der Trainer das Tuch und folgt der Bewegung des Aktiven mit schnellen, kleinen Schritten, um bei der Landung direkt neben diesem zu stehen
+- direkt nach dem Absprung betritt der Trainer das Tuch und folgt der Bewegung des Aktiven mit schnellen, kleinen Schritten, um bei der Landung direkt neben diesem zu stehen (tiefes Stehen ermöglicht schnellere Bewegung)
 - bei der Landung muss der Trainer wiederum mit beiden Beinen sicher auf dem Trampolin stehen bleiben
 - jederzeit auf ein abweichendes Verhalten des Übenden gefasst sein (z.B. Absprung vor „3“) TODO
+
+TODO: Hilfestellungen, oder später beim Sprung?
 
 Einsatz der Schiebematte
 ------------------------
