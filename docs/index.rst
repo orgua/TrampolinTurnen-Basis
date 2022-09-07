@@ -17,7 +17,8 @@ Einführung ins Trampolinturnen
    content/spiele
    content/grundspruenge
    content/sprungverbindung
-   content/fortsprung
+.. content/fortsprung
+
    content/materialien
 
 ..

@@ -19,10 +19,9 @@ In den USA bauten **L. Grisworld** und **George Nissen** 1928 ein erstes „mode
 
 Der **erste Trampolinwettkampf** fand 1947 in Dallas/Texas statt; 1955 wurde das erste Trampolin nach Europa (Schweiz) gebracht. Auf einem Kongress des Internationalen Turnerbundes wurde 1959 das Trampolinturnen als selbstständige Sportdisziplin anerkannt.
 
-Anfang 1964 ergriff der Deutsche Turner-Bund (DTB) die Initiative und lud diejenigen Verbände aus Europa und Übersee zu einer Sitzung ein, welche die ästhetisch schöne Sportart betrieben. Nachdem ein Aufnahmegesuch vom Internationalen Turnerbund (Fédération Internationale de Gymnastique, FIG) abgelehnt worden war, wurde ein eigener Verband, der **Internationale Trampolin-Verband** (Fédération Internationale de Trampoline, FIT), gegründet. Die ersten Mitgliedsländer waren: Belgien, Großbritannien, Schweiz, Niederlande, Südafrika, Luxemburg, USA und Deutschland. Heute sind dem Internationalen Verband 41 nationale
-Landesverbände angeschlossen.
+Anfang 1964 ergriff der Deutsche Turner-Bund (DTB) die Initiative und lud diejenigen Verbände aus Europa und Übersee zu einer Sitzung ein, welche die ästhetisch schöne Sportart betrieben. Nachdem ein Aufnahmegesuch vom Internationalen Turnerbund (Fédération Internationale de Gymnastique, FIG) abgelehnt worden war, wurde ein eigener Verband, der **Internationale Trampolin-Verband** (Fédération Internationale de Trampoline, FIT), gegründet. Die ersten Mitgliedsländer waren: Belgien, Großbritannien, Schweiz, Niederlande, Südafrika, Luxemburg, USA und Deutschland. Heute sind dem Internationalen Verband 41 nationale Landesverbände angeschlossen.
 
-Es folgten zahlreiche Wettkämpfe wie z.B.:
+Es folgten zahlreiche Wettkämpfe wie z.B.
 
 1960 erste Deutsche Einzel- und Mannschaftsmeisterschaften
 1964 erste Weltmeisterschaften in London
@@ -38,7 +37,7 @@ Gerätekunde
 
 Im Laufe der Zeit sind viele unterschiedliche Trampolintypen entwickelt worden. Die heute 4.26 m langen und 2.13 m breiten **Tücher** bestehen aus elastischen Nylonbändern, die miteinander verknüpft sind. Inklusive Rahmen ist das aufgebaute Gerät 5.20 m x 3.05 m groß und 1.15 m hoch.
 
-Ältere Tücher bestehen aus Bändern, die 12 oder sogar 45 mm breit sind. Geräte neuerer Generation haben Tücher aus 6mm-Bändern. Die neueste Entwicklung sind Tücher aus einer Kombination von 4mm- und 6mm-Bändern. Sie alle unterscheiden sich vor allem hinsichtlich ihrer Wurfkraft, die immer weiter verbessert wurde.
+Ältere Tücher bestehen aus Bändern, die 12 oder sogar 45 mm breit sind. Geräte neuerer Generation haben Tücher aus 4mm- und 6mm-Bändern. Zunächst wurden beide Breiten in Kombination je für Längs- und Querrichtung verwendet, doch gibt es inzwischen auch reine 4mm-Tücher. Die Versionen unterscheiden sich vor allem hinsichtlich ihrer Wurfkraft, die immer weiter verbessert wurde.
 
 Ergänzend ist die **Rahmenhöhe** des Trampolins stetig vergrößert worden, um eine größere Ausdehnung der Tücher nach unten zu erlauben. Das Tuch selbst ist an 118 Stahlfedern am Rahmen befestigt. Über den Federn ist zum Schutz der Aktiven eine **Schaumstoffabdeckung** angebracht. Fehlt diese, so sollte darauf verzichtet werden, das Gerät zu benutzen.
 

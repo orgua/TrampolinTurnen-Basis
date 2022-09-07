@@ -1,5 +1,5 @@
-﻿Unfallverhütungs- und Sicherheitsmaßnahmen
-============================================
+﻿Sicherheit
+=====================
 
 Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den `Geräteauf- und Abbau`_ sowie die äußere **Organisation der Trainingsstunde** TODO. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den **Einsatz von Hilfsmitteln** betrifft.
 
@@ -26,7 +26,7 @@ Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 - bevor die Heberollständer entfernt werden, erst alle vier Ketten einhängen und kontrollieren; beim Einhängen der Ketten darauf achten, dass diese nicht verdreht sind
 - beim Aufklappen des Trampolins beide Seitenflügel festhalten und nicht fallen lassen
 - der zweite Seitenflügel muss zunächst kräftig gezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Seitenflügels notwendig.
-- beim Aufklappen sollte möglichst nur je eine Person auf jeder Seite heben. Ansonsten kann es passieren, dass man sich im Weg steht. Desweiteren ist darauf zu achten, dass keine Gegenstände im Weg liegen, über die man stolpern könnte.
+- beim Aufklappen sollte möglichst nur je eine Person auf jeder Seite heben. Ansonsten kann es passieren, dass man sich im Weg steht. Des weiteren ist darauf zu achten, dass keine Gegenstände im Weg liegen, über die man stolpern könnte.
 - erst eine Seite komplett mit Hilfe der Fußstützen befestigen - und erst dann mit dem zweiten Flügel fortfahren
 - die Heberollständer sollten in sicherer Entfernung zu den Aktiven gelagert werden – am besten im Geräteraum
 - die Stirnseiten des Trampolins müssen mit Weichböden abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die gleiche Höhe wie das Trampolin haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
@@ -46,17 +46,17 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 - neben und hinter dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
 - in der Regel sollte niemand auf den Rahmen oder den dicken Matten sitzen
 - nie unter das Trampolin kriechen während sich eine Person darauf befindet.Grundausbildung Trampolinturnen Seite 6
-- vom Trampolin sollte heruntergeklettert und nicht gesprungen werden
+- vom Trampolin sollte heruntergeklettert und nicht gesprungen werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
 - auf dem Trampolin kein Kaugummi oder Bonbon im Mund behalten
 - keine Ketten, Uhren oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
-- beim Springen sollten die Aktiven möglichst enge Kleidung tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben.
+- beim Springen sollten die Aktiven möglichst enge Kleidung tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben. Keine Kapuzen!
 
 Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut gemacht werden. Für einen möglichst ungefährlichen Stundenablauf ist die Einhaltung dieser Regeln absolut unerlässlich!
 
 Hilfe- und Sicherheitsstellung
 ------------------------------
 
-Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Hinzu kommt, dass die Aktiven möglichst schnell von der Schiebematte „entwöhnt“ werden können. Gerade bei diesen (für den Trampoliner häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, der der Springer auch **vertrauen** kann, äußerst wichtig. Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer hier mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
+Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Hinzu kommt, dass die Aktiven möglichst schnell von der Schiebematte „entwöhnt“ werden können. Gerade bei diesen (für den Aktiven häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, der der Springer auch **vertrauen** kann, äußerst wichtig. Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer hier mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
 Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Dazu ein paar kleine Übungsformen:
 

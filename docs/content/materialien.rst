@@ -23,7 +23,17 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 Trainingsorganisation Studium
 -----------------------------
 
-Todo
+Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs innerhalb eines Semesters mit einer wöchentlichen Doppelstunde gut umsetzen.
+
+- Tuchgewöhnung, Stoppsprung, Armbewegung, Strecksprung
+- Hocke & Grätsche
+- Schrauben
+- Sitzsprung
+- Rückensprung
+- Bauchsprung
+- Bücke
+- Salto rückwärts
+- Salto vorwärts und Barani (für ganz schnelle)
 
 Pflichtübungen
 --------------
@@ -43,13 +53,23 @@ TODO
     Caution, Important
 
 
-*-------*-----------*---------------*
-| #     | P1        | P2            |
-*-------*-----------*---------------*
-| 1     | Hocke     | Grätsche      |
-*-------*-----------*---------------*
-| 2     | Hocke     | Grätsche      |
-*-------*-----------*---------------*
+.. table:: Pflichtübungen P1 - P4
+    :widths: auto
+
+    ======  ==========  ==========  ==========  ==========
+    #       P1          P2          P3          P4
+    ======  ==========  ==========  ==========  ==========
+    1       Sitz        Sitz        Sitz        ½ Sitz
+    2       ½ Stand     ½ Stand     ½ Sitz      ½ Sitz
+    3       Grätsche    Grätsche    Stand       ½ Stand
+    4       ½ Schraube  Sitz        Hocke       Grätsche
+    5       Hocke       Stand       ½ Sitz      Rücken
+    6       -           Hocke       ½ Stand     Stand
+    7       -           ½ Schraube  Grätsche    ½ Schraube
+    8       -           -           Sitz        Hocke
+    9       -           -           Stand       1 Schraube
+    10      -           -           1 Schraube  Bücke
+    ======  ==========  ==========  ==========  ==========
 
 Einführung in Wettkampfbestimmungen
 -----------------------------------
@@ -61,7 +81,7 @@ Einführung in Wettkampfbestimmungen
 - Die Übungen werden zum einen nach der ästhetischen Ausführung (Haltungsnote) und zum anderen nach dem technischen Inhalt (Schwierigkeitsgrad) bewertet.
 - Im Einzelwettkampf beurteilen 5 Haltungskampfrichter unabhängig voneinander die **Ausführung**. Von den 5 Noten wird die höchste und niedrigste gestrichen und die 3 verbleibenden addiert.
 - Zu dieser Haltungsnote wird der **Schwierigkeitsgrad** der Übung addiert.
-    Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen. Jede 1/4 Saltodrehung erhält 0,1 Punkte; jede ½ Schraubendrehung ebenfalls 0,1 Punkte. Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte. Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
+    Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen. Jede 1/4 Saltorotation erhält 0,1 Punkte; jede ½ Schraubendrehung ebenfalls 0,1 Punkte. Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte. Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
 - folgende **Anforderungen** werden an die **Haltung** gestellt:
     - in allen Positionen sollen die Füße und Beine geschlossen sein (Ausnahme Grätschwinkelsprung) und Füße und Zehen gestreckt
     - der Körper soll eindeutig gehockt, gebückt oder gestreckt sein

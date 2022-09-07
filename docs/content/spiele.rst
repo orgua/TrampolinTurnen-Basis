@@ -6,7 +6,7 @@ Ohne Materialien
 
 - Gehen (vorwärts, rückwärts)
 - Krabbeln (vorwärts, rückwärts, seitwärts)
-- Laufen (vorwärts, rückwärts, anfersen, Kniehebelauf)
+- Laufen (vorwärts, rückwärts, Anfersen, Kniehebelauf)
 - „Moon walk“
 - Schrittsprünge (nicht weit – man soll die „Schwerelosigkeit spüren“). Achtung: Im Knie fest bleiben
 - Rollen (vorwärts, rückwärts)
@@ -18,7 +18,7 @@ Ohne Materialien
     - Frosch („Froschhüpfer“)
     - Robbe (Seitwärtsrollen)
     - Spinne („Vierfüßlergang“ rücklings)
-    - Stinktier (auf allen Vieren gleichzeitig hüfen und mit dem Handabdruck die Hände nach unten Strecken
+    - Stinktier (auf allen Vieren gleichzeitig hüpfen und mit dem Handabdruck die Hände nach unten Strecken
 - „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung: um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
 - Springen und auf Signal stehen bleiben
 
@@ -64,7 +64,8 @@ Materialien: 1 Turnmatte
 - gewonnen hat derjenige, der den anderen fängt (= mit den Händen berührt)
 - hat ein Spieler gewonnen, ist das nächste Paar an der Reihe
 
-ACHTUNG: bei rutschigen Socken können die Läufer evtl. ausrutschen!
+.. warning::
+    Bei rutschigen Socken können die Läufer eventuell ausrutschen!
 
 Pferderennen
 ~~~~~~~~~~~~~~~~~~~~~~~
