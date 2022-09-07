@@ -16,7 +16,10 @@ builder = "html latexpdf"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "sphinxawesome_theme",
+    "sphinx_sitemap",
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -25,6 +28,10 @@ language = 'de'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
+
+html_title = "Einführung in das Trampolinturnen"
+html_collapsible_definitions = True
+html_copy_source = False
 
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
@@ -37,7 +44,11 @@ html_theme_options = {
     },
 }
 # TODO: https://sphinxawesome.xyz/how-to/options/
+html_baseurl = 'https://orgua.github.io/TrampolinTurnen-Basis/'
+html_extra_path = ['robots.txt']
 html_static_path = ['_static']
+
+sitemap_url_scheme = "{link}"
 
 # -- Options for LATEX output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/latex.html
