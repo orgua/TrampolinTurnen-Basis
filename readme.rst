@@ -1,7 +1,9 @@
 ﻿Einführung ins TrampolinTurnen
 ==============================
 
-[![pages-deployment](https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment)
+.. image:: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment/badge.svg
+    :target: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment
+    :name: pages-deployment
 
 `Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen-Basis/>`_
 
@@ -43,7 +45,7 @@ Viewing the document in a browser:
     python3 -m http.server
 
 
-In browser go to `localhost:8000`_ to view the documentation.
+In browser go to `<localhost:8000>`_ to view the documentation.
 
 Generating a PDF
 ----------------

@@ -76,7 +76,7 @@ Armeinsatz
 
 Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte auch der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden.
 
-Grundsätzlich gilt beim Trampolinturnen, dass die Arme vor jedem Absprung sich zur Decke getreckt neben dem Kopf befinden (in der Trampolin-Sprache: die Arme sind **„gestellt“**). Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz:
+Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden (in der Trampolin-Sprache: die Arme sind **„gestellt“**). Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz:
 
 - Demonstration auf dem Boden (langsam) um den eigentlichen Bewegungsablauf deutlich zu machen
 - Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hockposition heraus. Die Arme werden dabei vorne gestreckt nach oben neben den Kopf geführt. Zum Schwungholen werden die Arme seitlich am Körper heruntergeführt.

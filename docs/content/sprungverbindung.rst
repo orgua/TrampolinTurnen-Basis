@@ -38,34 +38,39 @@ Sitz - ½ Schraube zum Stand
 
 .. rubric:: Häufige Fehler
 
-- Beine und Hüfte werden nicht genug oder zu sehr nach hinten geschoben
+- Beine werden nicht genug oder zu sehr nach hinten geschoben
 - die Schraube wird zu früh eingeleitet: erst die Beine schieben
 - die Hüfte wird zu früh angewinkelt: schräge Landung
 - der Kopf bleibt zu lange stehen: Kopf soll sich mit dem gesamten Körper in die gewünschte Drehrichtung bewegen; möglichst früh wieder die Orientierung zum Tuch finden
 
 .. rubric:: Hilfestellung
 
-- der Trainer/Helfende steht auf der der Drehrichtung entgegengesetzten Seite des Aktiven und faßt von hinten die Hüften; in der Luft wird die Drehung an den Hüften unterstützt
+- der Trainer/Helfende steht auf der der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an den Hüften unterstützt
 
 Sitz - ½ Schraube zum Sitz
 -----------------------------
 
 .. rubric:: Bewegungsbeschreibung
 
-- nach der Sitzlandung werden die Hüfte gestreckt und die Beine nach hinten geschoben (vergleiche auch ½ Schraube zum Sitz)
-- noch im Tuch wird bei gestrecktem Körper die Schraube eingeleitet (Arme gestreckt am Kopf)
+- nach der Sitzlandung drückt sich der Springer kräftig mit den Händen ab
+- die Hüfte wird gestreckt und die Beine nach hinten geschoben (vergleiche auch ½ Schraube zum Sitz)
+- die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer Loalawelle, nur mit Schraube)
 - die Landung erfolgt wie beim Sitzsprung
+
+.. rubric:: Methodische Übungsreihe
+
+- Armbewegung trocken im Stand üben
+- Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage verpassen um den anschließenden Sitz zu ermöglichen
 
 .. rubric:: Häufige Fehler
 
 - der Oberkörper kippt zu früh nach vorne: zu geringe Höhe und Schraubenmenge
-- der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter
+- der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt
 
 Weiterführung
 --------------
 
 TODO
-# comment
 
 - Rücken - ½ Schraube Stand
 - Stand - ½ Schraube in den Rücken
