@@ -6,14 +6,13 @@ Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf eine
 Rechte und Pflichten
 ---------------------
 
-**Innerhalb der Sportstunde werdet ihr:**
+.. rubric:: Innerhalb der Sportstunde werdet ihr
 
 - die Verantwortung für eine Trainingsgruppe übernehmen
 - den Trainingsbetrieb leiten
 - Training, Fahrten, Feiern, Lehrgänge, Trainingslager, usw. organisieren
 - typische Gefahrenquellen an den Geräten zur Unfallvermeidung abschätzen
-- bei Unfällen schnell handeln und vorab Wissen über den Ablauf einer Unfallmeldung 
-  erwerben
+- bei Unfällen schnell handeln und vorab Wissen über den Ablauf einer Unfallmeldung erwerben
 - Kenntnisse über Haftungsfragen des Vereins besitzen
 - neue Ideen einbringen
 - die Kinder anspornen
@@ -23,17 +22,14 @@ Rechte und Pflichten
   *"Ihr beeinflusst durch euer Verhalten indirekt das Verhalten der Einzelnen     
   zueinander und das Verhalten der Gruppe nach außen."*
   
- **Aufsichtspflicht**
- 
- 
-..§ 832 BGB [Haftung des Aufsichtspflichtigen]::
-    Zu spät gekommene Teilnehmer sollen nicht gleich einsteigen, sondern erst einmal selbstständig warm werden.
-(1) 1 Wer kraft Gesetzes zur Führung der Aufsicht über eine Person verpflichtet ist, die wegen Minderjährigkeit oder wegen ihres geistigen oder körperlichen Zustandes der Beaufsichtigung bedarf, ist zum Ersatze des Schadens verpflichtet, den diese Person einem Dritten widerrechtlich zufügt. 2 Die Ersatzpflicht tritt nicht ein, wenn er seiner Aufsichtspflicht genügt oder wenn der Schaden auch bei gehöriger Aufsichtsführung entstanden sein würde.
-(2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die Führung der Aufsicht durch Vertrag übernimmt.
-[Dieser Vertrag kann mündlich, schriftlich oder stillschweigend geschlossen werden.]
-1	nicht die tatsächliche Übernahme (fremde Kinder spielen mit eigenen in eigener Wohnung)
-      2 gleichgültig, ob entgeltlich oder unentgeltlich, vorübergehend oder länger andauernd
---> nicht erforderlich, dass der Vertrag mit Aufsichtspflichtigem oder dem Aufsichtsbedürftigem geschlossen ist - Abschluss mit einem Dritten genügt
+.. rubric:: Aufsichtspflicht - § 832 BGB Haftung des Aufsichtspflichtigen
+
+(1) Wer kraft Gesetzes zur Führung der Aufsicht über eine Person verpflichtet ist [1]_, die wegen Minderjährigkeit oder wegen ihres geistigen oder körperlichen Zustands der Beaufsichtigung bedarf, ist zum Ersatz des Schadens verpflichtet, den diese Person einem Dritten widerrechtlich zufügt. Die Ersatzpflicht tritt nicht ein, wenn er seiner Aufsichtspflicht genügt oder wenn der Schaden auch bei gehöriger Aufsichtsführung entstanden sein würde.
+(2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die Führung der Aufsicht durch Vertrag [2]_ übernimmt [3]_.
+
+.. [1] gleichgültig, ob entgeltlich oder unentgeltlich, vorübergehend oder länger andauernd
+.. [2] Dieser Vertrag kann mündlich, schriftlich oder stillschweigend geschlossen werden. Es ist nicht erforderlich, dass der Vertrag mit Aufsichtspflichtigem oder dem Aufsichtsbedürftigem geschlossen ist - Abschluss mit einem Dritten genügt.
+.. [3] Nicht die tatsächliche Übernahme (fremde Kinder spielen mit eigenen in eigener Wohnung) ??? TODO
 
 
 Geräteauf- und Abbau
