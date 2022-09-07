@@ -23,9 +23,11 @@ Anfang 1964 ergriff der Deutsche Turner-Bund (DTB) die Initiative und lud diejen
 
 Es folgten zahlreiche Wettkämpfe wie z.B.
 
-1960 erste Deutsche Einzel- und Mannschaftsmeisterschaften
-1964 erste Weltmeisterschaften in London
-1969 erste Europameisterschaften in Paris im Einzel- und Synchronturnen
+    1960 erste Deutsche Einzel- und Mannschaftsmeisterschaften
+
+    1964 erste Weltmeisterschaften in London
+
+    1969 erste Europameisterschaften in Paris im Einzel- und Synchronturnen
 
 Diese Meisterschaften werden seitdem regelmäßig durchgeführt, wobei die Deutschen Meisterschaften jedes Jahr und die Europa- und Weltmeisterschaften seit 1968 bzw. 1969 im Zwei-Jahres-Turnus durchgeführt werden.
 

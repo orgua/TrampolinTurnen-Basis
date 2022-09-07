@@ -1,9 +1,14 @@
 ﻿Spielerischer Umgang mit dem Trampolin
 =========================================================
 
-Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder.
+.. rst-class:: lead
+
+    Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder.
 
 TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
+
+.. contents:: On this page
+   :local:
 
 Ohne Materialien
 ----------------
@@ -17,12 +22,14 @@ Ohne Materialien
 - Kleine Hüpfer (vorwärts, rückwärts, seitwärts)
 - Hüpfen über das Trampolin in 6,5,4 … Sprüngen
 - Im Kästchen (rote Markierung auf dem Trampolin) springen
-- Tierparade:
+- Tierparade
+
     - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen
     - Frosch („Froschhüpfer“)
     - Robbe (Seitwärtsrollen)
     - Spinne („Vierfüßlergang“ rücklings)
     - Stinktier (auf allen Vieren gleichzeitig hüpfen und mit dem Handabdruck die Hände nach unten Strecken
+
 - „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung: um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
 - Springen und auf Signal stehen bleiben
 
@@ -74,7 +81,7 @@ Fangen um die Matte
 - gewonnen hat derjenige, der den anderen fängt (= mit den Händen berührt)
 - hat ein Spieler gewonnen, ist das nächste Paar an der Reihe
 
-.. warning::
+.. caution::
     Bei rutschigen Socken können die Läufer eventuell ausrutschen!
 
 Pferderennen
@@ -93,7 +100,7 @@ Pferderennen
 - wer vom Pferd fällt (= umkippt) hat verloren
 
 .. caution::
-    sobald ein Reiter umkippt, müssen alle sofort anhalten, damit keiner auf den gestürzten Reiter tritt
+    Sobald ein Reiter umkippt, müssen alle sofort anhalten, damit keiner auf den gestürzten Reiter tritt.
 
 Fallschirmspringen
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,15 +115,14 @@ Fallschirmspringen
 - Der Springer kann sicher gekonnte Sprünge ausprobieren
 
 .. caution::
-    Durch den Fallschirm sieht man den Rand des Trampolins schlecht, daher müssen die umstehenden Teilnehmer besonders aufpassen. Außerdem kann der Untergrund glatt sein.
-
-.. important::
+    Durch den Fallschirm sieht man den Rand des Trampolins schlecht, daher müssen die umstehenden Teilnehmer besonders aufpassen.
+    Zusätzlich kann der Untergrund glatt sein.
     Durch die Wellen weiß der Springer nicht, wann er genau wieder auf dem Tuch aufkommt , die visuelle Wahrnehmung wird erschwert, wodurch den anderen Analysatoren mehr Beachtung geschenkt wird
 
-Variante: Springen unter dem Fallschirm
+**Variante "Springen unter dem Fallschirm"**
 
 - Diesmal springt der Teilnehmer unter dem Fallschirm
 - Es können auch zwei Teilnehmer gleichzeitig springen
 
-.. important::
+.. caution::
     Die Umstehenden müssen darauf achten, dass der Springer nach oben hin genug Platz hat und der Fallschirm sich nicht über dem Kopf spannt

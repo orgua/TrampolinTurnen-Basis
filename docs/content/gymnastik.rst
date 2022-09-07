@@ -27,7 +27,7 @@ Beispielkonzept für eine Erwärmung
 Bei einer Doppelstunde (90 min) sind 25 - 40 Minuten eine guter Rahmen für eine Erwärmung. Folgende vier Punkte sollten abgedeckt sein und können mit ähnlichen Zeitanteilen gewichtet werden:
 
 Kreislauf hochfahren
-    Dazu eignet sich ein Spiel wie `Hase im Kohl <http://www.sportstunde.net/?q=node/90>`_, ein Lauf-ABC oder andere Ausdauerübungen mit leichter Belastung.
+    Dazu eignet sich ein Spiel wie `Hase im Kohl <http://www.sportstunde.net/?q=node/90>`_, ein Lauf-ABC oder Ausdauerübungen mit leichter Belastung.
 
 Koordinative Übungen
     Beispielsweise Bodengymnastik, Hockerübung, Seilsprünge, Stationen, usw.

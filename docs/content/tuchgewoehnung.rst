@@ -5,15 +5,14 @@ In den ersten Trainingsstunden sollten neue Aktive zuerst mit einigen Übungen a
 
 Zu den wichtigsten Trampolin-Eigenschaften zählen:
 
-- Sprünge werden durch die Tuchwölbung Richtung Tuchmitte geleitet
+- Sprünge werden durch die Wölbung Richtung Tuchmitte geleitet
 - Überkorrekturen können sich potenzieren; daher sollte man vorsichtig korrigieren oder abstoppen. Erfahrene Trainer können demonstrieren was passiert wenn man vom Randbereich des Tuchs zurück aufs Kreuz springt
 - Ungleichgewichte wie z.B. Vorlage (oder falls jemand mit gesenktem Kopf aufs Tuch schaut) wirken sich auf die Sprungrichtung aus
 - Kräfte werden mit gewisser Höhe schwerer kontrollierbar, daher im Tuch immer gestreckte Knie und sicherer breiter Stand (Schulterweite)
 
 In der Regel wird es so sein, dass nur vereinzelt neue Aktive zu betreuen sind. In diesem Fall lohnt es sich nicht, den Geräteaufbau in irgendeiner Form zu verändern. Soll jedoch eine komplette Gruppe mit dem Trampolin vertraut gemacht werden und ist mehr als ein Trampolin in der Turnhalle verfügbar, so kann folgender Geräteaufbau benutzt werden:
 
-„Das Springen im Strom“
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: „Das Springen im Strom“
 
 Die Trampoline werden direkt hintereinander gestellt, ohne die Weichböden dazwischen. Als Abschluss wird die Stirnseite des letzten Trampolins mit einem Weichboden auf dem Hallenboden gesichert. Vor diesen Gerätepacours wird eine Aufstiegshilfe in Form einer Bank der einer „Kasten-Treppe“ gebaut. Das Springen ist mit diesem Aufbau nun „im Strom“ möglich.
 
@@ -50,7 +49,7 @@ Dosiertes Springen
 
 Die nun folgenden Übungen erarbeiten das dosierte Wippen auf dem Trampolin. Das heißt, der Krafteinsatz wird ganz genau den jeweils gestellten Anforderungen angepasst. Diese Übungsformen sind besonders zum Springen im Strom geeignet.
 
-- Überqueren des Geräts von Stirnseite zu Stirnseite mit einer vorgegeben Anzahl von Sprüngen, die Arme bleiben jeweils untenGrundausbildung Trampolinturnen Seite 9
+- Überqueren des Geräts von Stirnseite zu Stirnseite mit einer vorgegeben Anzahl von Sprüngen, die Arme bleiben jeweils unten
 - Variation: möglichst niedrig springen
 - Variation in der Anzahl der Sprünge (erst 3, dann 4...)
 
@@ -83,9 +82,11 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 - Strecksprünge. Hierbei werden die Arme konsequent die ganze Zeit durchgedrückt aus den Schultern heraus zur Decke gestreckt. Im Wechsel dazu Strecksprünge, bei denen die Arme gestreckt eng am Körper angelegt werden.
 - Variationen: 10 x oben - 10 x unten, 3 x unten - 3 x oben
 - Variation: kleine (Plastik-) Flaschen oder Keulen in den Händen halten
-- Bewegungsablauf „Arme stellen“
-- „und“ Arme sind gestreckt am Körper angelegt, TODO
-  „eins“ Arme gestreckt zur Decke ziehen
-  „zwei“ Arme wieder gestreckt am Körper angelegt
-  „drei“ Absprung mit gestreckt zur Decke gestellten Armen
+- Bewegungsablauf „Arme stellen“, Vorschlag
+
+    - „und“ Arme sind gestreckt am Körper angelegt
+    - „eins“ Arme gestreckt zur Decke ziehen
+    - „zwei“ Arme wieder gestreckt am Körper angelegt
+    - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
+
 - Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten.

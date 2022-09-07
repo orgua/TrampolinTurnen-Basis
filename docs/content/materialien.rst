@@ -17,7 +17,8 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 
 - Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 5 Sprüngen, Pflicht- oder Kürübung bzw. Teile daraus
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
-- Anbauen, Koffer-Packen, Anhängen, Sechs-Tage-Rennen,
+- Anbauen, Koffer-Packen, Anhängen, Sechs-Tage-Rennen
+
   - in einer Gruppe: ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
   - Variation: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
   - Variation: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
@@ -89,9 +90,15 @@ Einführung in Wettkampfbestimmungen
 - In der Kürübung wiederum dürfen zehn beliebige Sprünge miteinander kombiniert werden. Die Reihenfolge kann auch noch während der Übung verändert werden. Sprungwiederholungen werden insofern bestraft, als dass die Schwierigkeit des wiederholten Übungsteils nicht angerechnet wird (bei Hocke oder Sitz o.ä. ist das unerheblich).
 - Die Übungen werden zum einen nach der ästhetischen Ausführung (Haltungsnote) und zum anderen nach dem technischen Inhalt (Schwierigkeitsgrad) bewertet.
 - Im Einzelwettkampf beurteilen 5 Haltungskampfrichter unabhängig voneinander die **Ausführung**. Von den 5 Noten wird die höchste und niedrigste gestrichen und die 3 verbleibenden addiert.
-- Zu dieser Haltungsnote wird der **Schwierigkeitsgrad** der Übung addiert
-    Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen. Jede 1/4 Saltorotation erhält 0,1 Punkte; jede ½ Schraubendrehung ebenfalls 0,1 Punkte. Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte. Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
+- Zu dieser Haltungsnote wird der **Schwierigkeitsgrad** der Übung addiert; Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen.
+
+    - Jede 1/4 Saltorotation erhält 0,1 Punkte;
+    - jede ½ Schraubendrehung ebenfalls 0,1 Punkte.
+    - Für jede volle Saltorotation erhält der Aktive 0,1 Punkte zusätzlich. So erhält ein ganzer Salto 0,5 Punkte, eine ganze Schraube 0,2 Punkte.
+    - Gebückte und gestreckte Salti erhalten je 360 Grad Saltorotation 0,1 Punkte zusätzlich.
+
 - folgende **Anforderungen** werden an die **Haltung** gestellt:
+
     - in allen Positionen sollen die Füße und Beine geschlossen sein (Ausnahme Grätschwinkelsprung) und Füße und Zehen gestreckt
     - der Körper soll eindeutig gehockt, gebückt oder gestreckt sein
     - in der Hock- und Bückposition sollen die Oberschenkel nahe dem Oberkörper sein

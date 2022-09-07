@@ -1,7 +1,9 @@
 ﻿Verbindung von Sprüngen
 ==============================
 
-Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
+.. rst-class:: lead
+
+    Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
 
 TODO: querlink, Salto verschoben
 TODO: doppelpunkt nach bewegungsbeschreibung und co entfernen, dafür bold
