@@ -1,5 +1,9 @@
-﻿Kleine Spiele und spielerischer Umgang mit dem Trampolin
+﻿Spielerischer Umgang mit dem Trampolin
 =========================================================
+
+Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder.
+
+TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
 
 Ohne Materialien
 ----------------

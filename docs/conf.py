@@ -10,7 +10,7 @@
 project = 'Trampolinturnen'
 copyright = '2022, Ingmar Splitt'
 author = 'Ingmar Splitt'
-release = '0.2'  # TODO: change to date
+release = '0.3'  # TODO: change to date
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------
@@ -28,6 +28,10 @@ language = 'de'
 
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
+html_theme_options = {
+    "show_scrolltop": True,
+    "show_prev_next": True,
+}
 # TODO: https://sphinxawesome.xyz/how-to/options/
 html_static_path = ['_static']
 
