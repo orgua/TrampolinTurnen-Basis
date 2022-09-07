@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Einführung ins Trampolinturnen's documentation!
-==========================================================
+Einführung ins Trampolinturnen
+================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Inhaltsverzeichnis:
+   :caption: Inhaltsverzeichnis
 
    content/einleitung
    content/sicherheit
@@ -20,10 +20,10 @@ Welcome to Einführung ins Trampolinturnen's documentation!
    content/fortsprung
    content/materialien
 
+..
+   Indices and tables
+   ==================
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

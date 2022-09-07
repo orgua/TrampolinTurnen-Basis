@@ -32,7 +32,7 @@ Viewing the document in a browser:
     python3 -m http.server
 
 
-In browser go to `localhost:8000` to view the documentation.
+In browser go to `localhost:8000`_ to view the documentation.
 
 Generating a PDF
 ----------------

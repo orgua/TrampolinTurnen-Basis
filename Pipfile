@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 sphinx = "*"
-sphinx-rtd-theme = "*"
+sphinxawesome-theme = "*"
 
 [pipenv]
 allow_prereleases = false
