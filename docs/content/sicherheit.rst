@@ -19,24 +19,99 @@ Rechte und Pflichten
 - nach den Ursachen für Gruppenkonflikte suchen und diese lösen
 - gewissenhaft mit eurer zentralen Stellung in der Gruppe (Vertrauensperson) umgehen
 
+
   *"Ihr beeinflusst durch euer Verhalten indirekt das Verhalten der Einzelnen     
   zueinander und das Verhalten der Gruppe nach außen."*
   
-.. rubric:: Aufsichtspflicht - § 832 BGB Haftung des Aufsichtspflichtigen
+.. rubric:: § 832 BGB Haftung des Aufsichtspflichtigen
 
 (1) Wer kraft Gesetzes zur Führung der Aufsicht über eine Person verpflichtet ist [1]_, die wegen Minderjährigkeit oder wegen ihres geistigen oder körperlichen Zustands der Beaufsichtigung bedarf, ist zum Ersatz des Schadens verpflichtet, den diese Person einem Dritten widerrechtlich zufügt. Die Ersatzpflicht tritt nicht ein, wenn er seiner Aufsichtspflicht genügt oder wenn der Schaden auch bei gehöriger Aufsichtsführung entstanden sein würde.
-(2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die Führung der Aufsicht durch Vertrag [2]_ übernimmt [3]_.
+(2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die Führung der Aufsicht durch Vertrag [2]_ übernimmt.
 
 .. [1] gleichgültig, ob entgeltlich oder unentgeltlich, vorübergehend oder länger andauernd
 .. [2] Dieser Vertrag kann mündlich, schriftlich oder stillschweigend geschlossen werden. Es ist nicht erforderlich, dass der Vertrag mit Aufsichtspflichtigem oder dem Aufsichtsbedürftigem geschlossen ist - Abschluss mit einem Dritten genügt.
-.. [3] Nicht die tatsächliche Übernahme (fremde Kinder spielen mit eigenen in eigener Wohnung) ??? TODO
 
-.. rubric:: Erfüllung der Aufsichtspflicht beim Trampolinspringen
+zu (1) - bezüglich Verpflichtung: gleichgültig, ob entgeltlich oder unentgeltlich, vorübergehend oder länger andauernd
 
-- der Überblick über die Gruppe sollte jederzeit gewahrt werden - im Ernstfall benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
-- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und ein Stellvertreter zu ernennen. Dies kann beispielsweise auch ein verantwortungsvolles Kind sein
+zu (2) - Dieser Vertrag kann mündlich, schriftlich oder stillschweigend geschlossen werden. Es ist nicht erforderlich, dass der Vertrag mit Aufsichtspflichtigem oder dem Aufsichtsbedürftigem geschlossen ist - Abschluss mit einem Dritten genügt.
 
-  - ist ein Trampolin bereits aufgebaut so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine der Matten der Stirnseiten über das Tuch zu ziehen.
+
+Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Verantwortung wird dann vom Verein auf die Trainer, Übungsleiter und teilweise auf die Gruppenhelfer übertragen, wenn er sicher ist, dass diese ausreichend ausgebildet wurden.
+(Wenn der Verein die sorgfältige Auswahl der Trainer, Übungsleiter und Gruppenhelfer bei Verletzungen der Aufsichtspflicht nachweisen kann, wird der Trainer, Übungsleiter und Gruppenhelfer zur Haftung herangezogen.)
+
+.. rubric:: Aufsichtspflicht
+
+- Das Maß der gebotenen Aufsichtspflicht bestimmt sich nach Alter, Eigenart und Charakter des Kindes, nach der Voraussehbarkeit des schädigenden Verhaltens.
+- Ein Aufsichtspflichtiger hat sich daher auch darum zu kümmern, womit sich die Kinder in der Freizeit beschäftigen, gelegentlich müssen sie sie dabei beobachten und auch beim Aufräumen des Kinderzimmers und Säubern der Kleidung auf die Gegenstände achten, mit denen sich die Kinder beschäftigen. Danach bestimmen sich das Maß der Überwachungs- und Belehrungspflichten und die Notwendigkeit von Kontrollen.
+- Eine erhöhte Aufsichtspflicht besteht bei Kindern, die zu üblen Streichen neigen und bei schwer erziehbaren Kindern sowie bei Gebrauch gefährlichen Spielzeugs, gleich ob diese durch den Aufsichtspflichtigen überlassen oder durch den Minderjährigen eigenmächtig beschafft wurden.
+- Der Aufsichtspflichtige ist gehalten, sich darüber zu vergewissern, was der Aufsichtsbedürftige und seine Genossen treiben, wenn sie allein gelassen sind.
+- Ein besonders strenger Maßstab muss bei der Belehrung über den Umgang mit Feuer, Feuerzeug und Streichhölzern gelegt werden.
+- Eine Verletzung der Aufsichtspflicht ist es auch, dem Kind falsche Belehrungen oder Weisungen zu erteilen.
+- Im Allgemeinen unterliegt der Weg zum Training nicht der Aufsichtspflicht. Das ist Sache der Eltern. Aber man sollte darauf hinweisen, dass die Kinder nicht zu früh zum Training oder anderen Veranstaltungen kommen und sich auch direkt auf den Heimweg begeben.
+- Aufsicht bei besonderen Veranstaltungen (z.B. Ferienlager): Aufsicht über die gesamte Dauer (Tag und Nacht), besonders: im Straßenverkehr (links laufen), Baden, Natur- und Umweltschutz, Briefgeheimnis, Sexualität
+
+**Besonderheiten bei Gruppen**
+
+-	Persönlichkeit der Kinder (Alter, Entwicklung, Auffälligkeiten)
+-	Gruppenverhalten (Größe, Zeit des Bestehens, gruppendynamische Gesetzmäßigkeiten
+-	örtliche Umgebung
+-	Gefährlichkeit bei der Beschäftigung
+-	pädagogische Qualifikation des ÜLs, Alter, Erfahrung
+-	Verhältnis zwischen ÜLs und den Kindern/ Jugendlichen
+-	Gruppenziel/ -auftrag
+
+.. rubric:: Erfüllung der Aufsichtspflicht speziell beim Trampolinspringen
+
+- der Überblick über die Gruppe muss jederzeit gewahrt werden - im Ernstfall benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
+- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und eine Aufsichtsperson zu ernennen. Dies kann beispielsweise auch ein verantwortungsvolles Kind sein
+
+  - ist ein Trampolin bereits aufgebaut so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine Matte von der Stirnseiten über das Tuch zu ziehen.
+
+.. rubric:: Weitere Pflichten
+
+- Verletzungsverhinderung (Kinder selbst keinen Schaden - einzelne und Gruppe)
+- sinnvolle Beschäftigung, Übungsteilnahme
+- keinen Streit
+- anderen keinen Schaden zufügen, keine Gefährdung anderer
+- ÜL darf selbst keine Gefahren für die Gruppe herbeiführen oder ihr gegenüber
+  strafbare Handlungen begehen
+
+.. rubric:: Grade der Fahrlässigkeit
+
+unbewusst fahrlässig:
+    ÜL weiß infolge Sorgfaltspflichtsverletzung nicht, dass er durch seine Handlung oder Anweisung die Kinder gefährdet
+
+bewusst fahrlässig
+    ÜL weiß, dass er Kinder gefährdet, aber vertraut darauf, dass alles gut gehen werde
+
+vorsätzlich
+    ÜL will die Kinder verletzen oder nimmt es in Kauf, dass die Kinder verletzt werden
+
+Haftung bei Verletzung der Aufsichtspflicht
+    zivilrechtlich und strafrechtlich
+
+.. rubric:: Haftung nach Altersstufen
+
+Kind
+    bis zum vollendeten 14. Lebensjahr
+
+    ab dem 7. Lebensjahr beschränkt geschäftsfähig (Taschengeldgeschäfte) und beschränkt deliktsfähig (bei erforderlicher Einsichtsfähigkeit eventuell schadenersatzpflichtig
+
+Jugendlicher
+    ab dem 14. bis zum Ende des 17. Lebensjahres
+
+    beschränkt geschäfts- und deliktsfähig - je nach Reifegrad auch strafrechtlich verantwortlich
+
+junger Erwachsener
+    vom 18. bis zum 21. Lebensjahr
+
+    Volle Deliktfähigkeit, eventuell noch Jugendstrafrecht
+
+Nur wer unter 14 Jahre alt ist, haftet nicht. Danach haftet jeder Jugendliche nach den jeweiligen gesetzlichen Vorschriften, zum Beispiel nach dem Jugendstrafrecht.
+
+
+
+
 
 Geräteauf- und Abbau
 --------------------
@@ -105,7 +180,7 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 - Variation: Sprünge mit Drehungen
 - auf Kommando (in der Regel „eins, zwei, drei“) führt der vorne Stehende einen einfachen Sprung aus (z.B. eine Hocke); der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen
 
-Desweiteren sollte der **Klammergriff**
+Des weiteren sollte der **Klammergriff** zur Stabilisierung von Salto-Landungen gut geübt werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Springer, nähert sich und peilt bei der Landung mit einem Arm den Bauch und mit der Hand des Anderen Arms die untere Wirbelsäule an. Der Kopf auf befindet sich hinter dem Aktiven, dicht am Rücken.
 
 Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Nach etwa 5 guten Sprungwiederholungen kann die Sicherung reduziert werden. Bitte nicht scheuen einen Schritt zurück zu gehen bei Verschlechterungen. Ein stufenweiser Abbau der Hilfestellung kann wie folgt aussehen:
 
@@ -125,7 +200,7 @@ Der Trainer steht am Ende meist nur noch auf dem Rahmen:
 
 Abschließend noch ein paar Hinweise beim Umgang mit den Teilnehmern:
 
-- Aktive vorher aufklären was man von ihnen erwartet, wie man ihnen hilft
+- Aktive vorher aufklären was man von ihnen erwartet, wie man ihnen hilft (verwendete Hilfestellungen, eventuelles Abstoppen oder Unterstützen von Rotationen)
 - Auf jeden Fall vor (Salto-) Hilfestellungen fragen ob die Teilnehmer damit einverstanden sind
 - Anzählen mit „und, eins, zwei, drei“ immer voll ausführen, alles andere gleicht einem Abbruch
 - für den Aktiven gelten ähnliche Regeln - ein Nicht-Stellen der Arme gleicht einem Abbruch

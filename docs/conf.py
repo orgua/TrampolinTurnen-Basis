@@ -58,5 +58,9 @@ latex_elements = {
     "pointsize": "14pt",
     "fncychap": '',  # '\\usepackage[Bjornstrup]{fncychap}',
     "transition": "\\bigskip"
-
 }
+
+#latex_docclass = {
+#    'manual': 'report',
+#}
+

@@ -52,6 +52,12 @@ Stand - ½ Schraube zum Sitz
 Sitz - ½ Schraube zum Sitz
 -----------------------------
 
+.. figure:: ../media/sprung_sitz_halbe_sitz.jpg
+    :width: 400px
+
+    Phasen eines Sitz-halbe-Sitz, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
+
+
 .. rubric:: Bewegungsbeschreibung
 
 - nach der Sitzlandung drückt sich der Springer kräftig mit den Händen ab
@@ -68,6 +74,7 @@ Sitz - ½ Schraube zum Sitz
 
 - der Oberkörper kippt zu früh nach vorne: zu geringe Höhe und Schraubenmenge
 - der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt
+- der Aktive bleibt im Sitz und rotiert trotzdem
 
 Weiterführung
 --------------

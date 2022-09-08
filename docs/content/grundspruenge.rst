@@ -5,7 +5,7 @@ Im Folgenden sollen die Basissprünge auf dem Trampolin vorgestellt werden. Nach
 
 Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**.
 
-Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35).
+Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35). Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen oder besser die Fehler chronologisch abzuarbeiten, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
 
 .. rubric:: Ausführungsformen
 
@@ -82,6 +82,13 @@ Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name w
 Auch wenn hier von einem Salto gesprochen wird, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer Vorspannung des Körpers. Dabei wird die Hüfte gekippt. Als Analogie kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Oberschenkel und Hüfte bewegen sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel von C-Minus ins C-Plus, d.h. ein Kick mit den Beinen und sofortiges Abstoppen in leichter Schiffchenposition (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
 Als Vorübung eignet sich der Mattenkick:
 Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht Bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage.
+
+.. figure:: ../media/sprung_sitz.jpg
+    :width: 400px
+
+    Phasen eines Sitzsprungs, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
+
+
 
 .. rubric:: Bewegungsbeschreibung
 
@@ -184,7 +191,7 @@ Sobald diese sogenannte **gestreckte Rückenlandung** beherrscht wird, kann dazu
 - der Absprung erfolgt nach hinten gelehnt / gebeugt: auf aufrechten und bewusst nach oben gerichteten Absprung achten („Schultern/Arme zur Decke“)
 - zu wenig Körperspannung in der Landung: der Körper klappt regelrecht zusammen.
 - der Kopf wird auf die Brust genommen und fällt bei der Landung nach hinten
-- vor der Landung stützt der Springer sich mit den Armen hinter dem Rücken ab. Dieses Verhalten sofort unterbinden. Verletzungsgefahr!
+- der Kopf wird im Absprung nach hinten gerissen - eine potentiell gefährliche Art des Schwungholens
 
 Bauchlandung / Bauch
 --------------------
