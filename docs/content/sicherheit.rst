@@ -31,6 +31,12 @@ Rechte und Pflichten
 .. [2] Dieser Vertrag kann mündlich, schriftlich oder stillschweigend geschlossen werden. Es ist nicht erforderlich, dass der Vertrag mit Aufsichtspflichtigem oder dem Aufsichtsbedürftigem geschlossen ist - Abschluss mit einem Dritten genügt.
 .. [3] Nicht die tatsächliche Übernahme (fremde Kinder spielen mit eigenen in eigener Wohnung) ??? TODO
 
+.. rubric:: Erfüllung der Aufsichtspflicht beim Trampolinspringen
+
+- der Überblick über die Gruppe sollte jederzeit gewahrt werden - im Ernstfall benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
+- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und ein Stellvertreter zu ernennen. Dies kann beispielsweise auch ein verantwortungsvolles Kind sein
+
+  - ist ein Trampolin bereits aufgebaut so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine der Matten der Stirnseiten über das Tuch zu ziehen.
 
 Geräteauf- und Abbau
 --------------------
@@ -90,21 +96,40 @@ Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut ge
 Hilfe- und Sicherheitsstellung
 ------------------------------
 
-Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Hinzu kommt, dass die Aktiven möglichst schnell von der Schiebematte „entwöhnt“ werden können. Gerade bei diesen (für den Aktiven häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, der der Springer auch **vertrauen** kann, äußerst wichtig. Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer hier mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
+Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Zum anderen ist eine Hilfestellung durch einen erfahrenden Trainer dem Matteschieben vorzuziehen, da sich die Unterstützung stufenweise gezielt verringern lässt und damit die „Entwöhnung“ für den Aktiven leichter fällt. Gerade bei diesen (für den Aktiven häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, der der Springer auch **vertrauen** kann, äußerst wichtig. Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer hier mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
-Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Dazu ein paar kleine Übungsformen:
+Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Manchmal muss während des Springens mitgesprungen werden, im Absprung (auf "drei") muss der Trainer auf jeden Fall sicher im Tuch bleiben. Dazu ein paar kleine Übungsformen:
 
 - zwei Personen fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.
 - Variation: hintereinander mit Festhalten an den Hüfte
 - Variation: Sprünge mit Drehungen
 - auf Kommando (in der Regel „eins, zwei, drei“) führt der vorne Stehende einen einfachen Sprung aus (z.B. eine Hocke); der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen
 
-Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Der Trainer steht dann meist nur noch auf dem Rahmen:
+Desweiteren sollte der **Klammergriff**
+
+Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Nach etwa 5 guten Sprungwiederholungen kann die Sicherung reduziert werden. Bitte nicht scheuen einen Schritt zurück zu gehen bei Verschlechterungen. Ein stufenweiser Abbau der Hilfestellung kann wie folgt aussehen:
+
+- beginn mit Full-Contact beim Mitspringen - bereit für jede Art von Fehler, besonders die Landung kann und sollte gesichert sein
+- reduktion auf das Mitgeben von Höhe oder Rotation
+- passives Mitspringen und Eingreifen im Ernstfall
+- Reinlaufen vom Rahmen
+- Reinlaufen nur noch auf Verdacht.
+
+Der Trainer steht am Ende meist nur noch auf dem Rahmen:
 
 - während der Ausführung eines Sprunges muss immer Blickkontakt zum Übenden gehalten werden
-- direkt nach dem Absprung betritt der Trainer das Tuch und folgt der Bewegung des Aktiven mit schnellen, kleinen Schritten, um bei der Landung direkt neben diesem zu stehen (tiefes Stehen ermöglicht schnellere Bewegung)
-- bei der Landung muss der Trainer wiederum mit beiden Beinen sicher auf dem Trampolin stehen bleiben
-- jederzeit auf ein abweichendes Verhalten des Übenden gefasst sein (z.B. Absprung vor „3“) TODO
+- direkt nach dem Absprung betritt der Trainer das Tuch und folgt der Bewegung des Aktiven mit schnellen, kleinen Schritten, um bei der Landung direkt neben diesem zu stehen
+- **Tip**: tiefes Stehen bzw. ein niedriger Schwerpunkt auf dem Rahmen ermöglicht schnellere Bewegung
+- bei der Landung muss der Trainer mit beiden Beinen sicher auf dem Trampolin stehen bleiben
+- jederzeit auf ein abweichendes Verhalten des Übenden gefasst sein (z.B. Absprung vor „3“, Vorwärts- statt Rückwärtssalto)
+
+Abschließend noch ein paar Hinweise beim Umgang mit den Teilnehmern:
+
+- Aktive vorher aufklären was man von ihnen erwartet, wie man ihnen hilft
+- Auf jeden Fall vor (Salto-) Hilfestellungen fragen ob die Teilnehmer damit einverstanden sind
+- Anzählen mit „und, eins, zwei, drei“ immer voll ausführen, alles andere gleicht einem Abbruch
+- für den Aktiven gelten ähnliche Regeln - ein Nicht-Stellen der Arme gleicht einem Abbruch
+
 
 TODO: Hilfestellungen, oder später beim Sprung?
 

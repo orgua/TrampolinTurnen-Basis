@@ -20,8 +20,8 @@ Sitz - ½ Schraube zum Stand
 
 - die Hüfte wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
 
-½ Schraube zum Sitz
----------------------
+Stand - ½ Schraube zum Sitz
+----------------------------
 
 .. rubric:: Bewegungsbeschreibung
 

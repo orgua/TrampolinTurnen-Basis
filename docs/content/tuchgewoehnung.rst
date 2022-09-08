@@ -43,6 +43,7 @@ Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicher
 - Variation: bewusst nach vorne springen und dann stoppen
 - Variation: Blick zur Längsseite, dann zur Seite springen und stoppen
 
+TODO: höhe gewinnen mit Ballen und Armeinsatz
 
 Dosiertes Springen
 ------------------
@@ -75,10 +76,17 @@ Armeinsatz
 
 Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte auch der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden.
 
+.. rubric:: Bewegungsbeschreibung
+
+- Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel
+- die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung
+- anschließend bleiben die gestreckten Arme oben für einen kurzen Moment gestellt - etwa bis zum höchsten Punkt des Sprungs
+- anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
+
 Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden (in der Trampolin-Sprache: die Arme sind **„gestellt“**). Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz:
 
 - Demonstration auf dem Boden (langsam) um den eigentlichen Bewegungsablauf deutlich zu machen
-- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hockposition heraus. Die Arme werden dabei vorne gestreckt nach oben neben den Kopf geführt. Zum Schwungholen werden die Arme seitlich am Körper heruntergeführt.
+- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hockposition heraus.
 - Strecksprünge. Hierbei werden die Arme konsequent die ganze Zeit durchgedrückt aus den Schultern heraus zur Decke gestreckt. Im Wechsel dazu Strecksprünge, bei denen die Arme gestreckt eng am Körper angelegt werden.
 - Variationen: 10 x oben - 10 x unten, 3 x unten - 3 x oben
 - Variation: kleine (Plastik-) Flaschen oder Keulen in den Händen halten
@@ -89,4 +97,23 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
   - „zwei“ Arme wieder gestreckt am Körper angelegt
   - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
 
-- Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten.
+- Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten
+
+.. tip::
+    Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handlächen beim Armestellen nach außen zu drehen. Ebenso kann ein sehr spätes kräftiges Stellen (fast im Moment der Landung) helfen.
+
+.. tip::
+    Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich bei "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird gerade bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
+
+Blickrichtung
+-------------
+
+- TODO
+- nicht vorgebeugt aufs Tuch schauen -> vorlage erzeugt Wanderbegung bzw. muss zur Kompensation der Po
+- Blick normalerweise geradeaus
+-
+- Blick: vordere Trampolinkante bzw. Ende des Mattentischs
+    - hat den Vorteil, dass man sich in einer anderen Halle nicht umgewöhnen muss
+- gerade bei Rückwärtssalti ist es
+- periphär aufs Tuch schauen
+
