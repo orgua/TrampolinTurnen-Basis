@@ -10,7 +10,7 @@
 project = 'Trampolinturnen'
 copyright = '2022, Ingmar Splitt'
 author = 'Ingmar Splitt'
-release = '0.3'  # TODO: change to date
+release = '0.5'
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------

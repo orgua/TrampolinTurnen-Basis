@@ -3,10 +3,8 @@
 
 .. rst-class:: lead
 
-    Im Folgenden sollen noch einige Sprünge erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
+    Im Folgenden sollen noch eine Auswahl an Sprüngen erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
 
-TODO: querlink, Salto verschoben
-TODO: doppelpunkt nach bewegungsbeschreibung und co entfernen, dafür bold
 
 Sitz - ½ Schraube zum Stand
 ------------------------------
@@ -79,9 +77,11 @@ Sitz - ½ Schraube zum Sitz
 Weiterführung
 --------------
 
-TODO
+Die beschriebenen Sitz-Schraubverbindungen lassen sich nun analog auf den Rücken- und Bauchsprung übertragen. Zusätzlich können Verbindungen zwischen den Landeformen geschaffen werden.
 
 - Rücken - ½ Schraube Stand
 - Stand - ½ Schraube in den Rücken
 - Sitz - Bauch
 - Bauch - Rücken
+- Stand - ½ Schraube Bauch
+- Bauch - ½ Schraube Stand

@@ -1,9 +1,28 @@
 ﻿Weitere Sprünge
 ==============================
 
-TODO
+..
+    TODO
 
 Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire erlaubt ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
+
+.. rubric:: Ausführungsformen ++
+
+Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewissen Sprunghöhe und Koordinationsfähigkeit lässt sich die Symmetrie des Sprungs verändern. Viele Sprünge gewinnen an Qualität sobald im Absprung länger gewartet wird vor dem eigentlichen Start des Sprungs (Schraube im Schraubensalto). Am Beispiel Hocke lohnt es sich ein Gefühl dafür zu vermitteln. Die Teilnehmer können probieren die Symmetrie während des Sprungs herzustellen, d.h. am gleichen Punkt im Raum die Hocke beim Steigen anzufangen und beim Fallen zu beenden. Auch ein Austesten der Extreme kann hilfreich sein - beispielsweise im Versuch die Hocke komplett in der Steigphase oder Fallphase zu absolvieren.
+
+
+.. note::
+    TEST für verschiedene Admonitions
+
+.. warning::
+    Don't eat yellow snow
+
+.. tip::
+    Try again
+
+.. caution::
+    Caution, Important
+
 
 Salto Rückwärts (gehockt)
 --------------------------

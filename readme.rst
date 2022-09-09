@@ -5,11 +5,13 @@
     :target: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment
     :name: pages-deployment
 
-`Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen-Basis/>`_
+Links:
 
-`Inhalt als PDF 📄 -> TODO <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+- `Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen-Basis/>`_
 
-`Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
+- `Inhalt als PDF 📄 <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+
+- `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
 
 Installation
 --------------

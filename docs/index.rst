@@ -13,6 +13,7 @@ Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer.
    :caption: Inhaltsverzeichnis
 
    content/einleitung
+   content/pflichten
    content/sicherheit
    content/gymnastik
    content/tuchgewoehnung

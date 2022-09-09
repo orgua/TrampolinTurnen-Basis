@@ -1,7 +1,7 @@
 ﻿Tuchgewöhnung
 ============================
 
-In den ersten Trainingsstunden sollten neue Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders auch solche, die das **Abstoppen** auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das **Gleichgewicht** geschult sowie der **Kraft- und Armeinsatz** erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
+In den ersten Trainingsstunden sollten neue Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders auch solche, die das :ref:`**Abstoppen** <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`**Gleichgewicht** <Gleichgewicht>` geschult sowie der :ref:`**Kraft- und Armeinsatz** <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
 
 Zu den wichtigsten Trampolin-Eigenschaften zählen:
 
@@ -18,6 +18,8 @@ Die Trampoline werden direkt hintereinander gestellt, ohne die Weichböden dazwi
 
 Selbst mit nur einem Trampolin lässt sich etwas ähnliches umsetzen indem die Teilnehmer auf den Mattentischen starten und pro Übung jeweils aufs Trampolin gehen und anschließend die Seite wechseln. Mit diesem Kreislauf wird ein hoher Durchsatz erreicht.
 
+.. _Erstkontakt:
+
 Der erste Kontakt
 --------------------
 
@@ -32,6 +34,8 @@ Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin:
 - Variation: Schattenlauf (2 Personen)
 
 
+.. _Abstoppen:
+
 Stoppen
 --------
 
@@ -43,7 +47,7 @@ Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicher
 - Variation: bewusst nach vorne springen und dann stoppen
 - Variation: Blick zur Längsseite, dann zur Seite springen und stoppen
 
-TODO: höhe gewinnen mit Ballen und Armeinsatz
+.. _Dosierung:
 
 Dosiertes Springen
 ------------------
@@ -56,6 +60,8 @@ Die nun folgenden Übungen erarbeiten das dosierte Wippen auf dem Trampolin. Das
 
 
 Beim Springen im Strom darauf achten, dass nicht auf den Rahmen oder die Sicherheitsmatten gesprungen wird. Grundsätzlich sollten die Aktiven vor den Weichböden auf dem Trampolin stoppen.
+
+.. _Gleichgewicht:
 
 Gleichgewichtsübungen
 ---------------------
@@ -71,17 +77,22 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
 - auf den Tuchmarkierungen springen
 - Strecksprung-Variation auf dem Kreuz - Arme in Hüftstellung, Arme am Körper - um den Ausgleich mit den Armen zu verhindern und die Bedeutung der Körperposition zu demonstrieren
 
+.. _Armeinsatz:
+
 Armeinsatz
 ----------
 
-Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte auch der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden.
+Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte auch der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
 
-.. rubric:: Bewegungsbeschreibung
+.. rubric:: Bewegungsbeschreibung Armschwung
 
 - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel
 - die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung
 - anschließend bleiben die gestreckten Arme oben für einen kurzen Moment gestellt - etwa bis zum höchsten Punkt des Sprungs
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
+- **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen weil sich Arme im Falle eines Sturzes nicht hinter dem Springer befinden sollten
+
+.. rubric:: Stellen der Arme
 
 Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden (in der Trampolin-Sprache: die Arme sind **„gestellt“**). Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz:
 
@@ -108,12 +119,6 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 Blickrichtung
 -------------
 
-- TODO
-- nicht vorgebeugt aufs Tuch schauen -> vorlage erzeugt Wanderbegung bzw. muss zur Kompensation der Po
-- Blick normalerweise geradeaus
--
-- Blick: vordere Trampolinkante bzw. Ende des Mattentischs
-    - hat den Vorteil, dass man sich in einer anderen Halle nicht umgewöhnen muss
-- gerade bei Rückwärtssalti ist es
-- periphär aufs Tuch schauen
+Ein früher Fokus auf die Blickrichtung kann späteres zeitaufwendiges Umlernen verhindern. Manche Aktive neigen dazu nicht nur mit gesenktem Kopf, sondern auch leicht vorgebeugt aufs Tuch zu schauen um ihre Landung zu überwachen. Diese Vorlage ereugt Wanderbegungen auf dem Tuch und verhindert meist ein korrektes Stellen der Arme. Gleichzeitig kann es passieren, dass die Wanderbewegung mit einem Hausstrecken des Gesäßes kompensiert wird.
 
+Sprungtechnisch optimal ist ein ruhiger Blick geradeaus zur Wand. Im Bestfall findet man einen Fixpunkt. Das Tuch kann weiterhin im peripheren Sichtfeld wahrgenommen werden. Falls der Aktive plant an Wettkämpfen teilzunehmen gibt es die Empfehlung den **Blickpunkt das Ende das Trampolins** bzw. die vordere Mattenkante zu legen. So spart man sich die Umgewöhnung in einer neuen Halle.
