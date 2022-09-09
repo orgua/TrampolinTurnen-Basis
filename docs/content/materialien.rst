@@ -29,7 +29,7 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 
 
 Trainingsorganisation Studium
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs innerhalb eines Semesters mit einer wöchentlichen Doppelstunde gut umsetzen.
 
@@ -128,7 +128,7 @@ Links
 - `Projekt-Quellen des Dokuments <https://github.com/orgua/TrampolinTurnen-Basis>`_ mit aktueller Version der PDF
 
 Quellen
-_______
+-------
 
 - Handreichung vom Trampolin-Basis-Schein, Münster
 - zwei Mitschriften von Basisschein-Ausbildungen

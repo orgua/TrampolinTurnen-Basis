@@ -6,11 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-#project = 'Einführung ins Trampolinturnen'
+
 project = 'Trampolinturnen'
+project_full = 'Einführung ins Trampolinturnen'
 copyright = '2022, Ingmar Splitt'
 author = 'Ingmar Splitt'
-release = '0.5'
+release = '0.7'
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------
@@ -29,7 +30,7 @@ language = 'de'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "Einführung in das Trampolinturnen"
+html_title = project_full
 html_collapsible_definitions = True
 html_copy_source = False
 
@@ -52,15 +53,42 @@ sitemap_url_scheme = "{link}"
 
 # -- Options for LATEX output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/latex.html
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-latex_theme
+
+'''
+latex_documents = [(
+    "index",  # startdocname
+    project,  # targetname
+    project_full,  # title
+    author,  # author
+    "report",  # theme
+    False,  # toctree_only
+)]
+'''
+latex_theme = "report"
+# manual    sphinx-report - much wasted space
+# howto     no page-break at all -> TODO: has latex_appendices?
+# report    ok, but small
 
 latex_elements = {
     "papersize": "a4paper",
-    "pointsize": "14pt",
+    "pointsize": "10pt",
     "fncychap": '',  # '\\usepackage[Bjornstrup]{fncychap}',
-    "transition": "\\bigskip"
+    "transition": "\\bigskip",
+
+    # passoptionstopackages
+
+    'preamble': r'\input{style.tex.txt}',
+            
+    # MTB
+    "sphinxsetup": '''
+        InnerLinkColor = {rgb}{0.6,0,0}, % red
+        OuterLinkColor = {rgb}{0.6,0,0}, 
+        TitleColor = {rgb}{0.0,0,0}, % black
+        marginpar = 0in, % no difference
+    '''
+
+
 }
 
-#latex_docclass = {
-#    'manual': 'report',
-#}
-
+latex_additional_files = ["style.tex.txt"]

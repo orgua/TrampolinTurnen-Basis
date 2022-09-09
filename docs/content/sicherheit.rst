@@ -1,7 +1,7 @@
 ﻿Sicherheit
 =====================
 
-Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den :ref:`Geräteauf- und Abbau <Aufbau>` sowie die äußere :ref:`**Organisation der Trainingsstunde** <Organisation>`. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den :ref:`**Einsatz von Hilfsmitteln** <Hilfestellung>` betrifft.
+Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den :ref:`Geräteauf- und Abbau <Aufbau>` sowie die äußere :ref:`Organisation der Trainingsstunde <Organisation>`. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den :ref:`Einsatz von Hilfsmitteln <Hilfestellung>` betrifft.
 
 .. _Aufbau:
 
@@ -20,7 +20,7 @@ Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 - beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet werden und ein Überfahren vermieden werden
 - beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu
 - beim Kippen des Geräts darauf achten, dass die Ketten frei beweglich sind und nirgendwo hängenbleiben
-- darauf achten, dass der **innere Metallbügel** beim Kippen nicht **unkontrolliert auf den Boden fällt** -> Der Aufprall verbiegt sehr schnell die Aufnahme für die Querstangen
+- darauf achten, dass der **innere Metallbügel** beim Kippen nicht **unkontrolliert auf den Boden fällt** -> Der Aufprall verbiegt sehr schnell die Aufnahme für die Quergestänge
 - bevor die Heberollständer entfernt werden, erst alle vier Ketten einhängen und kontrollieren; beim Einhängen der Ketten darauf achten, dass diese nicht verdreht sind
 - beim Aufklappen des Trampolins beide Seitenflügel festhalten und nicht fallen lassen
 - der zweite Seitenflügel muss kräftig aufgezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Seitenflügels notwendig.
