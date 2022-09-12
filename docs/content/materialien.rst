@@ -16,16 +16,9 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 Übungsformen
 ~~~~~~~~~~~~~
 
-- Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 5 Sprüngen, Pflicht- oder Kürübung bzw. Teile daraus
+- Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 3-5 Sprüngen, alternativ mit Pflicht- oder Kürübung bzw. Teilen daraus
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
-- Anbauen, Koffer-Packen, Anhängen, Sechs-Tage-Rennen
-
-  - in einer Gruppe: ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
-  - Variation: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
-  - Variation: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
-  - Variation: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltoration)
-  - Variation: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
-  - Variation: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
+- das Spiel Koffer-Packen (siehe :doc:`Spiele <spiele>` mit vielen) übt Sprungverbindungen und fordert heraus
 
 
 Trainingsorganisation Studium

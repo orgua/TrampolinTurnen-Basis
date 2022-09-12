@@ -26,9 +26,9 @@ Der erste Kontakt
 Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin:
 
 - Gehen über das Trampolin; vorwärts, rückwärts, seitwärts, zu zweit mit Handhaltung
-- schwebendes Gehen („auf dem Mond...“) mit betonter „Flugphase“ Aufsetzen des ganzen Fußes
-- Laufen mit möglichst vielen und schnellen Schritten in Längsrichtung (Nähmaschine, „Skippings“)
-- Variation: als Orientierung für einen Parkour können die roten Linien auf dem Tuch dienen. Das Rechteck lässt sich zusätzlich beispielsweise mit Rotation in den Ecken abarbeiten oder mit fester Blickrichtung geradeaus.
+- **schwebendes Gehen** („auf dem Mond...“) mit betonter „Flugphase“ Aufsetzen des ganzen Fußes
+- **"Nähmaschine"**: Laufen mit möglichst vielen und schnellen Schritten in Längsrichtung („Skippings“)
+- **Variation**: als Orientierung für einen Parkour können die roten Linien auf dem Tuch dienen. Das Rechteck lässt sich zusätzlich beispielsweise mit Rotation in den Ecken abarbeiten oder mit fester Blickrichtung geradeaus.
 - Variation: mit betontem Anheben der Knie bis zur Brust
 - Variation: im Slalom über das Gerät
 - Variation: Schattenlauf (2 Personen)
@@ -41,11 +41,15 @@ Stoppen
 
 Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicherheitsgründen bewusst viel Zeit gewidmet werden. In der Erwärmung können bereits **Kniebeuge** als Bewegungsanalogie durchgeführt werden. Folgende Übungen eignen sich dafür im direkten Anschluss an die ersten Übungen zur Gewöhnung an das Trampolin:
 
-- Kniehebelauf oder beidbeiniges Federn in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper bleibt ruhig auf einer Höhe („Buckelpiste fahren“)
+- **Kniehebelauf** in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper bleibt statisch auf einer Höhe
+- Variation: **beidbeiniges Federn** in Vorwärtsbewegung
 - Variation: Reiten auf einem Esel, Pferd oder ähnlichem
+- **„Buckelpiste fahren“** - auf dem Kreuz niedrig stehend beidbeinig federn und mit den Füßen links/rechts oder vor/zück wechseln, Oberkörper bleibt auf Position
 - in der Mitte des Tuches hochspringen und auf Klatschsignal oder Zuruf stoppen (Signal am höchsten Punkt der Teilnehmenden)
 - Variation: bewusst nach vorne springen und dann stoppen
-- Variation: Blick zur Längsseite, dann zur Seite springen und stoppen
+- Variation: Blick zur Längsseite, dann leicht zur Seite springen und stoppen
+
+Nachdem das Abstoppen erfolgreich gemeistert wurde, lässt sich das Training etwas variieren, sodass die folgenden Unterabschnitte nicht zwingend chronologisch abgehandelt werden müssen.
 
 .. _Dosierung:
 
@@ -75,7 +79,12 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
 - ein Quadrat oder andere Formen springen
 - zu zweit Formen vor-springen, der Partner springt nach
 - auf den Tuchmarkierungen springen
-- Strecksprung-Variation auf dem Kreuz - Arme in Hüftstellung, Arme am Körper - um den Ausgleich mit den Armen zu verhindern und die Bedeutung der Körperposition zu demonstrieren
+- Strecksprung-Variation auf dem Kreuz -
+
+  - Arme in Seitenhalte an Hüfte - stabilisiert den Mittelkörper
+  - Arme am Körper - etwas instabiler
+  - Arme in Hochhalte ("gestellt", sie Folgeabschnitt)
+
 
 .. _Armeinsatz:
 
@@ -87,7 +96,10 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 .. rubric:: Bewegungsbeschreibung Armschwung
 
 - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel
-- die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung
+- die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung die aber vor dem Bewegungsmaximum (Anschlag) stoppt
+
+  - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle für die Mittelkörperspannung kann diese Bewegung leichter sein
+
 - anschließend bleiben die gestreckten Arme oben für einen kurzen Moment gestellt - etwa bis zum höchsten Punkt des Sprungs
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
 - **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen weil sich Arme im Falle eines Sturzes nicht hinter dem Springer befinden sollten

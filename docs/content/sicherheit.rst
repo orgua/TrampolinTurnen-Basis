@@ -77,6 +77,7 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 - Variation: hintereinander mit Festhalten an den Hüfte
 - Variation: Sprünge mit Drehungen
 - auf Kommando (in der Regel „eins, zwei, drei“) führt der vorne Stehende einen einfachen Sprung aus (z.B. eine Hocke); der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen
+-
 
 Des weiteren sollte der **Klammergriff** zur Stabilisierung von Salto-Landungen gut geübt werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Springer, nähert sich und peilt bei der Landung mit einem Arm den Bauch und mit der Hand des Anderen Arms die untere Wirbelsäule an. Der Kopf auf befindet sich hinter dem Aktiven, dicht am Rücken.
 

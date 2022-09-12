@@ -3,7 +3,7 @@
 
 .. rst-class:: lead
 
-    Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder.
+    Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder. Achtung - das Spektrum der Anforderungen ist sehr groß. Während ein großteil der Spiele zur Tuchgewöhnung geeignet sind, erfordern manche Spiele gutes Tuchgefühl und einige Erfahrung und Kontrolle.
 
 ..
     TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
@@ -18,9 +18,9 @@ Ohne Materialien
 - Schrittsprünge (nicht weit – man soll die „Schwerelosigkeit spüren“). Achtung: Im Knie fest bleiben
 - Rollen (vorwärts, rückwärts)
 - Kleine Hüpfer (vorwärts, rückwärts, seitwärts)
-- Hüpfen über das Trampolin in 6,5,4 … Sprüngen
+- **Hüpfen über das Trampolin in 6,5,4 … Sprüngen**
 - Im Kästchen (rote Markierung auf dem Trampolin) springen
-- Tierparade
+- **Tierparade**
 
     - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen
     - Frosch („Froschhüpfer“)
@@ -28,23 +28,49 @@ Ohne Materialien
     - Spinne („Vierfüßlergang“ rücklings)
     - Stinktier (auf allen Vieren gleichzeitig hüpfen und mit dem Handabdruck die Hände nach unten Strecken
 
-- „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung: um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
+- „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
 - Springen und auf Signal stehen bleiben
 
 Übungen mit Partner
--------------------
+----------------------
 
 - Partner springt einen Weg über das Trampolin vor, der andere muss sich den Weg merken und den Weg nachhüpfen
 - „Karawane“: zwei Personen, einer geht/hüpft vor der andere steht hinter der ersten Person und hält sich an den Schultern fest und wird mit geschlossen/offenen Augen über das Trampolin geführt
-- Zwei Personen machen gleichzeitig Sitzlandungen: Ziel ist es dem Partner den Schwung wegzunehmen (ihn zu stoppen)
-- „Rakete“: eine kräftigere Person „schießt“ eine kleinere Person in die Luft (wichtig: die werfende Person muss beim Wurf stehen bleiben – nicht mehr springen und muss die andere Person auch wieder auffangen)
+- **Schwungklauen**: zwei Personen machen jeweils auf ihrer Hälfte des Trampolins vorsichtige niedrige Strecksprünge, am Besten anfangs leicht zeitlich versetzt zueinander: Ziel ist es dem partner den Schwung wegzunehmen (Ihn zu stoppen)
+- **Schwungklauen Level 2**: Regeln wie bevor, aber als Spünge Standsprung &  Sitz im Wechsel
+- **„Rakete“**: eine kräftigere Person „schießt“ eine kleinere Person in die Luft (wichtig: die werfende Person muss beim Wurf stehen bleiben – nicht mehr springen und muss die andere Person auch wieder auffangen)
 - Stoppwettkampf: von der Stirnseite in 3 Sprüngen bis zur vorderen roten Linie springen und mit den Zehen noch vor der Linie stoppen. Wer am dichtesten rankommt gewinnt
-- Wettrollen: Querollen über die Längsseite des Trampolintuch - ein Teilnehmer rollte vor und auf Signal eines Außenstehenden oder bei Erreichen des Kreuzes darf der zweite starten und versuchen einzuholen
-- Sitz-Rakete: zwei Springer stehen sich gegenüber auf dem Tuch, springen leicht. Ein Teilnehmer springt in den Sitz und wechselt fortan zwischen gestreckter diagonaler Haltung in der Luft und Sitz im Tuch. Der Partner passt den ersten Sitz ab fällt etwas früher in den Grätschsitz und greift die Füße des Anderen. Die Aufgabe besteht darin den Gegenüber zu führen und Höhe mitzugeben. Dabei wechselt man konstant zwischen Grätschsitz und tiefem Stand. Mit etwas Übung sind ganze Sitzschrauben und Salti für den normal-sitzenden möglich
+- **Wettrollen**: Querrollen über die Längsseite des Trampolintuch - ein Teilnehmer rollte vor und auf Signal eines Außenstehenden oder bei Erreichen des Kreuzes darf der zweite starten und versuchen einzuholen
+- **Sitz-Rakete** (fortgeschritten)
+
+  - zwei Springer stehen sich gegenüber auf dem Tuch, ein Teilnehmer springt leicht, der andere gleicht aus;
+  - Der springende Teilnehmer springt in den Sitz und wechselt fortan zwischen gestreckter diagonaler Haltung in der Luft und Sitz im Tuch.
+  - Der Partner passt den ersten Sitz ab fällt etwas früher in den Grätschsitz und greift die Zehen des Anderen.
+  - Die Aufgabe besteht darin den Gegenüber zu führen und Höhe mitzugeben. Dabei wechselt man konstant zwischen Grätschsitz und tiefem Stand (mit aufstehender Bewegung)
+
 - Zu dritt nebeneinander über das Trampolin hüpfen, hierzu in den Armen einhaken; der Springer in der Mitte macht die Augen zu. Achtung! Möglichst gleichzeitig springen und ansagen, wann die Mattenkante kommt
 - Zu zweit oder zu dritt auf dem Gerät, wobei sich eine Person in die Mitte setzt (Schneidersitz mit abstützen der Hände oder normale Sitzposition), die anderen Springen vorsichtig um die sitzende Person, so dass sie ins Wanken gerät. Die Person in der Mitte kann dabei auch die Augen schließen.
 - „Eiserne Jungfrau“: eine Person legt sich in die Mitte (wichtig: Körper ganz gestreckt und angespannt), zwei oder vier Person stehen sich an den langen Seiten gegenüber und treten auf ein Signal gemeinsam fest ins Trampolin, so dass die Person in der Mitte hochgeschossen wird
 - Einen Partner, der auf Trampolin sitzt oder einen Medizinball hochschießen (Achtung Gefahr)
+
+Übungen mit Vielen
+--------------------
+
+- **Koffer-Packen** (ebenfalls bekannt als Anbauen, Anhängen, Sechs-Tage-Rennen)
+
+  - in einer Gruppe: ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
+  - Variation: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
+  - Variation: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
+  - Variation: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltoration)
+  - Variation: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
+  - Variation: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
+
+- **Jonglage**
+
+  - man benötigt mind. 6 Personen, 3 pro Stirnseite auf der Matte, mehr sind besser.
+  - Jonglage ist Programm - das Trampolin wird hierfür in 4 Quadranten geteilt.
+  - Eine Person der einen Seite stellt sich in einen Quadranten und eine Person der anderen Seite stellt sich in den diagonalen Quadranten und springt in den Quadranten vor ihm in den Sitz um die erste Person neben ihm zu katapultieren. Diese schießt nun ebenfalls in den Quadranten vor ihm in die Sitzlandung (an dieser Stelle ist schnelles Aufstehen und ein kleiner Sprung vor sich auf die Matte wichtig).
+  - Dies lässt sich erstmal trocken üben. Später füllt man mit den übrigen Personen die Positionen wieder auf und es wird eine durchgängige Wiederholung draus.
 
 
 Übungen mit Material

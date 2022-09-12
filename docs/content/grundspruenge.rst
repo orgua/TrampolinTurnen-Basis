@@ -82,14 +82,8 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
 Sitzlandung / Sitz
 ------------------
 
-Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon die Grundtechnik für spätere Rückensprünge bzw. Saltis. Daher lohnt es sich den Fokus schon früh auf saubere Ausführung zu legen.
+Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon ein Element der Grundtechnik für spätere Rückensprünge bzw. Saltis. Daher lohnt es sich den Fokus schon früh auf saubere Ausführung zu legen.
 
-.. _TechnikSalto:
-.. rubric:: Technik - Saltorotation rückwärts
-
-Auch wenn hier von einem Salto gesprochen wird, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer Vorspannung des Körpers. Dabei wird die Hüfte gekippt. Als Analogie kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Oberschenkel und Hüfte bewegen sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel von C-Minus ins C-Plus, d.h. ein Kick mit den Beinen und sofortiges Abstoppen in leichter Schiffchenposition (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
-Als Vorübung eignet sich der Mattenkick:
-Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht Bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage.
 
 .. figure:: ../media/sprung_sitz.jpg
     :width: 400px
@@ -100,10 +94,10 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 .. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Sitzlandung - Aufstehen in den Stand
-- im Absprung Körper spannen und Fußkick ausführen, so dass eine leichte Rücklage des gestreckten Körpers im höchsten Punkt erreicht wird, Beine sind geschlossen
+- im Absprung den Körper über ein Kippen der Hüfte spannen (C-Minus) und Spannung auflösen durch die Beine, so dass eine leichte Rücklage des gestreckten Körpers im höchsten Punkt erreicht wird, Beine sind geschlossen
 - Arme getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
-- kurz vor der Landung die Hüfte beugen, die Beine sollten gleichmäßig zum Liegen kommen; Tip: mit der Intensität kann für geübte Springer eine Nachjustierung erfolgen - zu wenig Rotation kann durch eine schnelle Beinbewegung kompensiert werden (und umgekehrt)
+- kurz vor der Landung die Hüfte beugen, die Beine sollten gleichmäßig zum Liegen kommen; Tip: mit der Intensität der Beugung kann für geübte Springer eine Nachjustierung erfolgen - zu wenig Rotation kann durch eine schnelle Beinbewegung kompensiert werden (und umgekehrt)
 - **Sitzposition**: bei der Landung die Hände neben bzw etwas hinter dem Gesäß abstützen, die Finger zeigen dabei geschlossen nach vorne, der Oberkörper ist bei geradem Rücken leicht nach hinten geneigt, die Beine geschlossen und wie die Zehen gestreckt
 - Aufstehen zum Stand:
 
@@ -135,6 +129,14 @@ Rückenlandung / Rücken
 ----------------------
 
 Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme. Zu unbekannt ist das Gefühl, rückwärts nach unten zu fallen. Zusätzlich ist die Bewegung recht komplex; es müssen viele kleine Bewegungen fast zur gleichen Zeit kontrolliert ausgeführt werden. Aus diesem Grund ist es sinnvoll, die Rückenlandung mit einigen Übungen vorzubereiten, und das auch schon einige Zeit, bevor der Sprung überhaupt gelernt werden soll.
+
+.. _TechnikSalto:
+.. rubric:: Technik - Saltorotation rückwärts
+
+Auch wenn hier von einem Salto gesprochen wird, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer Vorspannung des Körpers. Dabei wird die Hüfte gekippt. Als Analogie kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Oberschenkel und Hüfte bewegen sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel von C-Minus ins C-Plus, d.h. ein Kick mit den Beinen und sofortiges Abstoppen in leichter Schiffchenposition (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
+Als Vorübung eignet sich der Mattenkick:
+Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht Bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage.
+
 
 .. rubric:: Bewegungsbeschreibung
 

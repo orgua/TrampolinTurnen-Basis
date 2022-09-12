@@ -62,10 +62,10 @@ Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Ve
 
 .. rubric:: Besonderheiten beim Trampolinturnen
 
-- der Überblick über die Gruppe muss jederzeit gewahrt werden - in der Regel benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
-- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und eine Aufsichtsperson zu ernennen. Dies kann beispielsweise im Notfall auch ein verantwortungsvolles Kind sein
+- der Überblick über die Gruppe sollte jederzeit gewahrt werden - in der Regel benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
+- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und eine Aufsichtsperson zu ernennen. Dies kann beispielsweise im Notfall auch ein verantwortungsvolles Kind sein.
 
-  - ist ein Trampolin bereits aufgebaut so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine Matte von der Stirnseiten über das Tuch zu ziehen.
+  - Gefahrenquellen beseitigen! Ist ein Trampolin bereits aufgebaut, so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine Matte von der Stirnseiten über das Tuch zu ziehen.
 
 Weitere Pflichten
 -----------------
@@ -76,39 +76,3 @@ Weitere Pflichten
 - anderen keinen Schaden zufügen, keine Gefährdung anderer
 - ÜL darf selbst keine Gefahren für die Gruppe herbeiführen oder ihr gegenüber
   strafbare Handlungen begehen
-
-Fahrlässigkeit und Haftung
----------------------------
-
-.. rubric:: Grade der Fahrlässigkeit
-
-unbewusst fahrlässig:
-    ÜL weiß infolge Sorgfaltspflichtsverletzung nicht, dass er durch seine Handlung oder Anweisung die Kinder gefährdet
-
-bewusst fahrlässig
-    ÜL weiß, dass er Kinder gefährdet, aber vertraut darauf, dass alles gut gehen werde
-
-vorsätzlich
-    ÜL will die Kinder verletzen oder nimmt es in Kauf, dass die Kinder verletzt werden
-
-Haftung bei Verletzung der Aufsichtspflicht
-    zivilrechtlich und strafrechtlich
-
-.. rubric:: Haftung nach Altersstufen
-
-Kind
-    bis zum vollendeten 14. Lebensjahr
-
-    ab dem 7. Lebensjahr beschränkt geschäftsfähig (Taschengeldgeschäfte) und beschränkt deliktsfähig (bei erforderlicher Einsichtsfähigkeit eventuell schadenersatzpflichtig
-
-Jugendlicher
-    ab dem 14. bis zum Ende des 17. Lebensjahres
-
-    beschränkt geschäfts- und deliktsfähig - je nach Reifegrad auch strafrechtlich verantwortlich
-
-junger Erwachsener
-    vom 18. bis zum 21. Lebensjahr
-
-    Volle Deliktfähigkeit, eventuell noch Jugendstrafrecht
-
-Nur wer unter 14 Jahre alt ist, haftet nicht. Danach haftet jeder Jugendliche nach den jeweiligen gesetzlichen Vorschriften, zum Beispiel nach dem Jugendstrafrecht.
