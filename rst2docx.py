@@ -51,4 +51,6 @@ with open(temp_path / "content.rst", "w", encoding="utf-8") as fw:
 
 
 os.chdir(temp_path)
-os.system(f"pandoc -o content.docx content.rst")
+os.system(f"pandoc -o content_pandoc.docx content.rst")
+# os.system(f"rstdoc content.rst content_rstdoc.docx docx")
+# os.system(f"rstdcx content.rst content_rstdcx.docx docx")

@@ -1,18 +1,26 @@
 Verbindung von Sprüngen
 ==========================
 
-.. rst-class:: lead
+Im Folgenden sollen noch eine Auswahl an Sprüngen erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
 
-    Im Folgenden sollen noch eine Auswahl an Sprüngen erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
+Die Aktiven sind hier erstmals mit einer Sprungfolge konfrontiert und müssen lernen den Fokus beim aktuellen Sprung zu behalten und nicht schon an Folgesprünge zu denken.
 
 
 Sitz - ½ Schraube zum Stand
 ------------------------------
 
+Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindung zweier Sprünge.
+
 .. rubric:: Bewegungsbeschreibung
 
 - nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt
 - um die Schraube einzuleiten führt einer der Arme die Bewegung an (linker Arm für Schraube linksherum)
+
+.. rubric:: Methodische Übungsreihe
+
+- die Armbewegung (inklusive Schraube) am Boden demonstrieren und nachahmen lassen
+- Demonstration des Sprungs
+- Sprung durchführen - erwähnen, dass eine saubere Ausführung wichtiger ist als eine vollendete Schraube
 
 .. rubric:: Häufige Fehler
 

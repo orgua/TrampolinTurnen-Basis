@@ -1,9 +1,7 @@
 Spielerisches auf dem Trampolin
 =================================
 
-.. rst-class:: lead
-
-    Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder. Achtung - das Spektrum der Anforderungen ist sehr groß. Während ein großteil der Spiele zur Tuchgewöhnung geeignet sind, erfordern manche Spiele gutes Tuchgefühl und einige Erfahrung und Kontrolle.
+Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen spielerischen Umgang mit dem Trampolin. Die Anregungen eigenen sich zum Auflockern des Trainings - nicht nur für Kinder. Achtung - das Spektrum der Anforderungen ist sehr groß. Während ein großteil der Spiele zur Tuchgewöhnung geeignet sind, erfordern manche Spiele gutes Tuchgefühl und einige viele Erfahrung und Kontrolle.
 
 ..
     TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
@@ -11,22 +9,22 @@ Spielerisches auf dem Trampolin
 Ohne Materialien
 ----------------
 
-- Gehen (vorwärts, rückwärts)
 - Krabbeln (vorwärts, rückwärts, seitwärts)
 - Laufen (vorwärts, rückwärts, Anfersen, Kniehebelauf)
 - „Moon walk“
 - Schrittsprünge (nicht weit – man soll die „Schwerelosigkeit spüren“). Achtung: Im Knie fest bleiben
 - Rollen (vorwärts, rückwärts)
 - Kleine Hüpfer (vorwärts, rückwärts, seitwärts)
+- **Froschsprünge auf dem Kreuz** ohne Vorwippen - perfekt für Stationserwärmung
 - **Hüpfen über das Trampolin in 6,5,4 … Sprüngen**
 - Im Kästchen (rote Markierung auf dem Trampolin) springen
 - **Tierparade**
 
-    - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen
-    - Frosch („Froschhüpfer“)
-    - Robbe (Seitwärtsrollen)
-    - Spinne („Vierfüßlergang“ rücklings)
-    - Stinktier (auf allen Vieren gleichzeitig hüpfen und mit dem Handabdruck die Hände nach unten Strecken
+  - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen
+  - Frosch („Froschhüpfer“)
+  - Robbe (Seitwärtsrollen)
+  - Spinne („Vierfüßlergang“ rücklings)
+  - Stinktier (auf allen Vieren gleichzeitig hüpfen und mit dem Handabdruck die Hände nach unten Strecken)
 
 - „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
 - Springen und auf Signal stehen bleiben
@@ -34,7 +32,7 @@ Ohne Materialien
 Übungen mit Partner
 ----------------------
 
-- Partner springt einen Weg über das Trampolin vor, der andere muss sich den Weg merken und den Weg nachhüpfen
+- Partner springt einen Weg über das Trampolin vor, der andere muss sich den Weg merken und den Weg nachahmen
 - „Karawane“: zwei Personen, einer geht/hüpft vor der andere steht hinter der ersten Person und hält sich an den Schultern fest und wird mit geschlossen/offenen Augen über das Trampolin geführt
 - **Schwungklauen**: zwei Personen machen jeweils auf ihrer Hälfte des Trampolins vorsichtige niedrige Strecksprünge, am Besten anfangs leicht zeitlich versetzt zueinander: Ziel ist es dem partner den Schwung wegzunehmen (Ihn zu stoppen)
 - **Schwungklauen Level 2**: Regeln wie bevor, aber als Spünge Standsprung &  Sitz im Wechsel
