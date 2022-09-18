@@ -19,10 +19,13 @@ Welche Übungen für den jeweiligen Bereich geeignet sind, kann diversen Fachbü
 
 Grundsätzlich ist es ratsam, einen Grundstock von Übungen regelmäßig durchzuführen - ein wenig Abwechslung tut jedoch oft gut.
 
+Im Anschluss an die Erwärmung ist ein **Einspringen** sehr sinnvoll. In dieser lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe entsprechend der Tagesform ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung verbessert die Ausführungsqualität in der darauffolgenden gewohnten Höhe.
+
 Eine weitere Anregung. Aufgrund der Tatsache, dass beim Training jeweils nur ein Aktiver auf dem Trampolin springen kann, ergeben sich für die anderen Turner oft nicht unerhebliche Wartezeiten. Die Zeit kann unter anderem auch dazu genutzt werden, die eine oder andere Übung aus dem Gymnastikprogramm auszuführen; auch Übungen aus dem Turnbereich können gewinnbringend gefordert werden. Das hat auch den Vorteil, dass der Aktive während der Wartezeit nicht auskühlt.
 
 .. note::
     Zu spät gekommene Teilnehmer sollen nicht gleich einsteigen, sondern erst einmal selbstständig warm werden.
+
 
 Beispielkonzept für eine Erwärmung
 ------------------------------------
@@ -41,8 +44,6 @@ Kraft - und Spannungsübungen
 Leichtes Dehnen
     Arbeitsbereich der Muskeln vorbereiten, speziell Grätschwinkel, Bücke und Schulterwinkel. Richtiges tiefes Dehnen erst am Ende der Stunde (oder besser an einem separaten Tag), da die Muskeln im Anschluss anfälliger für Verletzungen sind!
 
-Im Anschluss an die Erwärmung ist eine Einspringphase sehr sinnvoll. In dieser lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung verbessert die Ausführungsqualität in der darauf folgenden gewohnten Höhe.
-
 
 Aufgaben des Trainers
 ---------------------
@@ -50,6 +51,6 @@ Aufgaben des Trainers
 Neben dem Anleiten der Erwärmung gehören auch folgende Punkte zu den Aufgaben eines Trainers:
 
 - Überblick über die Gruppe behalten (gerade bei Kindern)
-- Korrekturen anbieten und wichtige Punkte während der Durchführung ansprechen (Hohlkreuz, durchhängende Hüfte, Unsymmetrie, Verdrehung)
+- Korrekturen anbieten und wichtige Punkte während der Durchführung ansprechen (Hohlkreuz, durchhängende Hüfte, Asymmetrie, Verdrehung)
 - Alternative Übungen bereithalten für Teilnehmer mit zu wenig Ausdauer, Kraft oder Einschränkungen wie überlasteten Gelenken
 - Vorübungen für spätere Sprünge in die Erwärmung einbauen (auch Techniken für Schrauben und Salti lassen sich am Boden üben)

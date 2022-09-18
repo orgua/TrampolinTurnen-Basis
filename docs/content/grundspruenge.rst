@@ -5,7 +5,7 @@ Im Folgenden sollen die Basissprünge auf dem Trampolin vorgestellt werden. Nach
 
 Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**.
 
-Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35). Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen oder besser die **Fehler chronologisch abzuarbeiten**, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
+Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch Gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35). Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen oder besser die **Fehler chronologisch abzuarbeiten**, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
 
 .. rubric:: Ausführungsformen
 
@@ -47,7 +47,7 @@ Schraubensprünge
 
 Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
 
-Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. In späteren Saltoschrauben wird daraus die asymmetrische Armbewegung.
+Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. In späteren Schraubensalti wird daraus die asymmetrische Armbewegung.
 Wasserspringer verwenden noch weitere Schraubentechniken - sie führen eine Hula-Hoop-Bewegung in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
 
 .. rubric:: Schraube aus dem Tuch
@@ -99,7 +99,7 @@ Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name w
 - Arme getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
 - kurz vor der Landung die Hüfte beugen, die Beine sollten gleichmäßig zum Liegen kommen; Tip: mit der Intensität der Beugung kann für geübte Springer eine Nachjustierung erfolgen - zu wenig Rotation kann durch eine schnelle Beinbewegung kompensiert werden (und umgekehrt)
-- **Sitzposition**: bei der Landung die Hände neben bzw etwas hinter dem Gesäß abstützen, die Finger zeigen dabei geschlossen nach vorne, der Oberkörper ist bei geradem Rücken leicht nach hinten geneigt, die Beine geschlossen und wie die Zehen gestreckt
+- **Sitzposition**: bei der Landung die Hände neben bzw. etwas hinter dem Gesäß abstützen, die Finger zeigen dabei geschlossen nach vorne, der Oberkörper ist bei geradem Rücken leicht nach hinten geneigt, die Beine geschlossen und wie die Zehen gestreckt
 - Aufstehen zum Stand:
 
   - mit den Händen aktiv abdrücken
@@ -145,7 +145,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - im Absprung Körper spannen und gemäßigten Fußkick ausführen (siehe Technik vom Sitzsprung), sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
 - die Arme unterstützen den Absprung nach oben - sie sind gestellt und zeigen während des Sprungs weiterhin zur Decke
 - vor der Landung die Hüfte einknicken, so dass im Tuch die Beine senkrecht zur Decke stehen und der gesamte Rücken gleichmäßig zum Liegen kommt
-- Tip: wie schon beim Sitzsprung beschrieben, ermöglicht eine Variation der Intensität des Hüftschlags die Nachjustierung des Sprungs
+- Tipp: wie schon beim Sitzsprung beschrieben, ermöglicht eine Variation der Intensität des Hüftschlags die Nachjustierung des Sprungs
 - die Arme befinden sich bei der Landung ebenfalls gestreckt senkrecht zur Decke zeigend
 - **Liegeposition**: Seitlich betrachtet nimmt der Körper im Tuch eine "Wannenform" ein, d.h. keine rechten Winkel, sondern etwas mehr geöffnet in Hüfte und Schulter - der Kopf kann auf dem Trampolin abgelegt werden
 - Absprungposition der Füße (auf Kreuz) sollte in Rückenlage auch Position des Bauchnabels sein (Fixpunkt)
@@ -162,7 +162,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - Demonstration; Insbesondere auf die Position der Beine und Arme bei der Landung sollte eingegangen werden
 - Liegeposition statisch auf dem Tuch einnehmen
 - Stempelgriff-Vorübung zum Kennenlernen der Landephase: Trainer greift die Füße aus der Trockenposition und federt den Aktiven mit einem Kick ins Tuch. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
-- Tip: für eine Reduktion der Komplexität können die nachfolgenden Übungen zunächst in den flachen (bzw. platten) Rücken durchgeführt werden
+- Tipp: für eine Reduktion der Komplexität können die nachfolgenden Übungen zunächst in den flachen (bzw. platten) Rücken durchgeführt werden
 - auf einer sehr weichen oder gefederten Matte (Mattentisch bzw. Geräteaufbau unten beschrieben) den Absprung auf der Matte und die Landung im Rücken üben
 - Geräteaufbau - kann parallel zum Training auf dem Trampolin benutzt werden
 
@@ -255,4 +255,4 @@ und auch angebracht ist.
 
 .. rubric:: Hilfestellung
 
-Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechten auch das Stoppen einer Vorwärtsbewegung. Kurz vor der Tuchberührung die Füße loslassen , sonst droht Verletzungsgefahr. Dies funktioniert auch mit Reinlaufen vom Rand.
+Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechten auch das Stoppen einer Vorwärtsbewegung. Kurz vor der Tuchberührung die Füße loslassen , sonst droht Verletzungsgefahr. Dies funktioniert auch mit Reinlaufen vom Rand.

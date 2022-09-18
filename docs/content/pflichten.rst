@@ -23,7 +23,7 @@ Dieses Kapitel bietet eine Übersicht über die Verantwortung die neue Trainer, 
 Aufsichtspflicht
 -----------------
 
-.. admonition:: 832 BGB Haftung des Aufsichtspflichtigen
+.. admonition:: 832 BGB - Haftung des Aufsichtspflichtigen
 
     (1) Wer kraft Gesetzes zur Führung der Aufsicht über eine Person verpflichtet ist, die wegen Minderjährigkeit oder wegen ihres geistigen oder körperlichen Zustands der Beaufsichtigung bedarf, ist zum Ersatz des Schadens verpflichtet, den diese Person einem Dritten widerrechtlich zufügt. Die Ersatzpflicht tritt nicht ein, wenn er seiner Aufsichtspflicht genügt oder wenn der Schaden auch bei gehöriger Aufsichtsführung entstanden sein würde.
     (2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die Führung der Aufsicht durch Vertrag übernimmt.
@@ -63,7 +63,7 @@ Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Ve
 .. rubric:: Besonderheiten beim Trampolinturnen
 
 - der Überblick über die Gruppe sollte jederzeit gewahrt werden - in der Regel benötigt man eine zweite Aufsichtsperson (beispielsweise Eltern) während man Übungen anleitet
-- Für den Fall dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und eine Aufsichtsperson zu ernennen. Dies kann beispielsweise im Notfall auch ein verantwortungsvolles Kind sein.
+- Für den Fall, dass man die Gruppe kurz verlassen muss, so ist die Gruppe zu belehren und eine Aufsichtsperson zu ernennen. Dies kann beispielsweise im Notfall auch ein verantwortungsvolles Kind sein.
 
   - Gefahrenquellen beseitigen! Ist ein Trampolin bereits aufgebaut, so muss es sprungunfähig gemacht werden. Dafür muss es nicht abgebaut werden. Es reicht aus eine Matte von der Stirnseiten über das Tuch zu ziehen.
 
