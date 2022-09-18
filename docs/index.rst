@@ -1,7 +1,7 @@
-﻿.. Einführung ins Trampolinturnen documentation master file, created by
+.. Einführung ins Trampolinturnen documentation master file, created by
    sphinx-quickstart on Mon Sep  5 22:12:41 2022.
    You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+   contain the root ``toctree`` directive.
 
 Einführung ins Trampolinturnen
 ================================
@@ -12,17 +12,17 @@ Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer.
    :maxdepth: 2
    :caption: Inhaltsverzeichnis
 
-   content/einleitung
-   content/pflichten
-   content/sicherheit
-   content/gymnastik
-   content/tuchgewoehnung
-   content/spiele
-   content/grundspruenge
-   content/sprungverbindung
-   content/materialien
+   content/einleitung.rst
+   content/pflichten.rst
+   content/sicherheit.rst
+   content/gymnastik.rst
+   content/tuchgewoehnung.rst
+   content/spiele.rst
+   content/grundspruenge.rst
+   content/sprungverbindung.rst
+   content/materialien.rst
 
-.. content/fortsprung
+.. content/fortsprung.rst
 
 
 ..

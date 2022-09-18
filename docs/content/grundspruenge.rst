@@ -1,4 +1,4 @@
-﻿Grundsprünge und Landungsarten
+Grundsprünge und Landungsarten
 ==============================
 
 Im Folgenden sollen die Basissprünge auf dem Trampolin vorgestellt werden. Nach einer kurzen **Bewegungsbeschreibung** erfolgt dann eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.

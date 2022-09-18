@@ -1,4 +1,4 @@
-﻿Weitere Sprünge
+Weitere Sprünge
 ==============================
 
 ..

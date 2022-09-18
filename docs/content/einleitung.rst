@@ -1,4 +1,4 @@
-﻿Einleitung
+Einleitung
 ===========
 
 *"Ein kleiner Traum vom Fliegen..."*
@@ -50,4 +50,3 @@ Eine **bebilderte Aufbauanleitung** ist im Internet unter `<www.eurotramp.com>`_
 .. figure:: ../media/trampolin.png
 
    Übersicht Trampolin im aufgebauten Zustand, Quelle: https://www.eurotramp.com/en/products/ultimate
-

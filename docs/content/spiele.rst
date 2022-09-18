@@ -1,4 +1,4 @@
-﻿Spielerischer Umgang mit dem Trampolin
+Spielerischer Umgang mit dem Trampolin
 =========================================================
 
 .. rst-class:: lead

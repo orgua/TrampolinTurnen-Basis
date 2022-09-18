@@ -1,4 +1,4 @@
-﻿Einführung ins TrampolinTurnen
+Einführung ins TrampolinTurnen
 ==============================
 
 .. image:: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment/badge.svg
@@ -13,8 +13,8 @@ Links:
 
 - `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
 
-Installation
---------------
+Basic Installation for Web-Content
+-----------------------------------
 
 Compiling this document needs Python 3 and a shell.
 For installation:
@@ -49,8 +49,8 @@ Viewing the document in a browser:
 
 In browser go to `<localhost:8000>`_ to view the documentation.
 
-Generating a PDF
-----------------
+Generating a PDF (+Install)
+---------------------------
 
 Install for Ubuntu / Debian, following `Sphinx.LaTeXBuilder <https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.latex.LaTeXBuilder>`_
 
@@ -67,15 +67,17 @@ Generating the PDF
 .. code-block:: bash
 
     cd docs/
-    make latex
+    # make latex
     make latexpdf
 
+Generating a DocX (+Install)
+----------------------------
+
+`Pandoc <https://pandoc.org/>`_ must be installed, then simply run ``.\rst2docx.py``.
 
 Wie kann ich beitragen?
 --------------------------------
 
-Hilfe und Anmerkungen willkommen. Die Quellen befinden sich unter `docs/content` in Form von rst-Dateien.
+Hilfe und Anmerkungen willkommen. Die Quellen befinden sich unter ``docs/content`` in Form von rst-Dateien.
 
 - `Writing reStructuredText <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
--
-

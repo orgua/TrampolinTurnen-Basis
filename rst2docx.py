@@ -45,7 +45,7 @@ with open(temp_path / "content.rst", "w", encoding="utf-8") as fw:
 
     for file in files:
         fw.write("")
-        with open(file_path / (file + ".rst"), encoding="utf-8-sig") as fd:
+        with open(file_path / (file + ".rst"), encoding="utf-8") as fd:
             content = fd.read()
             fw.write(content)
 

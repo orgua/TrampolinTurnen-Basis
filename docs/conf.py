@@ -7,11 +7,11 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 
-project = 'Trampolinturnen'
-project_full = 'Einführung ins Trampolinturnen'
-copyright = '2022, Ingmar Splitt'
-author = 'Ingmar Splitt'
-release = '0.7'
+project = "Trampolinturnen"
+project_full = "Einführung ins Trampolinturnen"
+copyright = "2022, Ingmar Splitt"
+author = "Ingmar Splitt"
+release = "0.7"
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------
@@ -22,10 +22,10 @@ extensions = [
     "sphinx_sitemap",
 ]
 
-templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+templates_path = ["_templates"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
-language = 'de'
+language = "de"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -34,8 +34,8 @@ html_title = project_full
 html_collapsible_definitions = True
 html_copy_source = False
 
-html_permalinks_icon = '<span>#</span>'
-html_theme = 'sphinxawesome_theme'
+html_permalinks_icon = "<span>#</span>"
+html_theme = "sphinxawesome_theme"
 html_theme_options = {
     "show_scrolltop": True,
     "show_prev_next": True,
@@ -45,9 +45,9 @@ html_theme_options = {
     },
 }
 # TODO: https://sphinxawesome.xyz/how-to/options/
-html_baseurl = 'https://orgua.github.io/TrampolinTurnen-Basis/'
-html_extra_path = ['robots.txt']
-html_static_path = ['_static']
+html_baseurl = "https://orgua.github.io/TrampolinTurnen-Basis/"
+html_extra_path = ["robots.txt"]
+html_static_path = ["_static"]
 
 sitemap_url_scheme = "{link}"
 
@@ -55,40 +55,35 @@ sitemap_url_scheme = "{link}"
 # https://www.sphinx-doc.org/en/master/latex.html
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-latex_theme
 
-'''
-latex_documents = [(
-    "index",  # startdocname
-    project,  # targetname
-    project_full,  # title
-    author,  # author
-    "report",  # theme
-    False,  # toctree_only
-)]
-'''
-latex_theme = "report"
+
+# latex_documents = [(
+#     "index",  # startdocname
+#     project,  # targetname
+#     project_full,  # title
+#     author,  # author
+#     "report",  # theme
+#     False,  # toctree_only
+# )]
+
+latex_theme = "manual"
 # manual    sphinx-report - much wasted space
 # howto     no page-break at all -> TODO: has latex_appendices?
 # report    ok, but small
 
 latex_elements = {
     "papersize": "a4paper",
-    "pointsize": "10pt",
-    "fncychap": '',  # '\\usepackage[Bjornstrup]{fncychap}',
+    "pointsize": "11pt",
+    "fncychap": "",  # '\\usepackage[Bjornstrup]{fncychap}',
     "transition": "\\bigskip",
-
     # passoptionstopackages
-
-    'preamble': r'\input{style.tex.txt}',
-            
+    "preamble": r"\input{style.tex.txt}",
     # MTB
-    "sphinxsetup": '''
+    "sphinxsetup": """
         InnerLinkColor = {rgb}{0.6,0,0}, % red
-        OuterLinkColor = {rgb}{0.6,0,0}, 
+        OuterLinkColor = {rgb}{0.6,0,0},
         TitleColor = {rgb}{0.0,0,0}, % black
         marginpar = 0in, % no difference
-    '''
-
-
+    """,
 }
 
 latex_additional_files = ["style.tex.txt"]

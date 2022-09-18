@@ -1,4 +1,4 @@
-﻿Verbindung von Sprüngen
+Verbindung von Sprüngen
 ==============================
 
 .. rst-class:: lead
