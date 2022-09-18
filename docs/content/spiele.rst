@@ -1,5 +1,5 @@
-Spielerischer Umgang mit dem Trampolin
-=========================================================
+Spielerisches auf dem Trampolin
+=================================
 
 .. rst-class:: lead
 

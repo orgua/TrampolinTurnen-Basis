@@ -74,5 +74,4 @@ Weitere Pflichten
 - sinnvolle Beschäftigung, Übungsteilnahme
 - keinen Streit
 - anderen keinen Schaden zufügen, keine Gefährdung anderer
-- ÜL darf selbst keine Gefahren für die Gruppe herbeiführen oder ihr gegenüber
-  strafbare Handlungen begehen
+- ÜL darf selbst keine Gefahren für die Gruppe herbeiführen oder ihr gegenüber strafbare Handlungen begehen

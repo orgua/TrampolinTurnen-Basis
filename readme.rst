@@ -75,9 +75,18 @@ Generating a DocX (+Install)
 
 `Pandoc <https://pandoc.org/>`_ must be installed, then simply run ``.\rst2docx.py``.
 
+**Problems with Pandoc**
+
+- internal links don't work ("Name <Link>")
+- *leads* (small introduction into chapter) is not converted and still has "lead" in front
+- same for "tip", "caution", "warning", and more?
+- no TOC
+
+-> could be solved with ``rstdoc``-lib, but that has other problems.
+
 Wie kann ich beitragen?
 --------------------------------
 
-Hilfe und Anmerkungen willkommen. Die Quellen befinden sich unter ``docs/content`` in Form von rst-Dateien.
+Schreibfehler gefunden? Bessere Methodik zu bieten? Hilfe und Anmerkungen sind willkommen. Die Quellen befinden sich unter ``docs/content`` in Form von reStructuredText-Dateien.
 
 - `Writing reStructuredText <https://www.writethedocs.org/guide/writing/reStructuredText/>`_

@@ -23,6 +23,10 @@ Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewisse
 .. caution::
     Caution, Important
 
+Hilfestellung - Landung
+
+Des weiteren sollte der **Klammergriff** zur Stabilisierung von Salto-Landungen gut geübt werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Springer, nähert sich und peilt bei der Landung mit einem Arm den Bauch und mit der Hand des Anderen Arms die untere Wirbelsäule an. Der Kopf auf befindet sich hinter dem Aktiven, dicht am Rücken.
+
 
 Salto Rückwärts (gehockt)
 --------------------------

@@ -1,5 +1,5 @@
 Gymnastik
-==========
+===========
 
 Wie bei allen anderen Sportarten auch, sollte dem eigentlichen Training immer eine den Erfordernissen der Sportart angepasste Erwärmung vorangestellt werden. So natürlich auch beim Trampolinturnen.
 
@@ -24,7 +24,7 @@ Eine weitere Anregung. Aufgrund der Tatsache, dass beim Training jeweils nur ein
 Beispielkonzept für eine Erwärmung
 ------------------------------------
 
-Bei einer Doppelstunde (90 min) sind 25 - 40 Minuten eine guter Rahmen für eine Erwärmung. Folgende vier Punkte sollten abgedeckt sein und können mit ähnlichen Zeitanteilen gewichtet werden:
+Bei einer Doppelstunde (90 min) sind 25 - 40 Minuten eine guter Rahmen für eine Erwärmung. Das Ziel der Trainingsstunde kann bereits in der Erwärmung etwa durch Vorübungen vorbereitet werden. Folgende vier Punkte sollten in der Erwärmung abgedeckt sein und können mit ähnlichen Zeitanteilen gewichtet werden:
 
 Kreislauf hochfahren
     Dazu eignet sich ein Spiel wie `Hase im Kohl <http://www.sportstunde.net/?q=node/90>`_, ein Lauf-ABC oder Ausdauerübungen mit leichter Belastung.

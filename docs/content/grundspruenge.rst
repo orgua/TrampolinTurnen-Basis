@@ -47,8 +47,8 @@ Schraubensprünge
 
 Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
 
-Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne Kippt. Der Kopf unterstützt die Drehrichtung. In späteren Saltoschrauben wird daraus die asymmetrische Armbewegung.
-Wasserspringer verwenden noch eine weitere Schraubentechnik - sie führen eine Hula-Hoop-Bewegung in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen.
+Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (aber nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. In späteren Saltoschrauben wird daraus die asymmetrische Armbewegung.
+Wasserspringer verwenden noch weitere Schraubentechniken - sie führen eine Hula-Hoop-Bewegung in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
 
 .. rubric:: Schraube aus dem Tuch
 
@@ -72,12 +72,13 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
 
 - Absprung zum Strecksprung
 - eine Schulter-Seite wird entsprechend der Drehrichtung nach hinten ausgehoben, die Gegenseite kann nach vorne bewegt werden
-- der Kopf unterstützt die Bewegung in Drehrichtung
+- der Kopf kann die Bewegung in Drehrichtung unterstützen
 - die Arme können zunächst am Körper anliegen, gestellt sein oder später die asymmetrische Schraube aktiv unterstützen:
 
   - der Arm in Schaubenrichtung unterstützt das Ausheben der Schulter und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
+Häufigster Fehler ist wohl das unbewusste Abdrücken in der Luft. Statt die Arme in Drehrichtung mitzunehmen bewegen sie sich entgegengesetzt.
 
 Sitzlandung / Sitz
 ------------------
@@ -176,7 +177,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 
 .. rubric:: Häufige Fehler
 
-- **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme nach unten bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
+- **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme hinter ihren Körper  bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
 - zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen
 - die Beine sind in der Landung nicht optimal gestellt; Folgen:
 

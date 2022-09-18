@@ -1,5 +1,5 @@
 Sicherheit
-=====================
+============
 
 Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den :ref:`Geräteauf- und Abbau <Aufbau>` sowie die äußere :ref:`Organisation der Trainingsstunde <Organisation>`. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den :ref:`Einsatz von Hilfsmitteln <Hilfestellung>` betrifft.
 
@@ -30,6 +30,7 @@ Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 - die Stirnseiten des Trampolins müssen mit Weichböden bzw. Trampolintischen abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die gleiche Höhe wie das Trampolin haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
 - die Längsseiten des Trampolins mit Bodenmatten und/oder Turnmatten sichern
 - vor Benutzen des Trampolins erst den korrekten Aufbau überprüfen; die Fußstützen sollen eingerastet, die Federn mit dem Haken nach unten montiert und die Ketten gespannt sein
+- Wartung: regelmäßig prüfen ob alle 4 Ketten gespannt sind, das Trampolin waagerecht steht und die Klappgelenke korrekt öffnen (in einer Linie, keine Wanne, aber auch keine Überdehnung) -> ansonsten Ketten korrigieren
 - beim Zusammenklappen verhindern, dass die Seitenteile herunterfallen; bei der ersten Seite ist zu beachten, dass das Tuch noch unter Spannung steht
 - die Metallbügel der Heberollständer müssen nach oben zeigen
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
@@ -44,19 +45,20 @@ Organisatorische Maßnahmen beim Training
 Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven zu beachten:
 
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
-- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollten natürlich auch entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive wird nicht aufgefangen sondern zurück aufs Trampolin befördert
-- neben und hinter dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
+- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollen natürlich auch entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive nicht aufgefangen sondern zurück aufs Trampolin befördert / gedrückt
+- unter und neben dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
 - in der Regel sollte niemand auf den Rahmen oder den Matten an den Stirnseiten (Mattentische) sitzen
-- nie unter das Trampolin kriechen während sich eine Person darauf befindet
+- nie unter das Trampolin oder die Mattentische kriechen während sich eine Person darauf befindet
 - vom Trampolin sollte heruntergeklettert und nicht gesprungen werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
-- auf dem Trampolin kein Kaugummi oder Bonbon im Mund behalten
+- gerade beim Heruntergehen vom Trampolin bleibt leicht mal ein Fuß unter der Abdeckung hängen. Aufmerksam bleiben nach der Übung! Gerade bei freistehenden Geräten kann ein Stolpern ungünstig ausgehen.
+- auf dem Trampolin kein Kaugummi oder Bonbon im Mund behalten (Gefahr des Einatmens)
 - gesprungen wird mit Strümpfen oder Turnschläppchen (nicht barfuß oder in Turnschuhen)
 - keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
 - beim Springen sollten die Aktiven möglichst enge Kleidung tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben. Keine Kapuzen!
 - weitere ungeeignete Kleidung: Zehensocken, Jeans (Abrieb), Gürtel mit Gürtelschnallen, Kleidung mit Metallteilen wie Reißverschlüssen oder Nieten
 - neue Sprungelemente sind vorher mit dem Trainer abzusprechen. Dies gilt insbesondere für Sprünge mit Saltorotation sowie Landungen in Bauch- oder Rückenlage.
-- Hauptblickrichtung immer die Stirnseite des Trampolins, daher nur Vielfache von halben Schrauben erlaubt
-- im Falle eines unerwarteten Ereignis Springen (auch beim Verlassen des inneren Quadrats) lieber abstoppen
+- Hauptblickrichtung ist immer die Stirnseite des Trampolins, daher sind nur Vielfache von halben Schrauben erlaubt
+- im Falle eines unerwarteten Ereignis beim Springen (auch beim Verlassen des inneren Quadrats) lieber abstoppen
 - im Falle eines Sturzes nicht mit den Händen abfangen, sondern versuchen auf den Rücken zu drehen
 - Knie sind im Tuch gestreckt (ansonsten Gefahr ab gewissen Sprunghöhen)
 
@@ -71,29 +73,52 @@ Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainer
 
 .. rubric:: Üben der Basics
 
-Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Manchmal muss während des Springens mitgesprungen werden, im Absprung (auf "drei") muss der Trainer auf jeden Fall sicher im Tuch bleiben. Dazu ein paar kleine Übungsformen:
+Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Manchmal muss während des Springens mitgesprungen werden, im Absprung (auf "drei") muss der Trainer auf jeden Fall sicher im Tuch stehen bleiben. Dazu ein paar kleine Übungsformen:
 
+**Den Einfluss kontrollieren**
+
+- zwei Personen stehen jeweils in ihrer Hälfte des Trampolins
+- Tip: für den Anfang eignet sich eine etwa gleichschwere Personen
+- der passive Teilnehmer wippt nur leicht
+- die aktive Person steht im Tuch und versucht durch gezielte Kicks ins Tuch das Sprungverhalten der anderen Person zu beeinflussen
+- achtet dabei auf die Bewegung des Partners
+- um Energie mitzugeben ist ein Kick kurz vor dem tiefsten Punkt im Tuch (Ende der Abwärtsbewegung) nötig
+- um Energie wegzunehmen erfolgt der Kick kurz nach dem tiefsten Punkt (Start der Aufwärtsbewegung)
+- Variation: 3x leicht Höhe mitgeben, 1x stark Höhe nehmen
+
+**Den Einfluss minimieren**
+
+- nun ist neutrales Mitspringen (gleichzeitige Landung) bzw. leichtes Mitgeben von Höhe gefordert
 - zwei Personen fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.
-- Variation: hintereinander mit Festhalten an den Hüfte
+- Variation: hintereinander mit Festhalten an Hüfte oder Schulter
 - Variation: Sprünge mit Drehungen
 - auf Kommando (in der Regel „eins, zwei, drei“) führt der vorne Stehende einen einfachen Sprung aus (z.B. eine Hocke); der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen
--
 
-Des weiteren sollte der **Klammergriff** zur Stabilisierung von Salto-Landungen gut geübt werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Springer, nähert sich und peilt bei der Landung mit einem Arm den Bauch und mit der Hand des Anderen Arms die untere Wirbelsäule an. Der Kopf auf befindet sich hinter dem Aktiven, dicht am Rücken.
+**Die Technik perfektionieren**
 
-Weitere hilfreiche Hilfestellungen werden teilweise im Kapitel :doc:`grundspruenge` und später vorgestellt. Sie umfassen:
+- sobald diese oben genannten Techniken mit einer Person verlässlich funktionieren, kann mit anderen Gewichtsklassen experimentiert werden
+- neutrales Mitspringen ist essentiell damit sich der aktive Springer auf den durchzuführenden Sprung konzentrieren kann
+- sucht euch eventuell einen Fixpunkt am aktiven Springer - etwa die Schulter
+- durch den Kontakt zum aktiven Springer kann man die Relation leicht manipulieren und eine gleichzeitige Landung erzwingen
+- manche Springer neigen dazu ihr Sprungverhalten beim Anzählen zu verändern
 
+In der finalen Ausführung der Hilfestellung will man seitlich vom Aktiven stehen. Kontakt wird über den **Sandwichgriff** gehalten. Dabei befindet sich ein Arm des Trainers vor dem Bauch des Aktiven und die Hand des anderen Arms stabilisierend am oberen Rücken, etwa zwischen den Schulterblättern.
+
+Weitere hilfreiche Hilfestellungen werden passend zu den jeweiligen Sprüngen im Kapitel :doc:`grundspruenge` und später vorgestellt. Sie umfassen:
+
+- Klammergriff
+- Stempelgriff
 - Oberarmdrehgriff mit 1 oder 2 Trainern
 - Absicherung mit einem Gürtel (für Kinder)
-- eine Hand im Drehgriff am Hosenbund
+- eine Hand im Drehgriff am Hosenbund (für Kinder)
 - eine Hand am Rücken, die andere an der Schulter
 - Longe
 
 .. rubric:: Umgang mit Hilfestellungen
 
-Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Nach etwa 5 guten Sprungwiederholungen kann die Sicherung reduziert werden. Bitte nicht scheuen einen Schritt zurück zu gehen bei Verschlechterungen. Ein stufenweiser **Abbau der Hilfestellung** kann wie folgt aussehen:
+Nach der aktiven Hilfe auf dem Gerät erfolgt normalerweise ein stufenweiser Abbau der Hilfestellung. Nach etwa 5 guten Sprungwiederholungen kann die Sicherung nach eigenem Ermessen reduziert werden. Bitte nicht scheuen einen Schritt zurück zu gehen bei Verschlechterungen. Ein stufenweiser **Abbau der Hilfestellung** kann wie folgt aussehen:
 
-- beginn mit Full-Contact beim Mitspringen - bereit für jede Art von Fehler, besonders die Landung kann und sollte gesichert sein
+- beginn mit Vollkontakt beim Mitspringen - bereit für jede Art von Fehler, besonders die Landung kann und sollte gesichert sein
 - reduktion auf das Mitgeben von Höhe oder Rotation
 - passives Mitspringen und Eingreifen im Ernstfall
 - Reinlaufen vom Rahmen

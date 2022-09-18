@@ -1,5 +1,5 @@
-Tuchgewöhnung
-============================
+﻿Tuchgewöhnung
+===============
 
 In den ersten Trainingsstunden sollten neue Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders auch solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`Gleichgewicht <Gleichgewicht>` geschult sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
 
@@ -20,7 +20,7 @@ Selbst mit nur einem Trampolin lässt sich etwas ähnliches umsetzen indem die T
 
 .. _Erstkontakt:
 
-Der erste Kontakt
+Erste Tuchfühlung
 --------------------
 
 Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin:

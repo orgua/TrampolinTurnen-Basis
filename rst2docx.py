@@ -44,7 +44,7 @@ with open(temp_path / "content.rst", "w", encoding="utf-8") as fw:
     fw.truncate()
 
     for file in files:
-        fw.write("")
+        fw.write("\n\n")
         with open(file_path / (file + ".rst"), encoding="utf-8") as fd:
             content = fd.read()
             fw.write(content)

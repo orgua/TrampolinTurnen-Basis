@@ -1,5 +1,5 @@
 Verbindung von Sprüngen
-==============================
+==========================
 
 .. rst-class:: lead
 
@@ -17,6 +17,7 @@ Sitz - ½ Schraube zum Stand
 .. rubric:: Häufige Fehler
 
 - die Hüfte wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
+- anstatt die Arme mitzunehmen in Richtung der Drehbewegung wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung)
 
 Stand - ½ Schraube zum Sitz
 ----------------------------

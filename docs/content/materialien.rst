@@ -1,5 +1,5 @@
 Materialien
-===========
+============
 
 Trainingsorganisation
 ---------------------
