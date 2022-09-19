@@ -3,15 +3,16 @@ Tuchgewöhnung
 
 In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
 
-.. tip::
-    Die im Folgenden **dick** gedruckten Punkte eignen sich als Mindestsatz an Übungen um das wichtigste abzudecken. Dies ermöglicht schnellen Fortschritt und ein individuelles Nachjustieren.
-
 Zu den wichtigsten **Effekten auf dem Trampolin** zählen:
 
 - Sprünge werden durch die Tuchwölbung in Richtung des Kreuzes geleitet
 - Überkorrekturen können sich potenzieren; daher sollte man vorsichtig korrigieren oder abstoppen. Erfahrene Trainer können demonstrieren was passiert nachdem man vom Randbereich des Tuchs zurück aufs Kreuz springt
 - Ungleichgewichte wie z.B. Vorlage (oder falls jemand mit gesenktem Kopf aufs Tuch schaut) wirken sich auf die Sprungrichtung aus
 - Kräfte werden mit gewisser Höhe schwerer kontrollierbar, daher im Tuch immer gestreckte Knie und sicherer breiter Stand (Schulterweite)
+
+
+.. tip::
+    Die im Folgenden **dick** gedruckten Punkte eignen sich als Mindestsatz an Übungen um das wichtigste abzudecken. Dies ermöglicht schnellen Fortschritt und ein individuelles Nachjustieren falls mehr Schritte benötigt werden.
 
 In der Regel wird es im Verein so sein, dass nur vereinzelt neue Aktive zu betreuen sind. In diesem Fall lohnt es sich nicht, den Geräteaufbau in irgendeiner Form zu verändern. Soll jedoch eine komplette Gruppe mit dem Trampolin vertraut gemacht werden und ist mehr als ein Trampolin in der Turnhalle verfügbar, so kann folgender Geräteaufbau benutzt werden:
 
@@ -26,7 +27,7 @@ Selbst mit nur einem Trampolin lässt sich etwas ähnliches umsetzen indem die T
 Erste Tuchfühlung
 --------------------
 
-Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin. Als Orientierung für einen Parkour können die roten Linien auf dem Tuch dienen. Das äußere rote Rechteck kann als Strecke dienen. Diese Strecke kann beispielsweise mit Rotation in den Ecken oder mit fester Blickrichtung geradeaus abgearbeitet werden.
+Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin. Als Orientierung für einen **Parkour** können die roten Linien auf dem Tuch dienen. Das **äußere rote Rechteck** kann als Strecke dienen. Diese Strecke kann beispielsweise jeweils pro Übung zuerst mit Rotation in den Ecken und anschließend **mit fester Blickrichtung geradeaus** abgearbeitet werden.
 
 .. rubric:: Methodische Übungsreihe
 
@@ -45,7 +46,7 @@ Abstoppen
 
 Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicherheitsgründen bewusst viel Zeit gewidmet werden. In der Erwärmung können bereits **Kniebeuge** als Bewegungsanalogie durchgeführt werden. Folgende Übungen eignen sich dafür im direkten Anschluss an die ersten Übungen zur Gewöhnung an das Trampolin:
 
-.. rubric:: Bewegungsbeschreibung Abstoppen
+.. rubric:: Bewegungsbeschreibung
 
 - die Bewegung gleicht einer Kniebeuge
 - der Körper behält den Schwerpunkt über der Standposition, während die Knie gebeugt werden
@@ -93,7 +94,7 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
 - vor- und zurückspringen
 - Variation: über eine Zauberschnur springen
 - zur Seite springen (sinnvoll: Sicherheitsstellung auf beiden Seiten auf dem Rahmen)
-- springend die **Ecken des Trampolins kennenlernen**
+- **Ecken des Trampolins kennenlernen**, springend
 - ein Quadrat oder andere Formen springen
 - zu zweit Formen vor-springen, der Partner springt nach
 - auf den Tuchmarkierungen springen
@@ -123,6 +124,12 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
 - **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
 
+.. rubric:: Fehler und Korrekturen
+
+- Landung in Rücklage: Hohlkreuz? Armschwung nach oben zu stark? Alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
+- Wandern und Armrudern: Armeinsatz üben, bzw. Höhe reduzieren
+- Beine arbeiten mit: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden
+
 Stellen der Arme
 -----------------
 
@@ -131,7 +138,7 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 .. rubric:: Methodische Übungsreihe
 
 - Demonstration auf dem Boden (langsam) um den eigentlichen Bewegungsablauf deutlich zu machen
-- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hockposition heraus.
+- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hock-Position heraus.
 - Prellsprünge (reaktiv mit dem Fußballen abdrücken) auf einem Weichboden mit gestellten Armen
 - Strecksprünge. Hierbei werden die Arme konsequent die ganze Zeit durchgedrückt aus den Schultern heraus zur Decke gestreckt. Jeweils im Wechsel dazu Strecksprünge, bei denen die Arme gestreckt eng am Körper angelegt werden.
 - Variationen: 10 x oben - 10 x unten, 3 x unten - 3 x oben
@@ -148,7 +155,7 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 
 .. tip::
 
-    Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handflächen beim Stellen der Arme nach außen zu drehen. Ebenso kann ein sehr spätes kräftiges Stellen (fast im Moment der Landung) helfen.
+    Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handflächen beim Stellen der Arme nach außen zu drehen. Ebenso kann ein sehr spätes und schnelles Stellen (fast im Moment der Landung) helfen.
 
     Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich nach "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird besonders bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
 

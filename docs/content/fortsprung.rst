@@ -57,7 +57,7 @@ Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere
 - den Griff in der Luft lösen und den Aktiven nach einer kurzen freien Flugphase kurz vor der Landung auffangen
 - den Sprung in die Schiebematte ausführen; Hilfestellung vom Rand aus
 
-.. rubric:: Häufige Fehler TODO
+.. rubric:: Fehler und Korrekturen TODO
 
 - Beine und Hüfte werden nicht genügend (lange) nach vorne geschoben; das Anhocken erfolgt zu früh
 - Arme und/oder Kopf fällt/fallen nach hinten

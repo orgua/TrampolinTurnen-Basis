@@ -17,8 +17,7 @@ Dieses Kapitel bietet eine Übersicht über die Verantwortung die neue Trainer, 
 - gewissenhaft mit eurer zentralen Stellung in der Gruppe (Vertrauensperson) umgehen
 
 
-  *"Ihr beeinflusst durch euer Verhalten indirekt das Verhalten der Einzelnen
-  zueinander und das Verhalten der Gruppe nach außen."*
+*"Ihr beeinflusst durch euer Verhalten indirekt das Verhalten der Einzelnen zueinander und das Verhalten der Gruppe nach außen."*
 
 Aufsichtspflicht
 -----------------
@@ -42,7 +41,7 @@ Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Ve
 .. rubric:: Aufsichtspflicht im Detail
 
 - Das Maß der gebotenen Aufsichtspflicht bestimmt sich nach Alter, Eigenart und Charakter des Kindes, nach der Voraussehbarkeit des schädigenden Verhaltens.
-- Ein Aufsichtspflichtiger hat sich daher auch darum zu kümmern, womit sich die Kinder in der Freizeit beschäftigen, gelegentlich müssen sie sie dabei beobachten und auch beim Aufräumen des Kinderzimmers und Säubern der Kleidung auf die Gegenstände achten, mit denen sich die Kinder beschäftigen. Danach bestimmen sich das Maß der Überwachungs- und Belehrungspflichten und die Notwendigkeit von Kontrollen.
+- Ein Aufsichtspflichtiger hat sich daher auch darum zu kümmern, womit sich die Kinder in der Freizeit beschäftigen. Danach bestimmen sich das Maß der Überwachungs- und Belehrungspflichten und die Notwendigkeit von Kontrollen.
 - Eine erhöhte Aufsichtspflicht besteht bei Kindern, die zu üblen Streichen neigen und bei schwer erziehbaren Kindern sowie bei Gebrauch gefährlichen Spielzeugs, gleich ob diese durch den Aufsichtspflichtigen überlassen oder durch den Minderjährigen eigenmächtig beschafft wurden.
 - Der Aufsichtspflichtige ist gehalten, sich darüber zu vergewissern, was der Aufsichtsbedürftige und seine Genossen treiben, wenn sie allein gelassen sind.
 - Ein besonders strenger Maßstab muss bei der Belehrung über den Umgang mit Feuer, Feuerzeug und Streichhölzern gelegt werden.
@@ -53,7 +52,7 @@ Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Ve
 .. rubric:: Besonderheiten bei Gruppen
 
 -	Persönlichkeit der Kinder (Alter, Entwicklung, Auffälligkeiten)
--	Gruppenverhalten (Größe, Zeit des Bestehens, gruppendynamische Gesetzmäßigkeiten
+-	Gruppenverhalten (Größe, Zeit des Bestehens, gruppendynamische Gesetzmäßigkeiten)
 -	örtliche Umgebung
 -	Gefährlichkeit bei der Beschäftigung
 -	pädagogische Qualifikation des ÜLs, Alter, Erfahrung

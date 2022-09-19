@@ -3,8 +3,8 @@ Sicherheit
 
 Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den :ref:`Auf- und Abbau des Trampolins <Aufbau>` sowie die äußere :ref:`Organisation der Trainingsstunde <Organisation>`. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den :ref:`Einsatz von Hilfsmitteln <Hilfestellung>` betrifft.
 
-.. warning::
-    Dieser Guide ist nur als Ergänzung zur praktischen Ausbildung gedacht. Gerade beim Sichern lassen sich viele Details nur schwer beschreiben aber relativ leicht zeigen, bzw. beobachten. Daher wird hier kein Anspruch auf Vollständigkeit erhoben.
+.. caution::
+    Dieser Guide ist nur als Ergänzung zur praktischen Ausbildung gedacht. Gerade beim Sichern lassen sich viele Details nur schwer beschreiben aber relativ leicht zeigen, bzw. beobachten. Zusätzlich lässt sich nicht jeder Punkt abdecken - in diesen Texten liegt der Hauptfokus auf dem Training mit Kindern und Studenten. Daher wird hier kein Anspruch auf Vollständigkeit erhoben.
 
 .. _Aufbau:
 
@@ -21,10 +21,12 @@ Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 - der Auf- und Abbau darf **nur unter Aufsicht** erfahrener Lehrkräfte erfolgen
 - Mitwirkende sollten feste, geschlossene Turnschuhe tragen
 
+Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder richtige **organisatorische Hinweise** zu geben. So ist es zum Beispiel sinnvoll, die jüngeren Kinder mit dem „Entsorgen“ der Rollständer oder dem Auslegen der Matten zu beauftragen. Sie können auch die nötigen Kästen oder Barren besorgen. Das Aufklappen sollte den Aktiven überlassen werden, die dazu kräftemäßig in der Lage sind - und auch groß genug sind. Ist dies (beispielsweise bei einer Kindergruppe) nicht möglich, so sollte sich der verantwortliche Übungsleiter nicht scheuen, eventuell anwesende Eltern um Hilfe zu bitten.
+
 .. rubric:: Transport des Trampolins
 
 - beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet werden und ein Überfahren vermieden werden
-- das Trampolin wird längs bewegt, am Besten an beiden Seiten von jeweils einer Person gezogen und geschoben
+- das Trampolin wird längs bewegt, am besten an beiden Seiten von jeweils einer Person gezogen und geschoben
 - am Standort des Trampolins dürfen sich keine Hindernisse unter der Decke befinden (Ringe, tief hängende Lampen)
 
 .. rubric:: Heberollenständer benutzen
@@ -69,40 +71,61 @@ Der Abbau ist in vielen Punkte ähnlich zum Aufbau - Unterschiede werden nachfol
 - die Helfer der Gegenseite stellen sich zuerst auf den Standfuß und drücken dann die nahende Trampolinseite herunter
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
 
-Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder richtige **organisatorische Hinweise** zu geben. So ist es zum Beispiel sinnvoll, die jüngeren Kinder mit dem „Entsorgen“ der Rollständer oder dem Auslegen der Matten zu beauftragen. Sie können auch die nötigen Kästen oder Barren besorgen. Das Aufklappen sollte den Aktiven überlassen werden, die dazu kräftemäßig in der Lage sind - und auch groß genug sind. Ist dies (beispielsweise bei einer Kindergruppe) nicht möglich, so sollte sich der verantwortliche Übungsleiter nicht scheuen, eventuell anwesende Eltern um Hilfe zu bitten.
-
 Wartung
 --------
 
 Verschiedene Punkte sollten in regelmäßigen Abständen geprüft werden.
 
-**Kettenspannung**: prüfen ob alle 4 Ketten gespannt sind, das Trampolin waagerecht steht und die Klappgelenke korrekt öffnen (in einer Linie, keine Wanne, aber auch keine Überdehnung des Gelenks), ansonsten Ketten korrigieren
+**Tuch**: leichte Abnutzung zeigt sich nach ein paar Jahren durch fusselige Stellen, meist in Nähe des Kreuzes. Bedenklich wird es erst wenn einzelne Bänder nachgeben und durchhängen. Sinnvoll springen lässt sich nicht mehr und das Durchreißen steht kurz bevor. Das Tuch sollte spätestens jetzt ausgetauscht oder repariert werden (der Hersteller kann einzelne Bänder austauschen, was oft begrenzt sinnvoll ist)
+
+**Federn**: Der Satz sollte vollständig und korrekt installiert sein. Die Öffnung der Aufhängung zeigt nach unten und alle Maschen des Tuchs sind eingehängt.
+
+**Rahmen**: Standfüße sollten vollständig und im guten Zustand sein. Bei vielen Geräten von Eurotramp ist die Steckaufnahme der Querträger recht anfällig. Das Rohrstück verbiegt sobald eins der Beine beim Aufbau runterfällt. Schwieriger zu erkennen sind Haarrisse in den umliegenden Schweißnähten. Falls die Querträger über ein Gummiband unter Spannung stehen, so ist auch dies zu prüfen.
+
+**Rahmenpolster**: sollte vollständig und sicher befestigt sein.
+
+**Kettenspannung**: prüfen ob alle vier Ketten gespannt sind, das Trampolin waagerecht steht und die Klappgelenke korrekt öffnen (in einer Linie, keine Wanne, aber auch keine Überdehnung des Gelenks), ansonsten Kettenlänge beispielsweise nach dem Training gelegentlich inkrementell korrigieren.
 
 .. _Organisation:
 
 Organisatorische Maßnahmen beim Training
 -----------------------------------------
 
-Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven zu beachten:
+Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven zu beachten.
+
+.. rubric:: Hauptregeln
+
+- den **Anweisungen des Trainers** sind Folge zu leisten
+- **nichts und niemand befindet sich unter dem Trampolin** oder den Mattentischen, außer es wird abweichendes angeordnet
+- **Es springt immer nur eine Person auf dem Trampolin**, außer es wird etwas anderes angeordnet
+- **Sicherheit geht vor Sprunghöhe** - bei unerwarteten Ereignissen oder dem Verlassen des roten Quadrats lieber abstoppen
+- **neue Sprungelemente** sind vorher **mit dem Trainer abzusprechen**. Dies gilt insbesondere für Sprünge mit Saltorotation sowie Landungen in Bauch- oder Rückenlage.
+- **kein Springen vom Trampolin auf den Boden** - vom Trampolin sollte heruntergeklettert werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
+
+.. rubric:: Zum Training
 
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
-- Erkrankungen der Aktiven wie Diabetes und Epilepsie sollten dem Trainer bekannt sein (dennoch Vertrauensbasis wahren)
+- Erkrankungen der Aktiven wie Diabetes und Epilepsie sollten dem Trainer bekannt sein (Vertrauensbasis wahren)
+
+.. rubric:: Umgang mit dem Trampolin
+
 - die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollen natürlich entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive nicht aufgefangen, sondern zurück aufs Trampolin befördert / gedrückt
 - unter und neben dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
 - in der Regel sollte niemand auf den Rahmen oder den Matten an den Stirnseiten (Mattentische) sitzen
-- **nie unter das Trampolin** oder die Mattentische kriechen während sich eine Person darauf befindet
-- vom Trampolin sollte heruntergeklettert und nicht gesprungen werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
 - gerade beim Heruntergehen vom Trampolin bleibt leicht mal ein Fuß unter der Abdeckung hängen. Aufmerksam bleiben nach der Übung! Gerade bei freistehenden Geräten kann ein Stolpern ungünstig enden.
-- auf dem Trampolin **kein Kaugummi oder Bonbon** im Mund behalten (Gefahr des Einatmens)
-- gesprungen wird **mit Strümpfen oder Turnschläppchen** (nicht barfuß oder in Turnschuhen)
-- keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt ebenfalls für die Übungsleiter/Trainer
-- beim Springen sollten die Aktiven möglichst **enge Kleidung** tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben. Keine Kapuzen!
-- weitere ungeeignete Kleidung: Zehensocken, Jeans (Abrieb), Gürtel mit Gürtelschnallen, Kleidung mit Metallteilen wie Reißverschlüssen oder Nieten
-- **neue Sprungelemente** sind vorher **mit dem Trainer abzusprechen**. Dies gilt insbesondere für Sprünge mit Salto-Rotation sowie Landungen in Bauch- oder Rückenlage.
+- auf dem Trampolin **kein Kaugummi oder Bonbon** im Mund behalten, bzw. allgemein Essen im Mund (Gefahr des Einatmens)
 - Hauptblickrichtung ist immer die Stirnseite des Trampolins, daher sind nur Vielfache von halben Schrauben erlaubt
-- im Falle eines unerwarteten Ereignis beim Springen (auch beim Verlassen des inneren Quadrats) lieber abstoppen
 - im Falle eines Sturzes nicht mit den Händen abfangen, sondern versuchen auf den Rücken zu drehen
 - Knie sind im Tuch gestreckt (ansonsten Gefahr ab gewissen Sprunghöhen)
+
+.. rubric:: Kleidung
+
+- gesprungen wird **mit Strümpfen oder Turnschläppchen** (nicht barfuß oder in Turnschuhen)
+- keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt ebenfalls für die Übungsleiter/Trainer
+- beim Springen sollten die Aktiven möglichst **enge Kleidung** tragen; die Sporthose sollten über ein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben.
+- Keine Kapuzen!
+- Keine weiten, offenen Taschen!
+- weitere ungeeignete Kleidung: Zehensocken, Jeans (Abrieb), Gürtel mit Gürtelschnallen, Kleidung mit Metallteilen wie Reißverschlüssen oder Nieten
 
 Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut gemacht werden. Für einen möglichst ungefährlichen Stundenablauf ist die Einhaltung dieser Regeln absolut unerlässlich!
 
@@ -111,7 +134,9 @@ Mit diesen Grundregeln sollten die Sportler von der ersten Stunde an vertraut ge
 Hilfe- und Sicherheitsstellung
 ------------------------------
 
-Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Zum anderen ist eine Hilfestellung durch einen erfahrenden Trainer dem Schieben der Matte vorzuziehen, da sich die Unterstützung stufenweise gezielt verringern lässt und damit die „Entwöhnung“ für den Aktiven leichter fällt. Gerade bei diesen (für den Aktiven häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, der der Springer auch **vertrauen** kann, äußerst wichtig. Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer hier mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
+Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung (auch in Verbindung mit der Schiebematte) das Verletzungsrisiko minimiert werden. Zum anderen ist eine Hilfestellung durch einen erfahrenden Trainer dem Schieben der Matte vorzuziehen, da sich die Unterstützung stufenweise gezielt verringern lässt und damit die „Entwöhnung“ für den Aktiven leichter fällt. Gerade bei diesen (für den Aktiven häufig mit Angstgefühlen verbundenen) Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, welche der Springer auch **vertrauen** kann, äußerst wichtig.
+
+Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
 Üben der Basics
 ~~~~~~~~~~~~~~~~~
@@ -199,6 +224,6 @@ Einsatz der Schiebematte
 
 Für das Trampolinturnen sind spezielle Schiebematten aus Schaumstoff entwickelt worden, die das Erlernen neuer (und komplizierter) Bewegungen unterstützen und hier besonders Verletzungen verhindern sollen. Dabei ist jedoch wichtig zu wissen, dass diese Schiebematten **keinesfalls** in allen Fällen der **„Lebensretter“** sein können, sondern dass das Hauptaugenmerk immer noch auf ein konsequent methodisch aufgebautes Trainingsprogramm gelegt werden sollte. Das bedeutet für die Praxis, dass schwierige Bewegungen, *„weil die Schiebematte ja da ist“*, nicht einfach ausprobiert werden dürfen. Das kann bei fehlgeschlagenen Versuchen neben Verletzungen auch das Entstehen von Angst vor dieser Bewegung beim Aktiven fördern (und damit das Erlernen dieser Bewegung erheblich verlangsamen). Ein entsprechender Grundstock von Bewegungserfahrungen auf dem Trampolin ist auch bei Einsatz der Schiebematte unerlässlich.
 
-Wichtig ist ebenfalls, dass die Schiebematte eben nur ein **Hilfsmittel** zu Beginn des Erlernens neuer Übungsteile ist und nach und nach wieder entfernt und durch andere adäquate Maßnahmen (Hilfe- bzw. Sicherheitsstellung) ersetzt werden sollte. Dabei darf jedoch nie die Sicherheit des Athleten gefährdet werden.
+Wichtig ist ebenfalls, dass die Schiebematte eben nur ein **Hilfsmittel** zu Beginn des Erlernens neuer Übungsteile ist und schrittweise wieder entfernt und durch andere adäquate Maßnahmen (Hilfe- bzw. Sicherheitsstellung) ersetzt werden sollte. Dabei darf jedoch nie die Sicherheit des Athleten gefährdet werden.
 
 Später, bei komplizierten Salto-Schrauben-Verbindungen, ist die Schiebematte hilfreich, bestimmte **Teilbewegungen** der Sprünge ungefährlich zu üben. Anders als zum Beispiel bei der Rückenlandung oder dem Salto rückwärts können diese Sprünge in verschiedene Stufen unterteilt werden, so dass man sich mit Hilfe der Schiebematte der gewünschten (End-)Bewegung immer mehr nähert.

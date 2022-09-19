@@ -22,7 +22,7 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 - Demonstration des Sprungs
 - Sprung durchführen - erwähnen, dass eine saubere Ausführung wichtiger ist als eine vollendete Schraube
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - der Hüftwinkel wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
 - anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung)
@@ -46,7 +46,7 @@ Stand - ½ Schraube zum Sitz
 - aus dem Wippen Beine nach hinten schieben, drehen und im Sitz landen
 - Sprunghöhe weiter steigern
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - Beine werden nicht genug oder zu sehr nach hinten geschoben
 - die Schraube wird zu früh eingeleitet: erst die Beine schieben
@@ -55,7 +55,7 @@ Stand - ½ Schraube zum Sitz
 
 .. rubric:: Hilfestellung
 
-- der Trainer/Helfende steht auf der der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an der Hüfte unterstützt
+- der Trainer/Helfende steht auf der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an der Hüfte unterstützt
 
 Sitz - ½ Schraube zum Sitz
 -----------------------------
@@ -79,7 +79,7 @@ Sitz - ½ Schraube zum Sitz
 - Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage in der ersten Phase verpassen um den anschließenden Sitz leicht zurückgelehnt zu ermöglichen, dann
 - wenn die halbe Schraube in den Stand schnell genug ist, kommt der anschließende Sitz oft von allein
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - der Oberkörper kippt zu früh nach vorne: flacher Sprung und zu schwache Schraube
 - der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt

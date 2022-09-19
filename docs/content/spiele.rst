@@ -20,7 +20,7 @@ Ohne Materialien
 - Im Kästchen (rote Markierung auf dem Trampolin) springen
 - **Tierparade**
 
-  - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen
+  - Pinguin (ganz gestreckter Körper, „Entenpo“, Arme an den Körperdrücken und die Hände zur Seite abspreizen)
   - Frosch („Froschhüpfer“)
   - Robbe (Seitwärtsrollen)
   - Spinne („Vierfüßlergang“ rücklings)
@@ -155,8 +155,8 @@ Fallschirmspringen
 - Der Springer kann sicher gekonnte Sprünge ausprobieren
 
 .. caution::
-    Durch den Fallschirm sieht man den Rand des Trampolins schlecht, daher müssen die umstehenden Teilnehmer besonders aufpassen.
-    Zusätzlich kann der Untergrund glatt sein.
+    Durch den Fallschirm sieht man den Rand des Trampolins schlecht, daher müssen die umstehenden Teilnehmer besonders aufpassen. Zusätzlich kann der Untergrund bzw. die Stoffkombination glatt sein.
+
     Durch die Wellen weiß der Springer nicht, wann er genau wieder auf dem Tuch aufkommt. Die visuelle Wahrnehmung wird erschwert, wodurch den anderen Analysatoren mehr Beachtung geschenkt wird
 
 **Variante "Springen unter dem Fallschirm"**

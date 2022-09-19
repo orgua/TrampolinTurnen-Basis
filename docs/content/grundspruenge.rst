@@ -3,7 +3,7 @@ Grundsprünge und Landungsarten
 
 Im Folgenden sollen die Basissprünge auf dem Trampolin vorgestellt werden. Nachdem der Strecksprung bereits im Kapitel :doc:`tuchgewoehnung` eingeführt wurde, ist die Zeit gekommen das Repertoire zu erweitern. Nach einer kurzen **Bewegungsbeschreibung** erfolgt eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.
 
-Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**.
+Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**. Für die Benennung werden anstatt der langen formalen Namen, wie im Training, die Trivialnamen verwendet.
 
 Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch Gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35). Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen oder besser die **Fehler chronologisch abzuarbeiten**, beginnend beim Absprung, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
 
@@ -35,11 +35,16 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 - Absprung, Arme starten in gestellter Haltung
 - **In der Steigphase wird die Hocke eingeleitet**, Beine sind bereits geschlossen, Knie bleiben parallel zueinander
 - Hände bewegen sich zur Hocke und greifen den Oberschenkel dicht unter den Knien und können die Hocke komprimieren
-- Die Hockposition ist klein, Knie berühren die Brust, Beine sind geschlossen
+- Die Hock-Position ist klein, Knie berühren die Brust, Beine sind geschlossen
 - **In der Phase des Fallens**, bzw. nach kurzem stabilem Halten, **wird die Hock-Position wieder aufgelöst**
 - beim Auflösen der Hocke bewegen sich die Arme mit den Beinen, bzw. unterstützen die Öffnung
 - nach der Öffnung liegen die Arme eng am Körper, Hände leicht seitlich auf dem Oberschenkel
 - kurz vor dem Tuchkontakt bewegen sich die Arme wieder in die gestellte Haltung
+
+.. rubric:: Fehler und Korrekturen
+
+- Anfersen statt anhocken
+-
 
 Diese Sprünge lassen sich normalerweise von Anfängern ohne große Hilfe erlernen. Als "Vorübung" können die Teilnehmenden die Bewegung anfangs nur andeuten und innerhalb weniger Wiederholungen intensivieren bis zum vollen Sprung. Es sollte darauf geachtet werden, dass die Landung möglichst aufrecht und nicht mit Vor- oder Rücklage erfolgt. Ein Indikator für den Trainer ist eine starke Asymmetrie während der Ausführung des Sprungs (z.B. Oberkörper bleibt aufrecht). Eventuell sollte die Landung durch den Trainer auf dem Tuch zu Beginn unterstützt werden.
 
@@ -119,7 +124,7 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 - aus dem Wippen den Körper vorspannen und Beine nach vorne schieben
 - Sprunghöhe immer weiter steigern
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - Rotation wird durch die Schulter eingeleitet
 - Beine schnippen nach vorne, bzw. Sitzposition zu früh eingenommen (Po- oder Rücklage)
@@ -184,7 +189,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - zum Verinnerlichen und Verbessern der Aufstehbewegung kann gefordert werden **zwei Rückenlandungen in Folge** durchzuführen und erst danach aufzustehen (besonders Fehler der Beine werden offensichtlich)
 - **Maikäfer** - aus Ruheposition in Rückenlage selbstständig Höhe gewinnen, Hüftwinkel variiert in verschiedenen Höhen um im Rücken zu bleiben, Arme halten Gleichgewicht
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme hinter ihren Körper  bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
 - zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen
@@ -241,7 +246,7 @@ und angebracht ist.
 
 .. rubric:: Methodische Übungsreihe
 
-- umgedrehter Matten-Kick (siehe :ref:`Technik zum Salto <TechnikSalto>`), achtet auf eine extra Matte vor euch
+- umgedrehter Mattenkick (siehe :ref:`Technik zum Salto <TechnikSalto>`), achtet auf eine extra Matte vor euch
 - **Demonstration der Landeposition**; insbesondere der Arme und Beine
 - **Trockenposition auf dem Tuch einnehmen** (testen Spannung der geschlossenen Beine, abgehobene Ellenbogen, ...)
 - **Demonstration des Sprung** durch jemanden, der den Sprung in der Feinform beherrscht
@@ -252,7 +257,7 @@ und angebracht ist.
 - mit der Schiebematte auf der Gerätemitte leicht wippend den Bauchsprung ausführen
 - **Bauchsprung aus dem Stand mit Hilfestellung**, mitunter Schiebematte vom Rand aus schieben
 
-.. rubric:: Häufige Fehler
+.. rubric:: Fehler und Korrekturen
 
 - der Oberkörper wird im Absprung oder schon im Tuch nach vorne gekippt bzw. der Po rausgestreckt: erzeugt Vorwärtsbewegung; Auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“), außerdem auf Fußtechnik bestehen
 - die Hüfte knickt in der Luft zu sehr ab: der „Beinschub“ muss genau dosiert sein
