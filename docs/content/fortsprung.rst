@@ -91,7 +91,7 @@ Nächste Schritte:
 - Pflichtübungen zum Verbinden des Saltos, Salto in Sitz, B-Salto
 
 Hilfestellung:
-- Trainer steht seitlich vom Aktiven und hält mit einer Hand den Hosenbund (Führt den Salto in die Höhe) und unterstützt mit der anderen Hand den mittleren Rücken  so kann die Rückenhand im Salto viele Aufgaben erfüllen: Druck am tiefen Rücken gibt Höhe und Rotation, Druck an den Schulterblättern stoppt den Salto (Führen in die Rückenlage), Zug an der Schulter gibt sehr viel Rotation, bringt aber auch oft eine Schraube dazu!
+- Trainer steht seitlich vom Aktiven und hält mit einer Hand den Hosenbund (Führt den Salto in die Höhe) und unterstützt mit der anderen Hand den mittleren Rücken  so kann die Rückenhand im Salto viele Aufgaben erfüllen: Druck am tiefen Rücken gibt Höhe und Rotation, Druck an den Schulterblättern stoppt den Salto (Führen in die Rückenlage), Zug an der Schulter gibt sehr viel Rotation, bringt aber oft eine Schraube dazu!
 - In der Landung sollte der Trainer in kritischen Fällen den Klammergriff anwenden um einen Sturz zu vermeiden
 - Mit steigendem Fortschritt kann der Trainer im Sprung den Hosenbund loslassen, das ermöglicht dem Aktiven mehr Höhe
 - Als letzte Stufe läuft der Trainer vom Rand in den Saltosprung und fixiert in der Endphase des Saltos oft nur noch die Schulter
@@ -106,7 +106,7 @@ Ausführung (A, B, C)
 
 - Absprung wie jeder andere Standsprung: aufrecht, gerade und mit stehenden Armen
 - Blick normalerweise auf Mattenkante, wenn der Aktive dazu neigt nach vorne zu springen, dann besser Blick oben schräg an die Decke
-- Nach dem Absprung die Beine mit Schwung nach hinten ziehen (als wenn man einen Ball wegkicken will oder übers Tuch scharren möchte) ohne gleichzeitig auch die Schulter hinter zu ziehen (Neutralisierung der Bewegung) und danach auf dem Weg nach oben:
+- Nach dem Absprung die Beine mit Schwung nach hinten ziehen (als wenn man einen Ball wegkicken will oder übers Tuch scharren möchte) ohne gleichzeitig die Schulter hinter zu ziehen (Neutralisierung der Bewegung) und danach auf dem Weg nach oben:
 - C-Salto: Knie anwinkeln, Po zur Decke ziehen (wie eine Marionette mit Faden am Po) und Oberkörper mit Schwung runter zu den Knien bewegen und diese mit Händen umfassen.
 - B-Salto: Oberkörper bewegt sich zu den Beinen und die Hände umfassen die Knöchel
 - A-Salto: Beine beschleunigen und der Po wird angespannt, damit der ganze Körper rotiert. Ab dem ersten Drittel der Rotation können die Arme angelegt werden

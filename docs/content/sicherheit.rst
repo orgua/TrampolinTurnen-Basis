@@ -46,7 +46,7 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
 - Erkrankungen der Aktiven wie Diabetes und Epilepsie sollten dem Trainer bekannt sein (dennoch Vertrauensbasis wahren)
-- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollen natürlich auch entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive nicht aufgefangen, sondern zurück aufs Trampolin befördert / gedrückt
+- die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollen natürlich entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive nicht aufgefangen, sondern zurück aufs Trampolin befördert / gedrückt
 - unter und neben dem Trampolin befinden sich keine Gegenstände (Flaschen o.ä.)
 - in der Regel sollte niemand auf den Rahmen oder den Matten an den Stirnseiten (Mattentische) sitzen
 - **nie unter das Trampolin** oder die Mattentische kriechen während sich eine Person darauf befindet
@@ -54,7 +54,7 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 - gerade beim Heruntergehen vom Trampolin bleibt leicht mal ein Fuß unter der Abdeckung hängen. Aufmerksam bleiben nach der Übung! Gerade bei freistehenden Geräten kann ein Stolpern ungünstig enden.
 - auf dem Trampolin **kein Kaugummi oder Bonbon** im Mund behalten (Gefahr des Einatmens)
 - gesprungen wird **mit Strümpfen oder Turnschläppchen** (nicht barfuß oder in Turnschuhen)
-- keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt auch für die Übungsleiter/Trainer
+- keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt ebenfalls für die Übungsleiter/Trainer
 - beim Springen sollten die Aktiven möglichst **enge Kleidung** tragen; die Sporthose sollten übe rein festes Bündchen verfügen. Die T-Shirts sollten mehr als Bauchnabel-Länge haben. Keine Kapuzen!
 - weitere ungeeignete Kleidung: Zehensocken, Jeans (Abrieb), Gürtel mit Gürtelschnallen, Kleidung mit Metallteilen wie Reißverschlüssen oder Nieten
 - **neue Sprungelemente** sind vorher **mit dem Trainer abzusprechen**. Dies gilt insbesondere für Sprünge mit Salto-Rotation sowie Landungen in Bauch- oder Rückenlage.
@@ -157,6 +157,6 @@ Einsatz der Schiebematte
 
 Für das Trampolinturnen sind spezielle Schiebematten aus Schaumstoff entwickelt worden, die das Erlernen neuer (und komplizierter) Bewegungen unterstützen und hier besonders Verletzungen verhindern sollen. Dabei ist jedoch wichtig zu wissen, dass diese Schiebematten **keinesfalls** in allen Fällen der **„Lebensretter“** sein können, sondern dass das Hauptaugenmerk immer noch auf ein konsequent methodisch aufgebautes Trainingsprogramm gelegt werden sollte. Das bedeutet für die Praxis, dass schwierige Bewegungen, *„weil die Schiebematte ja da ist“*, nicht einfach ausprobiert werden dürfen. Das kann bei fehlgeschlagenen Versuchen neben Verletzungen auch das Entstehen von Angst vor dieser Bewegung beim Aktiven fördern (und damit das Erlernen dieser Bewegung erheblich verlangsamen). Ein entsprechender Grundstock von Bewegungserfahrungen auf dem Trampolin ist auch bei Einsatz der Schiebematte unerlässlich.
 
-Wichtig ist ebenfalls, dass die Schiebematte eben nur ein **Hilfsmittel** zu Beginn des Erlernens neuer Übungsteile ist und nach und nach auch wieder entfernt und durch andere adäquate Maßnahmen (Hilfe- bzw. Sicherheitsstellung) ersetzt werden sollte. Dabei darf jedoch nie die Sicherheit des Athleten gefährdet werden.
+Wichtig ist ebenfalls, dass die Schiebematte eben nur ein **Hilfsmittel** zu Beginn des Erlernens neuer Übungsteile ist und nach und nach wieder entfernt und durch andere adäquate Maßnahmen (Hilfe- bzw. Sicherheitsstellung) ersetzt werden sollte. Dabei darf jedoch nie die Sicherheit des Athleten gefährdet werden.
 
 Später, bei komplizierten Salto-Schrauben-Verbindungen, ist die Schiebematte hilfreich, bestimmte **Teilbewegungen** der Sprünge ungefährlich zu üben. Anders als zum Beispiel bei der Rückenlandung oder dem Salto rückwärts können diese Sprünge in verschiedene Stufen unterteilt werden, so dass man sich mit Hilfe der Schiebematte der gewünschten (End-)Bewegung immer mehr nähert.

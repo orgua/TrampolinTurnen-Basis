@@ -1,7 +1,10 @@
 Tuchgewöhnung
 ===============
 
-In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders auch solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation. Die im folgenden dick gedruckten Punkte eigenen sich als Mindestmaß an Übungen.
+In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
+
+.. tip::
+    Die im folgenden **dick** gedruckten Punkte eignen sich als Mindestsatz an Übungen um das wichtigste abzudecken. Dies erlaubt schnellen Fortschritt und ein individuelles Nachjustieren.
 
 Zu den wichtigsten **Effekten auf dem Trampolin** zählen:
 
@@ -83,7 +86,7 @@ Beim Springen im Strom darauf achten, dass nicht auf den Rahmen oder die Sicherh
 Gleichgewichtsübungen
 ---------------------
 
-Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolinturner besitzen muss. Auch dies kann mit einigen Übungen am Anfang geübt werden.
+Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolinturner besitzen muss. Dies kann mit einigen Übungen am Anfang geübt werden.
 
 .. rubric:: Methodische Übungsreihe
 
@@ -103,14 +106,14 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
 
 .. _Armeinsatz:
 
-Armeinsatz
-----------
+Strecksprung mit Armeinsatz
+---------------------------
 
-Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte auch der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
+Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
 
-.. rubric:: Bewegungsbeschreibung Armschwung
+.. rubric:: Bewegungsbeschreibung
 
-- Stehend im Tuch - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel ruhend
+- aufrecht stehend im Tuch - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel ruhend
 - die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung die aber noch vor dem Bewegungsmaximum (Anschlag) abgebremst wird
 
   - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
@@ -121,7 +124,7 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 - **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
 
 Stellen der Arme
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden. In der Trampolin-Sprache sind die Arme **„gestellt“**. Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz.
 

@@ -13,6 +13,17 @@ Links:
 
 - `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
 
+Latest Changes:
+
+- 0.7.5
+
+  - viel Restrukturierungen des Inhalts
+  - Grammatik und Rechtschreibprüfung verbessert
+  - Füllwörter reduziert (viele unnötige "auch")
+  - Mindestsatz an Aufgaben oder Ausführungen für Grobformen etabliert
+  - neue Quellen eingearbeitet
+
+
 Basic Installation for Web-Content
 -----------------------------------
 

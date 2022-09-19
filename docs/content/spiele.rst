@@ -47,7 +47,7 @@ Ohne Materialien
   - Die Aufgabe besteht darin den Gegenüber zu führen und Höhe mitzugeben. Dabei wechselt man konstant zwischen Grätschsitz und tiefem Stand (mit aufstehender Bewegung)
 
 - Zu dritt nebeneinander über das Trampolin hüpfen, hierzu in den Armen einhaken; der Springer in der Mitte macht die Augen zu. Achtung! Möglichst gleichzeitig springen und ansagen, wann die Mattenkante kommt
-- Zu zweit oder zu dritt auf dem Gerät, wobei sich eine Person in die Mitte setzt (Schneidersitz mit abstützen der Hände oder normale Sitzposition), die anderen Springen vorsichtig um die sitzende Person, so dass sie ins Wanken gerät. Die Person in der Mitte kann dabei auch die Augen schließen.
+- Zu zweit oder zu dritt auf dem Gerät, wobei sich eine Person in die Mitte setzt (Schneidersitz mit abstützen der Hände oder normale Sitzposition), die anderen Springen vorsichtig um die sitzende Person, so dass sie ins Wanken gerät. Die Person in der Mitte kann dabei die Augen schließen.
 - „Eiserne Jungfrau“: eine Person legt sich in die Mitte (wichtig: Körper ganz gestreckt und angespannt), zwei oder vier Person stehen sich an den langen Seiten gegenüber und treten auf ein Signal gemeinsam fest ins Trampolin, so dass die Person in der Mitte hochgeschossen wird
 - Einen Partner, der auf Trampolin sitzt oder einen Medizinball hochschießen (Achtung Gefahr)
 - Paarsalto (fortgeschritten) - nebeneinanderstehend, Blickrichtung entgegengesetzt, mit verschränkten Armen macht eine Person einen Vorwärts- und die andere einen Rückwärtssalto

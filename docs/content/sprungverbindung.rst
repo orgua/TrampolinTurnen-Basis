@@ -68,7 +68,7 @@ Sitz - ½ Schraube zum Sitz
 .. rubric:: Bewegungsbeschreibung
 
 - nach der Sitzlandung drückt sich der Springer kräftig mit den Händen ab
-- die Hüfte wird gestreckt und die Beine nach hinten geschoben (vergleiche auch ½ Schraube zum Sitz)
+- die Hüfte wird gestreckt und die Beine nach hinten geschoben (analog zu ½ Schraube zum Sitz)
 - die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer Loalawelle, nur mit Schraube)
 - die Landung erfolgt wie beim Sitzsprung
 
@@ -88,9 +88,12 @@ Weiterführung
 
 Die beschriebenen Sitz-Schraubverbindungen lassen sich nun analog auf den Rücken- und Bauchsprung übertragen. Zusätzlich können Verbindungen zwischen den Landeformen geschaffen werden.
 
-- Rücken - ½ Schraube Stand
+- Stand - Rücken - ½ Schraube Stand
 - Stand - ½ Schraube in den Rücken
-- Sitz - Bauch
-- Bauch - Rücken
+- Stand - Sitz - Bauch
+- Stand - Bauch - Rücken
 - Stand - ½ Schraube Bauch
-- Bauch - ½ Schraube Stand
+- Stand - Bauch - ½ Schraube Stand
+
+..
+    Trampolin - Teppich

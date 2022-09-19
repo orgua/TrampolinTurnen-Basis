@@ -21,7 +21,7 @@ Grundsätzlich ist es ratsam, einen Grundstock von Übungen regelmäßig durchzu
 
 Im Anschluss an die Erwärmung ist ein **Einspringen** sehr sinnvoll. In dieser lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe entsprechend der Tagesform ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung verbessert die Ausführungsqualität in der darauffolgenden gewohnten Höhe.
 
-Eine weitere Anregung. Aufgrund der Tatsache, dass beim Training jeweils nur ein Aktiver auf dem Trampolin springen kann, ergeben sich für die anderen Turner oft nicht unerhebliche Wartezeiten. Die Zeit kann unter anderem auch dazu genutzt werden, die eine oder andere Übung aus dem Gymnastikprogramm auszuführen; auch Übungen aus dem Turnbereich können gewinnbringend gefordert werden. Das hat auch den Vorteil, dass der Aktive während der Wartezeit nicht auskühlt.
+Eine weitere Anregung. Aufgrund der Tatsache, dass beim Training jeweils nur ein Aktiver auf dem Trampolin springen kann, ergeben sich für die anderen Turner oft nicht unerhebliche Wartezeiten. Die Zeit kann unter anderem dazu genutzt werden, die eine oder andere Übung aus dem Gymnastikprogramm auszuführen; auch Übungen aus dem Turnbereich können gewinnbringend gefordert werden. Das hat auch den Vorteil, dass der Aktive während der Wartezeit nicht auskühlt.
 
 .. note::
     Zu spät gekommene Teilnehmer sollen nicht gleich einsteigen, sondern erst einmal selbstständig warm werden.
@@ -48,7 +48,7 @@ Leichtes Dehnen
 Aufgaben des Trainers
 ---------------------
 
-Neben dem Anleiten der Erwärmung gehören auch folgende Punkte zu den Aufgaben eines Trainers:
+Neben dem Anleiten der Erwärmung gehören folgende Punkte zu den Aufgaben eines Trainers:
 
 - Überblick über die Gruppe behalten (gerade bei Kindern)
 - Korrekturen anbieten und wichtige Punkte während der Durchführung ansprechen (Hohlkreuz, durchhängende Hüfte, Asymmetrie, Verdrehung)

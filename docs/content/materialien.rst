@@ -11,7 +11,7 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 - beim Erlernen neuer Sprünge wenige Wiederholungen fordern
 - die Anzahl der Wiederholungen an die Komplexität des Sprunges anpassen: „einfache Sprünge“ = „mehr Wiederholungen“ und umgekehrt.
 - bei misslungenen Versuchen nicht so lange weitermachen, bis es „endlich“ klappt
-- den Aktiven ruhig auch mal direkt nach einem gut gelungenen Sprung vom Gerät schicken (auch wenn es der erste ist)
+- den Aktiven ruhig mal direkt nach einem gut gelungenen Sprung vom Gerät schicken (auch wenn es der erste ist)
 
 Übungsformen
 ~~~~~~~~~~~~~
@@ -83,8 +83,8 @@ Einführung in Wettkampfbestimmungen
 
 - Ein Trampolinwettkampf besteht in der Regel aus einer Pflichtübung und einer Kürübung. Im Finaldurchgang dürfen die Besten (maximal zehn) des Vorkampfes eine weitere Kürübung turnen
 - Eine Trampolinübung besteht grundsätzlich aus zehn Übungsteilen; die gestreckten Fußsprünge vor dem ersten Übungsteil werden nicht mitgezählt
-- Die Pflichtübung enthält zehn Sprünge, die in ihrer Reihenfolge bis zur Übung M7 genau vorgegeben sind, von der auch nicht abgewichen werden darf.
-- In der Kürübung wiederum dürfen zehn beliebige Sprünge miteinander kombiniert werden. Die Reihenfolge kann auch noch während der Übung verändert werden. Sprungwiederholungen werden insofern bestraft, als dass die Schwierigkeit des wiederholten Übungsteils nicht angerechnet wird (bei Hocke oder Sitz o.ä. ist das unerheblich).
+- Die Pflichtübung enthält zehn Sprünge, die in ihrer Reihenfolge bis zur Übung M7 genau vorgegeben sind, von der demnach nicht abgewichen werden darf.
+- In der Kürübung wiederum dürfen zehn beliebige Sprünge miteinander kombiniert werden. Die Reihenfolge kann noch während der Übung verändert werden. Sprungwiederholungen werden insofern bestraft, als dass die Schwierigkeit des wiederholten Übungsteils nicht angerechnet wird (bei Hocke oder Sitz o.ä. ist das unerheblich).
 - Die Übungen werden zum einen nach der ästhetischen Ausführung (Haltungsnote) und zum anderen nach dem technischen Inhalt (Schwierigkeitsgrad) bewertet.
 - Im Einzelwettkampf beurteilen 5 Haltungskampfrichter unabhängig voneinander die **Ausführung**. Von den 5 Noten wird die höchste und niedrigste gestrichen und die 3 verbleibenden addiert.
 - Zu dieser Haltungsnote wird der **Schwierigkeitsgrad** der Übung addiert; Dieser setzt sich aus der Anzahl der Salti und Schrauben zusammen.
