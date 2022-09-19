@@ -4,7 +4,7 @@ Weitere Sprünge
 ..
     TODO
 
-Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire erlaubt ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
+Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire ermöglicht ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
 
 .. rubric:: Ausführungsformen ++
 
@@ -158,3 +158,29 @@ Fußbewegung:
 - Hoolahoop wie Wasserspringer
 
 TODO
+
+Spielerische Herangehensweise
+------------------------------
+
+Wer die Herausforderung mag und
+
+.. table:: Patch-Teppich für Sprünge aus dem Stand
+    :widths: 10 18 18 18 18 18
+
+    ======= =========== =========== =========== =========== ===========
+    Slt/Sch 0           ½           1           1½          2
+    ======= =========== =========== =========== =========== ===========
+    2       Doppel vw.  Fliffis     .           FliffisRudi .
+    1.75    1 3/4 vor   .           .           .           .
+    1.25    Salto zu B. .           .           .           .
+    1       Salto vw.   Barani      .           Rudi        .
+    0.75    3/4 vor     .           .           .           .
+    0.25    Bauch       ½ Rücken    Ganze Bauch .           .
+    0       **Stand**   ½ Schraube  Schraube    1½ Schraube Doppel S.
+    -0.25   Rücken      ½ Bauch     Ganze Rü.   .           .
+    -0.75   3/4 rw      .           .           .           .
+    -1      Salto rw.   .           Schraubs.   .           Doppels. S.
+    -1.25   Salto in R. .           .           .           .
+    -1.75   .           .           .           .           .
+    -2      Doppel rw.              Voll ein oä .           .
+    ======= =========== =========== =========== =========== ===========

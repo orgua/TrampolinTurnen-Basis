@@ -13,7 +13,7 @@ Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh 
 Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der Komplexität und Qualität abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hock kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Die Beschreibung der Feinstform für die Hocke befindet sich im nächsten Abschnitt.
 
 .. tip::
-    Wie bei der :doc:`tuchgewoehnung` eingeführt, sind im folgenden **dick** gedruckte Punkte für ein Mindestmaß der Grobform angedeutet.
+    Wie bei der :doc:`tuchgewoehnung` eingeführt, sind im Folgenden **dick** gedruckte Punkte für ein Mindestmaß der Grobform angedeutet.
 
 ..
     TODO bilder der phasen finden
@@ -21,12 +21,12 @@ Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der K
 Fußsprünge
 -----------
 
-Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit geöffnet, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit geringerer Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe. Die eigentliche Bewegung wird erst **nach dem Absprung** eingeleitet, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
+Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit geöffnet, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe. Die eigentliche Bewegung wird erst **nach dem Absprung** ausgeführt, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
 
 .. rubric:: Bewegungsbeschreibung
 
 - Bei der **Hocke** werden die Beine gehockt nach vorne zum Oberkörper geführt. Die Hände fassen dabei die Knie knapp unterhalb der Kniescheibe an. Der Oberkörper ist leicht nach vorne gebeugt.
-- Bei der **Bücke** werden die Beine gestreckt nach oben in die Waagerechte geführt. Die Hände fassen hierbei von oben auf den Fußrücken. Alternativ kann der Fuß oder Knöchel gegriffen werden. Der Oberkörper befindet sich möglichst nahe an den Oberschenkeln. Gefordert ist ein Winkel von deutlich weniger als 90 Grad zwischen Oberkörper und Oberschenkel.
+- Bei der **Bücke** werden die Beine gestreckt nach oben in die Waagerechte geführt. Die Hände fassen hierbei von oben auf den Fußspann. Alternativ kann der Fuß oder Knöchel gegriffen werden. Der Oberkörper befindet sich möglichst nahe an den Oberschenkeln. Gefordert ist ein Winkel von deutlich weniger als 90 Grad zwischen Oberkörper und Oberschenkel.
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
 
@@ -61,7 +61,7 @@ Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch einge
 
 - im Tuch (in der Steigphase) eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist, somit muss die Schraube für jede Sprunghöhe anders dosiert werden
 - je mehr der Körper gestreckt ist, desto schneller erfolgt die Schraubendrehung (wichtig: Arme dicht am Körper); Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
-- erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltobewegungen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
+- erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltorotationen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
 - Vorsicht! Je mehr Schraubenimpuls „mitgegeben“ wird, desto mehr ist davon im Tuch noch vorhanden; Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
 
 .. rubric:: Methodische Übungsreihe
@@ -81,14 +81,14 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
 - die asymmetrische Schraube aktiv unterstützen:
 
   - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
-  - der andere Arm wird über die Vorseite heruntergeführt - Ziel ist der diagonale Hüftknochen
+  - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
 Häufigster Fehler ist wohl das unbewusste Abdrücken der Hände in der Luft. Statt die Arme in Drehrichtung mitzunehmen bewegen sie sich entgegengesetzt und kontern die Rotation.
 
 Sitzlandung / Sitz
 ------------------
 
-Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon ein Element der Grundtechnik für spätere Rückensprünge bzw. Saltis. Daher lohnt es sich den Fokus bereits früh auf saubere Ausführung zu legen.
+Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon ein Element der Grundtechnik für spätere Rückensprünge und Salti. Daher lohnt es sich den Fokus bereits früh auf saubere Ausführung zu legen.
 
 
 .. figure:: ../media/sprung_sitz.jpg
@@ -109,7 +109,7 @@ Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name w
 - **Aufstehen zum Stand**:
 
   - mit den Händen aktiv abdrücken
-  - Arme getreckt und schwungvoll über Vorderseite hoch führen
+  - Arme getreckt und schwungvoll über Vorderseite hochführen
   - die Hüfte nach vorne oben schieben (Öffnung des Hüftwinkels)
 
 .. rubric:: Methodische Übungsreihe
@@ -136,7 +136,7 @@ Die erste wichtige Landungsform nach den Füßsprüngen ist der Sitz. Der Name w
 Rückenlandung / Rücken
 ----------------------
 
-Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme. Zu unbekannt ist das Gefühl, rückwärts nach unten zu fallen. Zusätzlich ist die Bewegung recht komplex. Es müssen viele kleine Bewegungen fast zur gleichen Zeit kontrolliert ausgeführt werden. Aus diesem Grund ist es sinnvoll, die Rückenlandung mit einigen Übungen vorzubereiten, und das schon einige Zeit, bevor der Sprung überhaupt gelernt werden soll.
+Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme. Zu unbekannt ist das Gefühl, rückwärts nach unten zu fallen. Zusätzlich ist die Bewegung recht komplex. Es müssen viele kleine Bewegungen fast zur gleichen Zeit kontrolliert ausgeführt werden. Aus diesem Grund ist es sinnvoll, die Rückenlandung mit einigen Übungen vorzubereiten. Im Bestfall schon einige Zeit, bevor der Sprung überhaupt gelernt werden soll.
 
 .. _TechnikSalto:
 .. rubric:: Technik - Saltorotation rückwärts
@@ -150,7 +150,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 .. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Rückenlandung - Aufstehen in den Stand
-- im Absprung den **Körper spannen und gemäßigten Fußkick ausführen**, sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
+- im Absprung den **Körper spannen und gemäßigten Kick ausführen**, sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
 - die Arme unterstützen den Absprung nach oben - sie sind gestellt und zeigen während des Sprungs weiterhin zur Decke
 - vor der Landung die Hüfte einknicken, so dass im Tuch die Beine senkrecht zur Decke stehen und der gesamte Rücken gleichmäßig zum Liegen kommt
 - Tipp: wie schon beim Sitzsprung beschrieben, ermöglicht eine Variation der Intensität des Hüftschlags die Nachjustierung des Sprungs
@@ -213,7 +213,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 Bauchlandung / Bauch
 --------------------
 
-Das Erlernen der Bauchlandung ist oft mit weniger Angst seitens des Aktiven verbunden als dies beim Rücken der Fall ist. Das vor allem dadurch, dass der Absprung vorwärts erfolgt, man also jederzeit das Trampolintuch im Blick hat. Um so **gefährlicher** ist jedoch der Sprung, da zu viel Rotation in der Luft schlecht ausgeglichen werden kann und er sehr viel häufiger von Anfängern „einfach“ mal ausprobiert wird.
+Das Erlernen der Bauchlandung ist oft mit weniger Angst seitens des Aktiven verbunden als dies beim Rücken der Fall ist. Das vor allem dadurch, dass der Absprung vorwärts erfolgt, man also jederzeit das Trampolintuch im Blick hat. Umso **gefährlicher** ist jedoch der Sprung, da zu viel Rotation in der Luft schlecht ausgeglichen werden kann und er sehr viel häufiger von Anfängern „einfach“ mal ausprobiert wird.
 
 Dieser Sprung kann als **Vorstufe zu vorwärts** abgesprungenen **Salti** gesehen werden, so dass sich
 ein gründliches Erlernen der Bauchlandung im Hinblick auf die weitere Entwicklung des Aktiven immer lohnt
@@ -248,7 +248,7 @@ und angebracht ist.
 - Übungen auf derselben Bank-Matte-Konstruktion wie bei der Rückenlandung
 - **Bankstellung auf dem Tuch** - aus dem leichten Wippen die Füße nach hinten strecken (nicht fliegen lassen, sondern gefühlt unter die Abdeckung der Federn schieben), der Oberkörper sollte gerade herunterfallen (Bauchnabel über Kreuz als Test)
 - Liegestützposition (mit immer spitzer werdendem Winkel zwischen Ober- und Unterkörper): leichtes Wippen, Körper strecken und auf dem Bauch landen
-- Bückstand (vorgebeugt wippen) und die Bauchlage springen
+- vorgebeugt wippen und in die Bauchlage springen
 - mit der Schiebematte auf der Gerätemitte leicht wippend den Bauchsprung ausführen
 - **Bauchsprung aus dem Stand mit Hilfestellung**, mitunter Schiebematte vom Rand aus schieben
 

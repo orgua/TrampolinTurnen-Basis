@@ -83,7 +83,7 @@ Koffer-Packen
 - ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
 - Variation: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
 - Variation: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
-- Variation: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltoration)
+- Variation: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltorotation)
 - Variation: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
 - Variation: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
 

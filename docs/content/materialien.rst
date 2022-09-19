@@ -4,7 +4,7 @@ Materialien
 Trainingsorganisation
 ---------------------
 
-Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisation angeht. Außerdem noch einige Übungsformen, die man im Training immer mal wieder anwenden sollte:
+Zum Abschluss noch einige Hinweise für den Trainer bezüglich der Trainingsorganisation. Außerdem noch einige Übungsformen, die man im Training immer mal wieder anwenden sollte:
 
 - möglichst wenige Aktive an einem Gerät versammeln
 - kurze Sprungzeiten auf dem Gerät (3-6 Wiederholungen)
@@ -19,7 +19,7 @@ Zum Abschluss noch einige Hinweise für den Trainer, was die Trainingsorganisati
 - Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 3-5 Sprüngen, alternativ mit Pflicht- oder Kürübung bzw. Teilen daraus
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
 - das Spiel Koffer-Packen (siehe :doc:`Spiele <spiele>` mit vielen) übt Sprungverbindungen und fordert heraus
-
+- Übungen synchron turnen - so lernen Aktive das Halten von Höhe und bemerken durch Höhenverlust Fehler während der Landungen
 
 Trainingsorganisation Studium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,41 +39,41 @@ Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs i
 Pflichtübungen
 --------------
 
-.. table:: Pflichtübungen P1 - P4 (CoP 2017)
+.. table:: Pflichtübungen P1 - P4 (CoP-2017)
     :widths: 10 20 20 20 20
 
-    ======  ==========  ==========  ==========  ==========
+    ======= =========== =========== =========== ===========
     #       P1          P2          P3          P4
-    ======  ==========  ==========  ==========  ==========
+    ======= =========== =========== =========== ===========
     1       Sitz        Sitz        Sitz        ½ Sitz
     2       ½ Stand     ½ Stand     ½ Sitz      ½ Sitz
     3       Grätsche    Grätsche    Stand       ½ Stand
     4       ½ Schraube  Sitz        Hocke       Grätsche
     5       Hocke       Stand       ½ Sitz      Rücken
-    6                   Hocke       ½ Stand     Stand
-    7                   ½ Schraube  Grätsche    ½ Schraube
-    8                               Sitz        Hocke
-    9                               Stand       1 Schraube
-    10                              1 Schraube  Bücke
-    ======  ==========  ==========  ==========  ==========
+    6       .           Hocke       ½ Stand     Stand
+    7       .           ½ Schraube  Grätsche    ½ Schraube
+    8       .           .           Sitz        Hocke
+    9       .           .           Stand       1 Schraube
+    10      .           .           1 Schraube  Bücke
+    ======= =========== =========== =========== ===========
 
-.. table:: Pflichtübungen P5 - P8 (CoP 2017)
+.. table:: Pflichtübungen P5 - P8 (CoP-2017)
     :widths: 10 20 20 20 20
 
-    ======  ==========  ==========  ==========  ==========
+    ======= =========== =========== =========== ===========
     #       P5          P6          P7          P8
-    ======  ==========  ==========  ==========  ==========
-    1       Bücke       Salto rw c  Bauch       ½ Bauch
+    ======= =========== =========== =========== ===========
+    1       Bücke       Salto rw. c Bauch       ½ Bauch
     2       ½ Sitz      ½ Sitz      Stand       Stand
     3       ½ Stand     ½ Stand     Grätsche    Hocke
-    4       Grätsche    Grätsche    Salto rw c  Salto rw c zum Sitz
+    4       Grätsche    Grätsche    Salto rw. c Salto rw. c zum Sitz
     5       Rücken      Rücken      ½ Sitz      ½ Stand
     6       ½ Stand     ½ Stand     Stand       Bücke
-    7       Sitz        Hocke       Bücke       Salto rw b
-    8       i.d. Stand  ½ Schraube  Salto rw b  Grätsche
-    9       Hocke       Bücke       Hocke       Salto rw c
-    10      Salto rw c  Salto rw b  Barani c    Barani c/b
-    ======  ==========  ==========  ==========  ==========
+    7       Sitz        Hocke       Bücke       Salto rw. b
+    8       in d. Stand ½ Schraube  Salto rw. b Grätsche
+    9       Hocke       Bücke       Hocke       Salto rw. c
+    10      Salto rw. c Salto rw. b Barani c    Barani c/b
+    ======= =========== =========== =========== ===========
 
 Weitere Pflichtteile findet man im `Internet <https://www.nsv-trampolin.de/index.php/de/infos-regeln/pflichtuebungen-ab-01-01-2017>`_
 
@@ -98,7 +98,7 @@ Einführung in Wettkampfbestimmungen
 
   - in allen Positionen sollen die Füße und Beine geschlossen sein (Ausnahme Grätschwinkelsprung) und Füße und Zehen gestreckt
   - der Körper soll eindeutig gehockt, gebückt oder gestreckt sein
-  - in der Hock- und Bückposition sollen die Oberschenkel nahe dem Oberkörper sein
+  - in der Hock- und Bück-Position sollen die Oberschenkel nahe dem Oberkörper sein
   - die Arme sollen wann immer möglich gestreckt sein und/oder nahe am Körper gehalten werden
   - bei **gestreckten Übungsteilen** muss der Winkel zwischen Oberkörper (OK) und Oberschenkel (OS) größer als 135 Grad sein
   - bei **gebückten Sprüngen** muss der Winkel zwischen OK und OS kleiner als 135 Grad sein, der Winkel zwischen Ober- und Unterschenkel größer als 135 Grad
@@ -125,6 +125,6 @@ Quellen
 
 - Handreichung vom Trampolin-Basis-Schein, Münster
 - zwei Mitschriften von Basisschein-Ausbildungen
-- DTB Arbeitshilfen
+- Arbeitshilfen vom DTB
 - http://heiny.info/uni/sport/phasentrampolin.html
 - https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf

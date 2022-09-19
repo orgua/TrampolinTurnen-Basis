@@ -1,9 +1,9 @@
 Verbindung von Sprüngen
 ==========================
 
-Im Folgenden sollen noch eine Auswahl an Sprüngen erläutert werden, die aus den bisherigen besprochenen Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind insbesondere Verbindungen der einzelnen Landungsarten mit Schrauben.
+In diesem Kapitel wird eine Auswahl an Sprüngen erläutert, die aus den bisherig vorgestellten Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind anfangs Verbindungen der einzelnen Landungsarten mit Schrauben. Die Aktiven sind hier erstmals mit einer Sprungfolge konfrontiert und müssen lernen den **Fokus auf den aktuellen Sprung** zu legen und nicht bereits an Folgesprünge zu denken. Zusätzlich werden Fehler in der Technik schnell deutlich, da sich die Effekte verschleppen und addieren können.
 
-Die Aktiven sind hier erstmals mit einer Sprungfolge konfrontiert und müssen lernen den Fokus beim aktuellen Sprung zu behalten und nicht schon an Folgesprünge zu denken.
+Hilfestellungen sind in dieser Phase wenig bis kaum nötig und können aus den bereits bekannten Techniken abgeleitet werden. Besonders bei Bauchladungen sollte die Landephase abgesichert sein. Eventuelle Schrauben, inklusive der Richtung, müssen vorher besprochen und beim Sichern bedacht werden.
 
 
 Sitz - ½ Schraube zum Stand
@@ -13,8 +13,8 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 .. rubric:: Bewegungsbeschreibung
 
-- nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt
-- um die Schraube einzuleiten führt einer der Arme die Bewegung an (linker Arm für Schraube linksherum)
+- nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt, allerdings:
+- um die Schraube einzuleiten führt der Arme in Schraubenrichtung die Bewegung an (linker Arm für Schraube linksherum)
 
 .. rubric:: Methodische Übungsreihe
 
@@ -24,37 +24,38 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 .. rubric:: Häufige Fehler
 
-- die Hüfte wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
-- anstatt die Arme mitzunehmen in Richtung der Drehbewegung wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung)
+- der Hüftwinkel wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
+- anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung)
 
 Stand - ½ Schraube zum Sitz
 ----------------------------
 
 .. rubric:: Bewegungsbeschreibung
 
-- im Absprung Beine (gestreckt) nach **hinten** schieben, so dass eine Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
-- im Tuch mit der Schulter eine Drehung in die gewünschte Richtung einleiten
+- im Absprung Beine (gestreckt) nach **hinten** schieben (analog zum Bauchsprung, aber schwächer), so dass eine leichte Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
+- mit der Schulter eine Drehung in die gewünschte Richtung einleiten
 - Arme getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
+- kurz vor Tuchkontakt die Sitzposition einnehmen
 
 .. rubric:: Methodische Übungsreihe
 
 - Demonstration des Trainers
 - im Stand das Bein auf der Seite der gewünschten Drehrichtung getreckt nach hinten stellen: das andere Bein als Standbein unter dem Körper leicht beugen; Oberkörper vorbeugen, die Arme befinden sich gestreckt neben den Ohren (der Körper ist nun komplett gestreckt); drehen und sich in den Sitz fallen lassen
-- aus dem Wippen heraus abspringen, mit dem Zeigefinger einer Hand (Rechte Hand für Schraube nach Links) nach vorne in die Luft tippen (das leitet sowohl Vorlage als auch Rotation ein)
+- aus dem Wippen heraus abspringen, mit dem Zeigefinger einer Hand (Rechte Hand für Schraube nach Links) weit nach vorne in die Luft tippen (das leitet sowohl Vorlage als auch die Schraubenrotation ein)
 - aus dem Wippen Beine nach hinten schieben, drehen und im Sitz landen
-- Sprunghöhe immer weiter steigern
+- Sprunghöhe weiter steigern
 
 .. rubric:: Häufige Fehler
 
 - Beine werden nicht genug oder zu sehr nach hinten geschoben
 - die Schraube wird zu früh eingeleitet: erst die Beine schieben
-- die Hüfte wird zu früh angewinkelt: schräge Landung
+- die Hüfte wird zu früh angewinkelt: schräge Landung durch taumelnde Schraube
 - der Kopf bleibt zu lange stehen: Kopf soll sich mit dem gesamten Körper in die gewünschte Drehrichtung bewegen; möglichst früh wieder die Orientierung zum Tuch finden
 
 .. rubric:: Hilfestellung
 
-- der Trainer/Helfende steht auf der der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an den Hüften unterstützt
+- der Trainer/Helfende steht auf der der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an der Hüfte unterstützt
 
 Sitz - ½ Schraube zum Sitz
 -----------------------------
@@ -67,33 +68,33 @@ Sitz - ½ Schraube zum Sitz
 
 .. rubric:: Bewegungsbeschreibung
 
-- nach der Sitzlandung drückt sich der Springer kräftig mit den Händen ab
+- nach der bekannten Sitzlandung drückt sich der Springer kräftig mit den Händen ab
 - die Hüfte wird gestreckt und die Beine nach hinten geschoben (analog zu ½ Schraube zum Sitz)
-- die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer Loalawelle, nur mit Schraube)
+- die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer La-Ola-Welle, nur mit Schraube)
 - die Landung erfolgt wie beim Sitzsprung
 
 .. rubric:: Methodische Übungsreihe
 
 - Armbewegung trocken im Stand üben
-- Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage verpassen um den anschließenden Sitz zu ermöglichen
+- Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage in der ersten Phase verpassen um den anschließenden Sitz leicht zurückgelehnt zu ermöglichen, dann
+- wenn die halbe Schraube in den Stand schnell genug ist, kommt der anschließende Sitz oft von allein
 
 .. rubric:: Häufige Fehler
 
-- der Oberkörper kippt zu früh nach vorne: zu geringe Höhe und Schraubenmenge
+- der Oberkörper kippt zu früh nach vorne: flacher Sprung und zu schwache Schraube
 - der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt
-- der Aktive bleibt im Sitz und rotiert trotzdem
+- der Aktive bleibt im Sitz und rotiert mit Hüftwinkel trotzdem
+- Angst vor dem Tuch führt zu angehockten Beinen in der Luft; Gegen die Angst kann jemand mit Erfahrung zeigen wie ein zu flacher Sprung endet: im Stand
 
 Weiterführung
 --------------
 
 Die beschriebenen Sitz-Schraubverbindungen lassen sich nun analog auf den Rücken- und Bauchsprung übertragen. Zusätzlich können Verbindungen zwischen den Landeformen geschaffen werden.
 
+- Stand - ½ (Schraube zum) Sitz - ½ Sitz - ...
 - Stand - Rücken - ½ Schraube Stand
 - Stand - ½ Schraube in den Rücken
 - Stand - Sitz - Bauch
 - Stand - Bauch - Rücken
 - Stand - ½ Schraube Bauch
 - Stand - Bauch - ½ Schraube Stand
-
-..
-    Trampolin - Teppich

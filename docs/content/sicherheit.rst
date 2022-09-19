@@ -3,10 +3,13 @@ Sicherheit
 
 Das Trampolinturnen hat infolge einiger bekannt gewordener Unfälle den Ruf einer sehr gefährlichen Sportart erworben. Diese Sportart ist jedoch genauso gefährlich oder ungefährlich wie andere technische Sportarten, die vom Helfen und Sichern abhängig sind (z.B. Gerätturnen). Dabei sollte jedoch bemerkt werden, dass Unfälle zumeist die Folge von individuellen Fehlern waren/sind und durch die Einhaltung von einigen wenigen Sicherheitshinweisen durchaus vermieden werden können. Diese Sicherheitsaspekte betreffen zum einen den :ref:`Auf- und Abbau des Trampolins <Aufbau>` sowie die äußere :ref:`Organisation der Trainingsstunde <Organisation>`. Daneben muss aber auch insbesondere Wert auf ein den (motorischen) Fähigkeiten des Aktiven angepasstes Trainingsprogramm gelegt werden, was hier vor allem den Bereich des **methodischen Aufbaus** des Trainings und den :ref:`Einsatz von Hilfsmitteln <Hilfestellung>` betrifft.
 
+.. warning::
+    Dieser Guide ist nur als Ergänzung zur praktischen Ausbildung gedacht. Gerade beim Sichern lassen sich viele Details nur schwer beschreiben aber relativ leicht zeigen, bzw. beobachten. Daher wird hier kein Anspruch auf Vollständigkeit erhoben.
+
 .. _Aufbau:
 
-Geräteauf- und Abbau
---------------------
+Auf- und Abbau des Trampolins
+-----------------------------
 
 Besondere Beachtung im Hinblick auf die Sicherheit beim Trampolinturnen muss zu aller erst dem Auf- und Abbau der Geräte geschenkt werden. Durch die Größe der Trampoline bedingt haben die Hersteller ein kompliziertes aber effektives Verfahren entwickelt, ein Trampolin möglichst klein „zusammenzufalten“.
 
@@ -17,25 +20,63 @@ Folgende Hinweise müssen deshalb unbedingt beachtet werden:
 - die Aktiven müssen regelmäßig auf die Gefahren beim Auf- und Abbau hingewiesen werden. Dies gilt insbesondere für Neulinge und Kinder
 - der Auf- und Abbau darf **nur unter Aufsicht** erfahrener Lehrkräfte erfolgen
 - Mitwirkende sollten feste, geschlossene Turnschuhe tragen
+
+.. rubric:: Transport des Trampolins
+
 - beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet werden und ein Überfahren vermieden werden
-- beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu. Nur den vorgesehenen T-Griff greifen (größerer Hebel und keine Einklemmgefahr, besonders beim Abbau).
+- das Trampolin wird längs bewegt, am Besten an beiden Seiten von jeweils einer Person gezogen und geschoben
+- am Standort des Trampolins dürfen sich keine Hindernisse unter der Decke befinden (Ringe, tief hängende Lampen)
+
+.. rubric:: Heberollenständer benutzen
+
+- manche Geräteräume erfordern ein Ablassen des Trampolins - daher muss das Gerät vor dem Aufbau wieder hochgehebelt werden
+- beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu.
+- **Achtung**: Nur den vorgesehenen T-Griff greifen (größerer Hebel und keine Einklemmgefahr, besonders beim Abbau)
+- Zuerst den T-Griff greifen, danach den Sicherungsknopf fassen und herausziehen
+- **Synchron** an beiden Heberollständern arbeiten
+
+.. rubric:: Ausklappen der Standfüße
+
 - beim Kippen des Geräts darauf achten, dass die Ketten frei beweglich sind und nirgendwo hängenbleiben
-- darauf achten, dass der **innere Metallbügel** beim Kippen nicht **unkontrolliert auf den Boden fällt**. Der Aufprall verbiegt sehr schnell die Aufnahme für die Quergestänge üblicher Eurotramp-Geräte
-- bevor die Heberollständer entfernt werden, erst alle vier Ketten einhängen und kontrollieren; beim Einhängen der Ketten darauf achten, dass diese nicht verdreht sind
+- darauf achten, dass der **innere Standfuß** beim Kippen nicht **unkontrolliert auf den Boden oder Füße der Helfer fällt**. Der Aufprall verbiegt sehr schnell die Aufnahme für die Quergestänge üblicher Eurotramp-Geräte
+- Methodik: inneren Standfuß (durchgängig) festhalten, äußeren Standfuß ankippen und inneren Fuß dagegenlehnen, danach mit einer Hebelbewegung das Trampolin aufklappen und beide Füße ablegen und anschließend aufziehen
+- bevor die Heberollständer bedient werden, das Trampolin in die Waagerechte bringen um alle vier Ketten einzuhängen; darauf achten, dass die Ketten nicht verdreht sind
+- T-Griff greifen, Sicherungsknopf bedienen und Hebel quer legen bis die Ketten gespannt sind
+- die Heberollständer sollten in sicherer Entfernung zum Trainingsbereich gelagert werden – am besten im Geräteraum
+
+.. rubric:: Aufklappen der Trampolinflügel
+
 - beim Aufklappen des Trampolins beide Seitenflügel festhalten und nicht fallen lassen
 - der zweite Seitenflügel muss kräftig aufgezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Seitenflügels notwendig.
 - beim Aufklappen sollte möglichst nur je eine Person auf jeder Seite heben. Ansonsten kann es passieren, dass man sich im Weg steht. Des Weiteren ist darauf zu achten, dass keine Gegenstände im Weg liegen, über die man stolpern könnte.
 - erst eine Seite komplett mit Hilfe der Fußstützen befestigen - und erst dann mit dem zweiten Flügel fortfahren
-- die Heberollständer sollten in sicherer Entfernung zum Trainingsbereich gelagert werden – am besten im Geräteraum
+
+.. rubric:: Absicherung der vier Seiten
+
 - die Stirnseiten des Trampolins müssen mit Weichböden bzw. Trampolintischen abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die gleiche Höhe wie das Trampolin haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
 - die Längsseiten des Trampolins mit Bodenmatten und/oder Turnmatten sichern
 - vor Benutzen des Trampolins erst den korrekten Aufbau überprüfen; die Fußstützen sollen eingerastet, die Federn mit dem Haken nach unten montiert und die Ketten gespannt sein
-- **Wartung**: regelmäßig prüfen ob alle 4 Ketten gespannt sind, das Trampolin waagerecht steht und die Klappgelenke korrekt öffnen (in einer Linie, keine Wanne, aber auch keine Überdehnung des Gelenks), ansonsten Ketten korrigieren
-- beim Zusammenklappen verhindern, dass die Seitenteile herunterfallen; bei der ersten Seite ist zu beachten, dass das Tuch noch unter Spannung steht
+
+.. rubric:: Abbau
+
+Der Abbau ist in vielen Punkte ähnlich zum Aufbau - Unterschiede werden nachfolgend erläutert.
+
+- Umgebung von Matten und anderen Gegenständen befreien damit die Heberollständer nicht hängen bleiben
+- Rahmenpolster öffnen!
+- beim Zusammenklappen verhindern, dass die Seitenteile herunterfallen; bei der ersten Seite ist zu beachten, dass das Tuch noch unter Spannung steht und sich selbstständig machen kann sobald die Querstützen befreit sind und nicht festgehalten werden
 - die Metallbügel der Heberollständer müssen nach oben zeigen
+- es reicht aus die Ketten auf der Seite des oben aufliegenden Seitenflügels zu lösen. Dort wird das Standbein angehoben und geschoben
+- die Helfer der Gegenseite stellen sich zuerst auf den Standfuß und drücken dann die nahende Trampolinseite herunter
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
 
 Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder richtige **organisatorische Hinweise** zu geben. So ist es zum Beispiel sinnvoll, die jüngeren Kinder mit dem „Entsorgen“ der Rollständer oder dem Auslegen der Matten zu beauftragen. Sie können auch die nötigen Kästen oder Barren besorgen. Das Aufklappen sollte den Aktiven überlassen werden, die dazu kräftemäßig in der Lage sind - und auch groß genug sind. Ist dies (beispielsweise bei einer Kindergruppe) nicht möglich, so sollte sich der verantwortliche Übungsleiter nicht scheuen, eventuell anwesende Eltern um Hilfe zu bitten.
+
+Wartung
+--------
+
+Verschiedene Punkte sollten in regelmäßigen Abständen geprüft werden.
+
+**Kettenspannung**: prüfen ob alle 4 Ketten gespannt sind, das Trampolin waagerecht steht und die Klappgelenke korrekt öffnen (in einer Linie, keine Wanne, aber auch keine Überdehnung des Gelenks), ansonsten Ketten korrigieren
 
 .. _Organisation:
 
@@ -146,6 +187,7 @@ Abschließend noch ein paar Hinweise beim **Umgang mit den Teilnehmern**:
   - eventuelles Abstoppen oder Unterstützen von Rotationen abklären
 
 - Auf jeden Fall vor kontakt-intensiven (Salto-) Hilfestellungen fragen ob die Teilnehmer damit einverstanden sind
+- der Trainer sollte sich ebenso der Aufgabe gewachsen fühlen (!)
 - Anzählen mit **„und, eins, zwei, drei“ immer voll ausführen**, alles andere gleicht einem Abbruch
 - für den Aktiven gelten ähnliche Regeln - ein Nicht-Stellen der Arme gleicht einem Abbruch
 

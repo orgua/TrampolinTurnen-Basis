@@ -4,7 +4,7 @@ Tuchgewöhnung
 In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die doch im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin sollen mit den vorgestellten Übungen das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind nur ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Jedoch ist der Kreativität der Trainer und Aktiven hier fast keine Grenze gesetzt; immer neue Übungen schulen das Anpassungsvermögen der Aktiven – und erhalten die Motivation.
 
 .. tip::
-    Die im folgenden **dick** gedruckten Punkte eignen sich als Mindestsatz an Übungen um das wichtigste abzudecken. Dies erlaubt schnellen Fortschritt und ein individuelles Nachjustieren.
+    Die im Folgenden **dick** gedruckten Punkte eignen sich als Mindestsatz an Übungen um das wichtigste abzudecken. Dies ermöglicht schnellen Fortschritt und ein individuelles Nachjustieren.
 
 Zu den wichtigsten **Effekten auf dem Trampolin** zählen:
 
@@ -117,7 +117,7 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 - die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung die aber noch vor dem Bewegungsmaximum (Anschlag) abgebremst wird
 
   - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
-  - die Intensität des Armschwungs erlaubt einen Wechsel zwischen Höhe gewinnen und halten
+  - die Intensität des Armschwungs ermöglicht einen Wechsel zwischen Höhe gewinnen und halten
 
 - die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - etwa bis zum höchsten Punkt des Sprungs
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
@@ -150,7 +150,7 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung 
 
     Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handflächen beim Stellen der Arme nach außen zu drehen. Ebenso kann ein sehr spätes kräftiges Stellen (fast im Moment der Landung) helfen.
 
-    Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich nach "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird gerade bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
+    Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich nach "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird besonders bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
 
 Blickrichtung
 -------------
