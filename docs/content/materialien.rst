@@ -39,41 +39,43 @@ Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs i
 Pflichtübungen
 --------------
 
-.. table:: Pflichtübungen P1 - P4 (CoP-2017)
+.. csv-table:: Pflichtübungen P1 - P4 (CoP-2017)
     :widths: 10 20 20 20 20
+    :width: 100
+    :stub-columns: 1
+    :align: center
+    :header: #, P1, P2, P3, P4
 
-    ======= =========== =========== =========== ===========
-    #       P1          P2          P3          P4
-    ======= =========== =========== =========== ===========
-    1       Sitz        Sitz        Sitz        ½ Sitz
-    2       ½ Stand     ½ Stand     ½ Sitz      ½ Sitz
-    3       Grätsche    Grätsche    Stand       ½ Stand
-    4       ½ Schraube  Sitz        Hocke       Grätsche
-    5       Hocke       Stand       ½ Sitz      Rücken
-    6       .           Hocke       ½ Stand     Stand
-    7       .           ½ Schraube  Grätsche    ½ Schraube
-    8       .           .           Sitz        Hocke
-    9       .           .           Stand       1 Schraube
-    10      .           .           1 Schraube  Bücke
-    ======= =========== =========== =========== ===========
+    1,       Sitz,          Sitz,           Sitz,           ½ Sitz
+    2,       ½ Stand,       ½ Stand,        ½ Sitz,         ½ Sitz
+    3,       Grätsche,      Grätsche,       Stand,          ½ Stand
+    4,       ½ Schraube,    Sitz,           Hocke,          Grätsche
+    5,       Hocke,         Stand,          ½ Sitz,         Rücken
+    6,       ,              Hocke,          ½ Stand,        Stand
+    7,       ,              ½ Schraube,     Grätsche,       ½ Schraube
+    8,       ,              ,               Sitz,           Hocke
+    9,       ,              ,               Stand,          1 Schraube
+    10,      ,              ,               1 Schraube,     Bücke
 
-.. table:: Pflichtübungen P5 - P8 (CoP-2017)
+
+.. csv-table:: Pflichtübungen P5 - P8 (CoP-2017)
     :widths: 10 20 20 20 20
+    :width: 100
+    :stub-columns: 1
+    :align: center
+    :header: #, P5, P6, P7, P8
 
-    ======= =========== =========== =========== ===========
-    #       P5          P6          P7          P8
-    ======= =========== =========== =========== ===========
-    1       Bücke       Salto rw. c Bauch       ½ Bauch
-    2       ½ Sitz      ½ Sitz      Stand       Stand
-    3       ½ Stand     ½ Stand     Grätsche    Hocke
-    4       Grätsche    Grätsche    Salto rw. c Salto rw. c zum Sitz
-    5       Rücken      Rücken      ½ Sitz      ½ Stand
-    6       ½ Stand     ½ Stand     Stand       Bücke
-    7       Sitz        Hocke       Bücke       Salto rw. b
-    8       in d. Stand ½ Schraube  Salto rw. b Grätsche
-    9       Hocke       Bücke       Hocke       Salto rw. c
-    10      Salto rw. c Salto rw. b Barani c    Barani c/b
-    ======= =========== =========== =========== ===========
+    1,  Bücke,          Salto rw. c,    Bauch,          ½ Bauch
+    2,  ½ Sitz,         ½ Sitz,         Stand,          Stand
+    3,  ½ Stand,        ½ Stand,        Grätsche,       Hocke
+    4,  Grätsche,       Grätsche,       Salto rw. c,    Salto rw. c zum Sitz
+    5,  Rücken,         Rücken,         ½ Sitz,         ½ Stand
+    6,  ½ Stand,        ½ Stand,        Stand,          Bücke
+    7,  Sitz,           Hocke,          Bücke,          Salto rw. b
+    8,  in d. Stand,    ½ Schraube,     Salto rw. b,    Grätsche
+    9,  Hocke,          Bücke,          Hocke,          Salto rw. c
+    10, Salto rw. c,    Salto rw. b,    Barani c,       Barani c/b
+
 
 Weitere Pflichtteile findet man im `Internet <https://www.nsv-trampolin.de/index.php/de/infos-regeln/pflichtuebungen-ab-01-01-2017>`_
 
