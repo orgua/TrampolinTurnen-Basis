@@ -41,7 +41,7 @@ Pflichtübungen
 
 Die zehnteiligen Pflichtübungen sind im unteren Leistungsbereich leicht zu erlernen. Die einzige Schwierigkeit besteht oft im Auswendiglernen der Übungsfolge. Im höheren Leistungsbereich bzw. den freieren Übungen hingegen liegt die Anforderung bei der Kombination der Sprünge.
 
-Die ersten beiden Übungen P1 & P2 sind Vorstufen um sich an Folgen zu gewöhnen. Aber auch später lassen sich die Übungen gut in Sequenzen zerlegen und einzeln üben. Es ist auch möglich schwierige Sprünge durch beispielsweise Hocken zu ersetzen oder temporäre Strecksprünge zwischen zu schieben.
+Die ersten beiden Übungen P1 und P2 sind Vorstufen um sich an Sprungfolgen zu gewöhnen. Aber auch später lassen sich die Übungen gut in Sequenzen zerlegen und einzeln üben. Es ist ebenfalls möglich schwierige Sprünge durch (beispielsweise) Hocken zu ersetzen oder temporäre Strecksprünge einzuschieben.
 
 .. csv-table:: Pflichtübungen P1 - P4 (CoP-2017)
     :widths: 10 20 20 20 20

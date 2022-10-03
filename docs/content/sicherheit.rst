@@ -72,14 +72,20 @@ Der Abbau ist in vielen Punkte ähnlich zum Aufbau - Unterschiede werden nachfol
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
 
 .. figure:: ../media/aufbau_in_reihe.jpg
-   :name: fig:aufbau_reihe
-   :width: 100.0%
-   :alt: Platzsparender Aufbau in Reihe
+    :name: fig:aufbau_reihe
+    :width: 80.0%
+    :alt: Platzsparender Aufbau in Reihe
+
+    Platzsparender Aufbau in Reihe
+
 
 .. figure:: ../media/aufbau_parallel_synchron.jpg
-   :name: fig:aufbau_parallel
-   :width: 100.0%
-   :alt: Aufbau der Trampoline parallel
+    :name: fig:aufbau_parallel
+    :width: 80.0%
+    :alt: Aufbau der Trampoline parallel / für Synchron
+
+    Aufbau der Trampoline parallel / für Synchron
+
 
 Wartung
 --------

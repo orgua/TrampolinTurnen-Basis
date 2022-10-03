@@ -23,16 +23,19 @@ Fußsprünge
 
 Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit geöffnet, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe. Die eigentliche Bewegung wird erst **nach dem Absprung** ausgeführt, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
 
+.. figure:: ../media/spruenge_hocke_buecke_graetsche.png
+    :width: 800px
+    :name: fig:hock_buck_gratsch
+    :alt: Die drei Fusssprünge in Phasendarstellung
+
+    Die drei Fusssprünge in Phasendarstellung
+
 .. rubric:: Bewegungsbeschreibung
 
 - Bei der **Hocke** werden die Beine gehockt nach vorne zum Oberkörper geführt. Die Hände fassen dabei die Knie knapp unterhalb der Kniescheibe an. Der Oberkörper ist leicht nach vorne gebeugt.
 - Bei der **Bücke** werden die Beine gestreckt nach oben in die Waagerechte geführt. Die Hände fassen hierbei von oben auf den Fußspann. Alternativ kann der Fuß oder Knöchel gegriffen werden. Der Oberkörper befindet sich möglichst nahe an den Oberschenkeln. Gefordert ist ein Winkel von deutlich weniger als 90 Grad zwischen Oberkörper und Oberschenkel.
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
-
-.. figure:: ../media/spruenge_hocke_buecke_graetsche.png
-   :name: fig:hock_buck_gratsch
-   :alt: Die drei Fusssprünge in Phasendarstellung
 
 .. rubric:: Feinstform - Hocke
 
@@ -67,6 +70,13 @@ Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in d
 
 Wasserspringer verwenden noch weitere Schraubentechniken - sie führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
 
+.. figure:: ../media/sprung_halbe_schraube.jpg
+    :width: 200px
+    :name: fig:halbe_schraube
+    :alt: Halbe Schraube in Phasendarstellung
+
+    Halbe Schraube in Phasendarstellung
+
 .. rubric:: Fußsprungschraube aus dem Tuch
 
 Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
@@ -95,10 +105,6 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
   - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
-.. figure:: ../media/sprung_halbe_schraube.jpg
-   :name: fig:halbe_schraube
-   :alt: Halbe Schraube in Phasendarstellung
-
 .. rubric:: Fehler und Korrekturen
 
 - unbewusstes Abdrücken der Hände in der Luft: beide Arme in Drehrichtung mitnehmen
@@ -111,10 +117,12 @@ Sitzlandung / Sitz
 
 Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon ein Element der Grundtechnik für spätere Rückensprünge und Salti. Daher lohnt es sich den Fokus bereits früh auf saubere Ausführung zu legen.
 
-
 .. figure:: ../media/sprung_sitz_stand.png
-   :name: fig:sitz
-   :alt: Sitz & Stand in Phasendarstellung
+    :width: 450px
+    :name: fig:sitz
+    :alt: Stand-Sitz-Stand in Phasendarstellung
+
+    Stand-Sitz-Stand in Phasendarstellung
 
 
 .. rubric:: Bewegungsbeschreibung
@@ -162,6 +170,13 @@ Rückenlandung / Rücken
 
 Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme. Zu unbekannt ist das Gefühl, rückwärts nach unten zu fallen. Zusätzlich ist die Bewegung recht komplex. Es müssen viele kleine Bewegungen fast zur gleichen Zeit kontrolliert ausgeführt werden. Aus diesem Grund ist es sinnvoll, die Rückenlandung mit einigen Übungen vorzubereiten. Im Bestfall schon einige Zeit, bevor der Sprung überhaupt gelernt werden soll.
 
+.. figure:: ../media/sprung_ruecken_stand.png
+    :width: 600px
+    :name: fig:ruecken
+    :alt: Sprung in den Rücken & in den Stand in Phasendarstellung
+
+    Sprung in den Rücken & in den Stand in Phasendarstellung
+
 .. _TechnikSalto:
 .. rubric:: Technik - Saltorotation rückwärts
 
@@ -188,9 +203,6 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
   - das Aufstrecken des Hüftwinkels in der Flugphase leitet die Rotation ein um in den Stand zu gelangen, der Körper ist wieder komplett getreckt
   - bei richtiger Ausführung gelingt eine Landung auf der Stelle (zurück aufs Kreuz)
 
-.. figure:: ../media/sprung_ruecken_stand.png
-   :name: fig:ruecken
-   :alt: Sprung in den Rücken & in den Stand in Phasendarstellung
 
 .. rubric:: Methodische Übungsreihe
 

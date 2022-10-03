@@ -11,14 +11,17 @@ Sitz - ½ Schraube zum Stand
 
 Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindung zweier Sprünge.
 
+.. figure:: ../media/sprung_halbe_sitz_halbe_stand.png
+    :width: 350px
+    :name: fig:halb_sitz_halb_stand
+    :alt: Halbe Schraube in den Sitz & halbe Stand in Phasendarstellung
+
+    Halbe Schraube in den Sitz & halbe Stand in Phasendarstellung
+
 .. rubric:: Bewegungsbeschreibung
 
 - nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt, allerdings:
 - um die Schraube einzuleiten führt der Arme in Schraubenrichtung die Bewegung an (linker Arm für Schraube linksherum)
-
-.. figure:: ../media/sprung_halbe_sitz_halbe_stand.png
-   :name: fig:halb_sitz_halb_stand
-   :alt: Halbe Schraube in den Sitz & halbe Stand in Phasendarstellung
 
 .. rubric:: Methodische Übungsreihe
 
@@ -68,8 +71,10 @@ Sitz - ½ Schraube zum Sitz
 
 .. figure:: ../media/sprung_sitz_halbe_sitz.jpg
     :width: 400px
+    :name: fig:sitz_halbe_sitz
+    :alt: Sitz - halbe Schraube in den Sitz in Phasendarstellung
 
-    Phasen eines Sitz-halbe-Sitz, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
+    Sitz - halbe Schraube in den Sitz in Phasendarstellung, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
 
 
 .. rubric:: Bewegungsbeschreibung
