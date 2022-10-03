@@ -43,8 +43,11 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 
 .. rubric:: Fehler und Korrekturen
 
-- Anfersen statt anhocken
--
+- Anfersen statt Anhocken (Hocke): Knie bewegen sich zum Bauch (und andersrum)
+- Beine / Knie auseinander (Hocke, Bücke): Schaumstoff oder Tuch zwischen die Knie, bzw Umfassen der Unterschenkel üben
+- Umfallen oder Wandern nach dem Sprung: Aktion erst später nach Absprung ansetzen, Fixpunkt suchen, Oberkörper aufrichten vor Landung
+- Knie krumm oder Beine nicht 90° gegrätscht (Grätsche, Bücke): Beweglichkeit verbessern, Trockenübung aus Rückenlage,
+
 
 Diese Sprünge lassen sich normalerweise von Anfängern ohne große Hilfe erlernen. Als "Vorübung" können die Teilnehmenden die Bewegung anfangs nur andeuten und innerhalb weniger Wiederholungen intensivieren bis zum vollen Sprung. Es sollte darauf geachtet werden, dass die Landung möglichst aufrecht und nicht mit Vor- oder Rücklage erfolgt. Ein Indikator für den Trainer ist eine starke Asymmetrie während der Ausführung des Sprungs (z.B. Oberkörper bleibt aufrecht). Eventuell sollte die Landung durch den Trainer auf dem Tuch zu Beginn unterstützt werden.
 
@@ -60,7 +63,7 @@ Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in d
 
 Wasserspringer verwenden noch weitere Schraubentechniken - sie führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
 
-.. rubric:: Schraube aus dem Tuch
+.. rubric:: Fußsprungschraube aus dem Tuch
 
 Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
 
@@ -88,7 +91,12 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
   - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
-Häufigster Fehler ist wohl das unbewusste Abdrücken der Hände in der Luft. Statt die Arme in Drehrichtung mitzunehmen bewegen sie sich entgegengesetzt und kontern die Rotation.
+.. rubric:: Fehler und Korrekturen
+
+- unbewusstes Abdrücken der Hände in der Luft: beide Arme in Drehrichtung mitnehmen
+- Beine nicht geschlossen: Aufmerksam machen, bzw. Schaumstoffblock zwischen die Füße klemmen
+- Überdrehen bzw zu wenig rotieren: Fixpunkt suchen, Armbewegung üben
+- Kippen aus der Achse: Phasentrennung beachten, erst Abspringen
 
 Sitzlandung / Sitz
 ------------------
@@ -126,11 +134,15 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 
 .. rubric:: Fehler und Korrekturen
 
-- Rotation wird durch die Schulter eingeleitet
-- Beine schnippen nach vorne, bzw. Sitzposition zu früh eingenommen (Po- oder Rücklage)
-- die Beine sind nicht gestreckt in der Luft, gelegentlich begleitet mit einem Schieben der Knie im Absprung
-- die Hände stützen den Oberkörper in der Landung nicht ab (staucht den Rücken)
-- Arme werden nicht hochgeführt beim Aufstehen (Aktive kommen in Vorlage zum Stehen)
+- Rotation wird durch die Schulter eingeleitet inklusive Bewegung nach hinten: Hinweis auf Vorspannung im Mittelkörper & deutlich machen, dass Po auf dem Kreuz landen soll
+- Beine schnippen nach vorne, bzw. Sitzposition zu früh eingenommen (Po- oder Rücklage) -> zuerst Strecksprung nach oben
+- die Beine sind nicht gestreckt in der Luft, gelegentlich begleitet mit einem Schieben der Knie im Absprung -> auf Knie hinweisen und deutlich machen, dass zuerst Strecksprung nach oben erfolgen soll
+- Beine nicht geschlossen -> Schaumstoff
+- Füße landen zuerst bei Sitzlandung: höher springen oder früher Hüftbeugung einleiten
+- Po landet zuerst bei Sitzlandung (Füße schlagen nach): länger gestreckt bleiben
+- vorgebeugte Sitzlandung: auf die Rotation hinweisen nach dem Absprung
+- Umkippen im Sitz bzw die Hände stützen den Oberkörper in der Landung nicht ab (staucht den Rücken) -> Armbewegung trocken üben
+- Arme werden nicht hochgeführt beim Aufstehen (Aktive kommen in Vorlage zum Stehen) -> Unterschied vorzeigen bzw. darauf hinweisen
 
 .. rubric:: Hilfestellung
 
@@ -146,7 +158,7 @@ Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme
 .. _TechnikSalto:
 .. rubric:: Technik - Saltorotation rückwärts
 
-Auch wenn man hier von einem Salto spricht, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung des Körpers**. Dabei wird die Hüfte gekippt! Gelegentlich hört man das falsche "Hüfte vorschieben", welches den Körper in die Bananenform bringt. Als Analogie zum Kippen der Hüfte kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Der Oberschenkel bewegt sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel **von C-Minus ins C-Plus**, d.h. ein Kick mit den Beinen und sofortiges **Abstoppen in leichter Schiffchenposition** (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
+Auch wenn man hier von einem Salto spricht, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung des Körpers**. Dabei wird die **Hüfte gekippt**! Gelegentlich hört man das **falsche** *"Hüfte vorschieben"*, welches den Körper in die Bananenform bringt. Als Analogie zum Kippen der Hüfte kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Der Oberschenkel bewegt sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel **von C-Minus ins C-Plus**, d.h. ein Kick mit den Beinen und sofortiges **Abstoppen in leichter Schiffchenposition** (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
 
 Als Vorübung eignet sich der **Mattenkick**:
 Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage. Ziel ist sowohl ein lauter Kick als auch eine starke Vorwärtsrotation nach dem Abprall.
@@ -165,7 +177,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - **Aufstehen zum Stand**:
 
   - die Schulter drückt bei der Aufwärtsbewegung ins Tuch (ermöglicht wird dies durch den folgenden Punkt)
-  - die Füße werden zur Decke gestreckt (leicht nach vorne). Dies streckt gleichzeitig den Hüftwinkel auf
+  - die Füße werden zur Decke gestreckt (leicht nach vorne). Dies streckt gleichzeitig den Hüftwinkel auf (Kippstoß)
   - das Aufstrecken des Hüftwinkels in der Flugphase leitet die Rotation ein um in den Stand zu gelangen, der Körper ist wieder komplett getreckt
   - bei richtiger Ausführung gelingt eine Landung auf der Stelle (zurück aufs Kreuz)
 
@@ -174,8 +186,9 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - Rückwärtsrollen und Mattenkick bei Erwärmung üben, siehe :ref:`Technik-Abschnitt <TechnikSalto>`
 - Demonstration; Insbesondere auf die Position der Beine und Arme bei der Landung im Rücken sollte eingegangen werden
 - Liegeposition statisch auf dem Tuch einnehmen
-- Stempelgriff-Vorübung zum Kennenlernen der Landephase: Trainer greift die Füße aus der Trockenposition und federt den Aktiven mit einem Kick ins Tuch. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
-- Tipp: für eine Reduktion der Komplexität können die nachfolgenden Übungen zunächst in den flachen (bzw. platten) Rücken durchgeführt werden
+- **Stempelgriff-Vorübung** zum Kennenlernen der Landephase: Trainer greift die Füße aus der Trockenposition und federt den Aktiven mit einem Kick ins Tuch. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
+- Tipp 1: bei ängstlichen Teilnehmern kann es hilfreich sein erst das Aufstehen zu üben (vor dem Sprung in den Rücken)
+- Tipp 2: für eine Reduktion der Komplexität können die nachfolgenden Übungen zunächst in den flachen (bzw. platten) Rücken durchgeführt werden
 - auf einer sehr weichen oder gefederten Matte (Mattentisch bzw. Geräteaufbau unten beschrieben) den Absprung auf der Matte und die Landung im Rücken üben
 - Geräteaufbau - kann parallel zum Training auf dem Trampolin benutzt werden
 
@@ -192,7 +205,9 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 .. rubric:: Fehler und Korrekturen
 
 - **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme hinter ihren Körper  bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
-- zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen
+- der Absprung erfolgt nach hinten gelehnt / gebeugt: auf aufrechten und bewusst nach oben gerichteten Absprung achten („Schultern/Arme zur Decke“), Landung auf Kreuz, Beweglichkeit verbessern?
+- der Kopf wird im Absprung nach hinten gerissen für extra Schwung - potentiell gefährlich!
+- zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen -> erst kräftiger Absprung nach oben, dann deutlicher Kick
 - die Beine sind in der Landung nicht optimal gestellt; Folgen:
 
   - zu tief -> die Beine fallen auf das Tuch
@@ -204,10 +219,9 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
   - zu früh: das Aufstehen erfolgt zu flach und zu weit nach vorne (Stehauf-Männchen)
   - zu spät: nicht genügend Rotation zum Aufstehen, die Landung erfolgt im Sitz
 
-- der Absprung erfolgt nach hinten gelehnt / gebeugt: auf aufrechten und bewusst nach oben gerichteten Absprung achten („Schultern/Arme zur Decke“)
-- zu wenig Körperspannung in der Landung: der Körper klappt regelrecht zusammen.
-- der Kopf wird auf die Brust genommen und fällt bei der Landung nach hinten
-- der Kopf wird im Absprung nach hinten gerissen für extra Schwung - potentiell gefährlich!
+- zu wenig Körperspannung in der Landung: der Körper klappt regelrecht zusammen -> Arme und Beine mehr rechtwinklig zum Körper halten
+- der Kopf wird auf die Brust genommen und fällt bei der Landung nach hinten -> Kopf lieber ablegen oder Stempel-Übung mit Schaumstoff am Kinn eingeklemmt durchführen
+- Stehaufmännchen, Vornüberfallen beim Aufstehen: die Beine nach der Landung nicht gleich fallen lassen um aufzustehen
 
 .. rubric:: Hilfestellung
 

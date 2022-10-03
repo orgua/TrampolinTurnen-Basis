@@ -20,12 +20,13 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 - die Armbewegung (inklusive Schraube) am Boden demonstrieren und nachahmen lassen
 - Demonstration des Sprungs
-- Sprung durchführen - erwähnen, dass eine saubere Ausführung wichtiger ist als eine vollendete Schraube
+- Sprung durchführen - erwähnen, dass eine saubere Ausführung wichtiger ist als eine vollendete (halbe) Schraube
 
 .. rubric:: Fehler und Korrekturen
 
 - der Hüftwinkel wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
-- anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung)
+- anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung) und die Schraube bleibt schwach
+- Landung in Vorlage -> Hände im Sitz weiter hinten aufsetzen um sich etwas stärker nach vorne abzudrücken
 
 Stand - ½ Schraube zum Sitz
 ----------------------------
@@ -76,14 +77,15 @@ Sitz - ½ Schraube zum Sitz
 .. rubric:: Methodische Übungsreihe
 
 - Armbewegung trocken im Stand üben
+- Bewegung in zwei Sprünge teilen: halbe Stand (mit kurzem flüchtigen Stand), halbe Sitz
 - Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage in der ersten Phase verpassen um den anschließenden Sitz leicht zurückgelehnt zu ermöglichen, dann
 - wenn die halbe Schraube in den Stand schnell genug ist, kommt der anschließende Sitz oft von allein
 
 .. rubric:: Fehler und Korrekturen
 
 - der Oberkörper kippt zu früh nach vorne: flacher Sprung und zu schwache Schraube
-- der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt
-- der Aktive bleibt im Sitz und rotiert mit Hüftwinkel trotzdem
+- der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt, eventuell die Arme weiter hinten aufsetzen
+- der Aktive bleibt im Sitz und rotiert mit Hüftwinkel trotzdem -> zurück zum normalen Sprung in den Stand oder halbe Stand und eventuell Sprunghöhe erhöhen
 - Angst vor dem Tuch führt zu angehockten Beinen in der Luft; Gegen die Angst kann jemand mit Erfahrung zeigen wie ein zu flacher Sprung endet: im Stand
 
 Weiterführung

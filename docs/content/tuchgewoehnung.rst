@@ -120,15 +120,18 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
   - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
   - die Intensität des Armschwungs ermöglicht einen Wechsel zwischen Höhe gewinnen und halten
 
-- die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - etwa bis zum höchsten Punkt des Sprungs
+- die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - zeitlich etwa bis zum höchsten Punkt des Sprungs
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
+- Arme sorgen trotz der Bewegung für Gleichgewicht mittels kleiner Auslenkungen
 - **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
 
 .. rubric:: Fehler und Korrekturen
 
 - Landung in Rücklage: Hohlkreuz? Armschwung nach oben zu stark? Alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
 - Wandern und Armrudern: Armeinsatz üben, bzw. Höhe reduzieren
-- Beine arbeiten mit: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden
+- Beine arbeiten mit oder sind krumm: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden. Durchgängig (annähernd) gestreckte Knie während des Strecksprungs!
+- Arme hinter dem Körper: Bewegung erneut erklären oder Arme erstmal statisch halten
+- Beine krumm:
 
 Stellen der Arme
 -----------------

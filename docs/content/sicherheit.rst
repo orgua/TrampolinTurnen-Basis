@@ -104,8 +104,10 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 
 .. rubric:: Zum Training
 
+- kein Auf- und Abbau ohne Trainer
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
-- Erkrankungen der Aktiven wie Diabetes und Epilepsie sollten dem Trainer bekannt sein (Vertrauensbasis wahren)
+- Erkrankungen der Aktiven wie Herz-Lungen-Kreislauf-Probleme oder Anfallsleiden sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit Fachpersonal abgeklärt sein.
+
 
 .. rubric:: Umgang mit dem Trampolin
 
@@ -138,8 +140,8 @@ Zu den Hilfsmitteln im Trampolinturnen zählt auch die aktive Arbeit des Trainer
 
 Fehlgeschlagene „Versuche“ können durch entsprechende Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei sowohl Salto- als auch Schraubenrotationen u.a.) können nur schwer mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die jedoch zumindest in den Grundbereichen trainiert werden können. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
-Üben der Basics
-~~~~~~~~~~~~~~~~~
+Üben der Grundlagen
+~~~~~~~~~~~~~~~~~~~~
 
 Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern (abzustoppen oder zu „schießen“). Manchmal muss während des Springens mitgesprungen werden, im Absprung (auf "drei") muss der Trainer auf jeden Fall sicher im Tuch stehen bleiben. Dazu ein paar kleine Übungsformen:
 

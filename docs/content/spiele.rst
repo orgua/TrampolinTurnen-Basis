@@ -34,8 +34,8 @@ Ohne Materialien
 
 - Partner springt einen Weg über das Trampolin vor, der andere muss sich den Weg merken und den Weg nachahmen
 - „Karawane“: zwei Personen, einer geht/hüpft vor der andere steht hinter der ersten Person und hält sich an den Schultern fest und wird mit geschlossen/offenen Augen über das Trampolin geführt
-- **Schwungklauen**: zwei Personen machen jeweils auf ihrer Hälfte des Trampolins vorsichtige niedrige Strecksprünge, am besten anfangs leicht zeitlich versetzt zueinander: Ziel ist es dem Partner den Schwung wegzunehmen (Ihn zu stoppen)
-- **Schwungklauen Level 2**: Regeln wie bevor, aber als Sprünge im Wechsel Standsprung & Sitz
+- **Auskontern**: zwei Personen machen jeweils auf ihrer Hälfte des Trampolins vorsichtige niedrige Strecksprünge, am besten anfangs zeitlich versetzt zueinander: Ziel ist es dem Partner den Schwung wegzunehmen (Ihn zu stoppen)
+- **Auskontern Level 2**: Regeln wie bevor, aber als Sprünge im Wechsel Standsprung & Sitz
 - **„Rakete“**: eine kräftige Person „schießt“ eine kleinere Person in die Luft (wichtig: die werfende Person muss beim Wurf stehen bleiben – nicht mehr springen und muss die andere Person auch wieder auffangen bzw. abbremsen)
 - **Stoppwettkampf**: von der Stirnseite in 3 Sprüngen bis zur vorderen roten Linie springen und mit den Zehen noch vor der Linie stoppen. Wer am dichtesten rankommt gewinnt
 - **Wettrollen**: Querrollen über die Längsseite des Trampolintuch - ein Teilnehmer rollte vor und auf Signal eines Außenstehenden oder bei Erreichen des Kreuzes darf der zweite starten und versuchen einzuholen
@@ -87,16 +87,16 @@ Koffer-Packen
 - Variation: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
 - Variation: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
 
-Tuch-Jonglage
+Sitz-Jonglage
 ~~~~~~~~~~~~~~
 
-**Teilnehmer**: mind. 6
+**Teilnehmer**: mind. 3, mehr ist leichter und weniger hektisch
 
 **Materialien**: keine
 
 .. rubric:: Spielbeschreibung
 
-- man benötigt mind. 6 Personen, 3 pro Stirnseite auf der Matte, mehr sind besser.
+- die Gruppe wird aufgeteilt auf die Stirnseiten, die Seite mit mehr Teilnehmern beginnt
 - Jonglage ist Programm - das Trampolin wird hierfür in 4 Quadranten geteilt.
 - Eine Person der einen Seite stellt sich in einen Quadranten und eine Person der anderen Seite stellt sich in den diagonalen Quadranten und springt in den Quadranten vor ihm in den Sitz um die erste Person neben ihm zu katapultieren. Diese schießt nun ebenfalls in den Quadranten vor ihm in die Sitzlandung (an dieser Stelle ist schnelles Aufstehen und ein kleiner Sprung vor sich auf die Matte wichtig).
 - Dies lässt sich erstmal trocken üben. Später füllt man mit den übrigen Personen die Positionen wieder auf und es wird eine durchgängige Wiederholung draus.
