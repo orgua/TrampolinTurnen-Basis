@@ -29,7 +29,7 @@ Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder ric
 - das Trampolin wird längs bewegt, am besten an beiden Seiten von jeweils einer Person gezogen und geschoben
 - am Standort des Trampolins dürfen sich keine Hindernisse unter der Decke befinden (Ringe, tief hängende Lampen)
 
-.. rubric:: Heberollenständer benutzen
+.. rubric:: Heberollständer benutzen
 
 - manche Geräteräume erfordern ein Ablassen des Trampolins - daher muss das Gerät vor dem Aufbau wieder hochgehebelt werden
 - beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu.
@@ -70,6 +70,16 @@ Der Abbau ist in vielen Punkte ähnlich zum Aufbau - Unterschiede werden nachfol
 - es reicht aus die Ketten auf der Seite des oben aufliegenden Seitenflügels zu lösen. Dort wird das Standbein angehoben und geschoben
 - die Helfer der Gegenseite stellen sich zuerst auf den Standfuß und drücken dann die nahende Trampolinseite herunter
 - bevor das Trampolin in den Geräteraum geschoben wird, muss es eventuell heruntergelassen werden (Türhöhe beachten!)
+
+.. figure:: ../media/aufbau_in_reihe.jpg
+   :name: fig:aufbau_reihe
+   :width: 100.0%
+   :alt: Platzsparender Aufbau in Reihe
+
+.. figure:: ../media/aufbau_parallel_synchron.jpg
+   :name: fig:aufbau_parallel
+   :width: 100.0%
+   :alt: Aufbau der Trampoline parallel
 
 Wartung
 --------

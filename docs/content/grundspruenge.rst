@@ -30,6 +30,10 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
 
+.. figure:: ../media/spruenge_hocke_buecke_graetsche.png
+   :name: fig:hock_buck_gratsch
+   :alt: Die drei Fusssprünge in Phasendarstellung
+
 .. rubric:: Feinstform - Hocke
 
 - Absprung, Arme starten in gestellter Haltung
@@ -91,6 +95,10 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
   - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
+.. figure:: ../media/sprung_halbe_schraube.jpg
+   :name: fig:halbe_schraube
+   :alt: Halbe Schraube in Phasendarstellung
+
 .. rubric:: Fehler und Korrekturen
 
 - unbewusstes Abdrücken der Hände in der Luft: beide Arme in Drehrichtung mitnehmen
@@ -104,10 +112,9 @@ Sitzlandung / Sitz
 Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wirkt unscheinbar, aber es versteckt sich in der Ausführung schon ein Element der Grundtechnik für spätere Rückensprünge und Salti. Daher lohnt es sich den Fokus bereits früh auf saubere Ausführung zu legen.
 
 
-.. figure:: ../media/sprung_sitz.jpg
-    :width: 400px
-
-    Phasen eines Sitzsprungs, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
+.. figure:: ../media/sprung_sitz_stand.png
+   :name: fig:sitz
+   :alt: Sitz & Stand in Phasendarstellung
 
 
 .. rubric:: Bewegungsbeschreibung
@@ -180,6 +187,10 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
   - die Füße werden zur Decke gestreckt (leicht nach vorne). Dies streckt gleichzeitig den Hüftwinkel auf (Kippstoß)
   - das Aufstrecken des Hüftwinkels in der Flugphase leitet die Rotation ein um in den Stand zu gelangen, der Körper ist wieder komplett getreckt
   - bei richtiger Ausführung gelingt eine Landung auf der Stelle (zurück aufs Kreuz)
+
+.. figure:: ../media/sprung_ruecken_stand.png
+   :name: fig:ruecken
+   :alt: Sprung in den Rücken & in den Stand in Phasendarstellung
 
 .. rubric:: Methodische Übungsreihe
 

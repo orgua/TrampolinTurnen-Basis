@@ -16,6 +16,10 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 - nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt, allerdings:
 - um die Schraube einzuleiten führt der Arme in Schraubenrichtung die Bewegung an (linker Arm für Schraube linksherum)
 
+.. figure:: ../media/sprung_halbe_sitz_halbe_stand.png
+   :name: fig:halb_sitz_halb_stand
+   :alt: Halbe Schraube in den Sitz & halbe Stand in Phasendarstellung
+
 .. rubric:: Methodische Übungsreihe
 
 - die Armbewegung (inklusive Schraube) am Boden demonstrieren und nachahmen lassen
@@ -38,6 +42,7 @@ Stand - ½ Schraube zum Sitz
 - Arme getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
 - kurz vor Tuchkontakt die Sitzposition einnehmen
+- siehe Phasendarstellung beim vorherigen Sprung
 
 .. rubric:: Methodische Übungsreihe
 
