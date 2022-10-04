@@ -8,6 +8,7 @@ sphinx = "*"
 sphinxawesome-theme = "*"
 sphinx-sitemap = "*"
 rstdoc = "*"
+pre-commit = "*"
 
 [pipenv]
 allow_prereleases = false
