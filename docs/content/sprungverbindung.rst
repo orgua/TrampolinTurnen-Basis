@@ -5,6 +5,7 @@ In diesem Kapitel wird eine Auswahl an Sprüngen erläutert, die aus den bisheri
 
 Hilfestellungen sind in dieser Phase wenig bis kaum nötig und können aus den bereits bekannten Techniken abgeleitet werden. Besonders bei Bauchladungen sollte die Landephase abgesichert sein. Eventuelle Schrauben, inklusive der Richtung, müssen vorher besprochen und beim Sichern bedacht werden.
 
+.. _SitzHalbeStand:
 
 Sitz - ½ Schraube zum Stand
 ------------------------------
@@ -20,8 +21,13 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 .. rubric:: Bewegungsbeschreibung
 
-- nach der Sitzlandung werden die Arme nach oben geführt und die Hüfte getreckt, allerdings:
-- um die Schraube einzuleiten führt der Arme in Schraubenrichtung die Bewegung an (linker Arm für Schraube linksherum)
+- zum Aufstehen im Sitz drücken sich die Hände vom Tuch ab
+- nach der Sitzlandung werden die Arme über die Vorderseite nach oben geführt und die Hüfte getreckt, allerdings:
+- um die Schraube einzuleiten **führt der Arme in Schraubenrichtung die Bewegung an** (linker Arm für Schraube linksherum)
+- die Schulter des führenden Arms wird bei der Bewegung etwas ausgehoben
+- ein schnelles Öffnen des Hüftwinkels ermöglicht eine saubere Schraube in der Hauptachse
+- die im :ref:`Abschnitt zu Schrauben <Schrauben>` erwähnte **Hula-Hoop-Bewegung** für leichteres Schrauben lässt sich hier anwenden indem die Hüfte beim Öffnen leicht in Schraubenrichtung gekippt wird
+- der Körper bleibt mit gestellten Armen gestreckt bis die halbe Schraube vollendet und die Landung erfolgt
 
 .. rubric:: Methodische Übungsreihe
 
@@ -42,7 +48,7 @@ Stand - ½ Schraube zum Sitz
 
 - im Absprung Beine (gestreckt) nach **hinten** schieben (analog zum Bauchsprung, aber schwächer), so dass eine leichte Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
 - mit der Schulter eine Drehung in die gewünschte Richtung einleiten
-- Arme getreckt neben den Ohren halten
+- Arme weiterhin getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) die Arme seitlich nach unten führen
 - kurz vor Tuchkontakt die Sitzposition einnehmen
 - siehe Phasendarstellung beim vorherigen Sprung
@@ -69,6 +75,8 @@ Stand - ½ Schraube zum Sitz
 Sitz - ½ Schraube zum Sitz
 -----------------------------
 
+Technisch ist der Sprung eng verwandt mit der :ref:`½ Schraube zum Stand <SitzHalbeStand>`
+
 .. figure:: ../media/sprung_sitz_halbe_sitz.jpg
     :width: 400px
     :name: fig:sitz_halbe_sitz
@@ -82,7 +90,7 @@ Sitz - ½ Schraube zum Sitz
 - nach der bekannten Sitzlandung drückt sich der Springer kräftig mit den Händen ab
 - die Hüfte wird gestreckt und die Beine nach hinten geschoben (analog zu ½ Schraube zum Sitz)
 - die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer La-Ola-Welle, nur mit Schraube)
-- die Landung erfolgt wie beim Sitzsprung
+- die Landung erfolgt wie beim Sitzsprung (leicht zurückgelehnt)
 
 .. rubric:: Methodische Übungsreihe
 

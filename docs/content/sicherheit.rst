@@ -120,9 +120,9 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 
 .. rubric:: Zum Training
 
-- kein Auf- und Abbau ohne Trainer
+- der Auf- und Abbau darf **nur unter Aufsicht** erfahrener Lehrkräfte erfolgen
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
-- Erkrankungen der Aktiven wie Herz-Lungen-Kreislauf-Probleme oder Anfallsleiden sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit Fachpersonal abgeklärt sein.
+- Erkrankungen der Aktiven, besonders Herz-Lungen-Kreislauf-Probleme oder Anfallsleiden, sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit externem Fachpersonal abgeklärt sein.
 
 
 .. rubric:: Umgang mit dem Trampolin

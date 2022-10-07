@@ -132,8 +132,9 @@ Links
 Quellen
 -------
 
-- Handreichung vom Trampolin-Basis-Schein, Münster
+- Handreichung vom Trampolin-Basis-Schein, Münster -> Grundlage für dieses Dokument mit fast unveränderter Einleitung
 - zwei Mitschriften von Basisschein-Ausbildungen
 - Arbeitshilfen vom DTB
 - http://heiny.info/uni/sport/phasentrampolin.html
-- https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf
+- https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf - Trainer C Mitschrift von Jan von Horsten
+-

@@ -61,6 +61,8 @@ Diese Sprünge lassen sich normalerweise von Anfängern ohne große Hilfe erlern
 .. tip::
     Hocke und Grätsche sind leichter erlernbar und für den Anfang ausreichend. Das Erlernen der Bücke kann zu einem späteren Zeitpunkt - beispielsweise nach dem Rückensprung - erfolgen.
 
+.. _Schrauben:
+
 Schraubensprünge
 -----------------
 
