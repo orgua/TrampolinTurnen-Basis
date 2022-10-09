@@ -175,7 +175,7 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 
 - Variation: 3x leicht Höhe mitgeben, 1x stark Höhe nehmen
 
-.. rubric:: Den Einfluss minimieren
+.. rubric:: Den Störeinfluss minimieren
 
 - nun ist neutrales Mitspringen (gleichzeitige Landung) bzw. leichtes Mitgeben von Höhe gefordert
 - zwei Personen fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.

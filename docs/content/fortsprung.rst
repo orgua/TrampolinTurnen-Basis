@@ -1,57 +1,56 @@
-Weitere Sprünge
-==============================
+Fortgeschrittene Sprünge
+==========================
 
-..
-    TODO
+.. warning::
+    Kapitel unfertig - wildes Durcheinander
 
-Als letzter Sprung in dieser Einführung soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire ermöglicht ein Erlernen der L5, der ersten Pflichtübung im Anfängerbereich (s.u.).
+Nach den Grundsprüngen und Sprungverbindungen widmet sich dieses Kapitel den Saltis. Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere bei der Zusammenstellung von der Kürübung. Nirgendwo abseits des Trampolins ist es so „einfach“ Saltorotationen zu erleben. Als erster Sprung in dieser Reihe soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire ermöglicht ein Erlernen der P5, der ersten Pflichtübung im Anfängerbereich (siehe :doc:`Pflichten`).
+
+ In der Regel wird beim Trampolinturnen zunächst der Salto rückwärts (gehockt, später dann gebückt) und dann erst der Salto vorwärts gelernt. Bei vorwärts gesprungenen Salto ist eine Landung auf den Füßen aus Orientierungsgründen unsicherer. In der Regel werden Vorwärtssalti mit Schrauben-Bewegungen kombiniert um die Sicht zu verbessern.
 
 .. rubric:: Ausführungsformen ++
 
 Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewissen Sprunghöhe und Koordinationsfähigkeit lässt sich die Symmetrie des Sprungs verändern. Viele Sprünge gewinnen an Qualität sobald im Absprung länger gewartet wird vor dem eigentlichen Start des Sprungs (Schraube im Schraubensalto). Am Beispiel Hocke lohnt es sich ein Gefühl dafür zu vermitteln. Die Teilnehmer können probieren die Symmetrie während des Sprungs herzustellen, d.h. am gleichen Punkt im Raum die Hocke beim Steigen anzufangen und beim Fallen zu beenden. Auch ein Austesten der Extreme kann hilfreich sein - beispielsweise im Versuch die Hocke komplett in der Steigphase oder Fallphase zu absolvieren.
 
+.. rubric:: Hilfestellung - Klammergriff
 
-.. note::
-    TEST für verschiedene Admonitions
+Zur **Stabilisierung von Salti in der Landungen** sollte der **Klammergriff** gut beherrscht werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Aktiven, nähert sich und peilt an bei der Landung mit einem Arm den unteren Bauch zu umschließen und mit der Hand des anderen Arms die untere Wirbelsäule zu stützen. Der Kopf befindet sich seitlich hinter dem Aktiven, dicht am Rücken. Die eigene Schulter befindet sich etwa auf Bauchhöhe.
 
-.. warning::
-    Don't eat yellow snow
+..
+    TODO
 
-.. tip::
-    Try again
-
-.. caution::
-    Caution, Important
-
-Hilfestellung - Landung
-
-Des Weiteren sollte der **Klammergriff** zur Stabilisierung von Salto-Landungen gut geübt werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Springer, nähert sich und peilt bei der Landung mit einem Arm den Bauch und mit der Hand des Anderen Arms die untere Wirbelsäule an. Der Kopf auf befindet sich hinter dem Aktiven, dicht am Rücken.
-
+    Salto in den Sitz
+    Salto in den Rücken?
+    Barani
+    C B A
 
 Salto Rückwärts (gehockt)
 --------------------------
 
-Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere bei der Zusammenstellung von der Kürübung. Nirgendwo ist es so „einfach“ Saltorotationen zu erleben. In der Regel wird beim Trampolinturnen zunächst der Salto rückwärts (gehockt, später dann gebückt) und dann erst der Salto vorwärts gelernt. Bei vorwärts gesprungenen Salti ist eine Landung auf den Füßen aus Orientierungsgründen unsicherer. In der Regel werden Vorwärtssalti mit Schrauben-Bewegungen kombiniert um die Sicht zu verbessern.
-
 .. rubric:: Bewegungsbeschreibung
 
-- der Absprung erfolgt mit gestellten Armen
-- im Tuch werden Füße und Hüfte bei fast gestrecktem Körper kräftig nach vorne oben geschoben TODO
-- der Kopf bleibt gerade stehen - vorzugsweise Blick auf Mattenkante
-- nach dem Verlassen des Tuches werden die Beine angehockt (siehe Hocke)
-- zur Landung wird der Körper wieder getreckt, die Augen suchen den Kontakt zum Tuch; die Arme bleiben gestreckt am Körper angelegt
+- der Absprung erfolgt aufrecht, gestreckt, mit gestellten Armen
+- der **Mittelkörper ist bzw. wird vorgespannt** (Kippen der Hüfte, siehe :doc:`TechnikSalto`)
+- nach dem Absprung erfolgt der bereits beim Rückensprung vorgestellte **Kick mit Wechsel ins C-Plus** - diesmal intensiver für eine schnellere Rotation
+- Beine sind spätestens jetzt geschlossen und Füße gestreckt
+- der Kopf bleibt weiterhin neutral stehen - vorzugsweise mit Blick auf die Mattenkante
+- nach bzw. mit dem Kick erfolgt ein **Anhocken für eine Beschleunigung** der Rotation (kleines Trägheitsmoment)
+- die Hände greifen die Schienenbeine dicht unterm Knie und können die Hocke weiter komprimieren
+- der Blick zur Matte wird durch die Hocke unterbrochen und ruht fortan auf den Knien
+- für die Feinstform erfolgt eine Öffnung der Hocke bereits kopfüber (auf "12 Uhr") - der Körper ist danach gestreckt, bzw. leicht im C-Plus (die **Beine öffnen körperlich betrachtet nach unten**)
+- die Arme befinden sich üblicherweise gestreckt angelegt am Körper
+- die übrige Rotation bis zur Landung erfolgt gestreckt - für eine Nachjustierung kann nach "3 Uhr" beispielsweise abgebückt werden
 - die Landung erfolgt mit gestellten Armen
 
-.. rubric:: Methodische Übungsreihe TODO
+.. rubric:: Methodische Übungsreihe
 
-- an der Wand oder Sprossenwand (wichtig: vorher Stützprobe)
-    TODO Zwei Helfer fassen mit Oberarmgriff den Aktiven; dieser „läuft“ an der Wand hoch und drückt sich im höchsten Punkt ab und hockt die Beine an
-- auf Mattenberg:
-    Rolle rückwärts (aus der Rückenlage) vom Mattenberg herunter auf einen Weichboden; der Kopf ragt leicht über das Ende der Matte hinaus; die Helfer sichern die Bewegung mit dem Oberarmgriff ab
-- auf dem Trampolin:
-    Der Helfer steht hinter dem Aktiven; anspringen (niedrig) - auf Kommando macht der Aktive eine Hocke auf eine Schulter des Trainers (Salto-Ansatz beachten) und wird vorwärts wieder auf dem Tuch abgesetzt
-- mit einem oder zwei Helfern
-    Die Helfer fassen den Aktiven mit einer Hand von unten am Hosenbund, mit der anderen an der Schulter. Der Aktive macht einen Salto; die Helfer unterstützen die Bewegung in der Luft. Wichtig für die Helfer: stehen bleiben und nicht loslassen
+- an der Wand oder Sprossenwand (vorher Stützprobe!) - zwei Helfer fassen mit Oberarmgriff den Aktiven; dieser „läuft“ an der Wand hoch und drückt sich im höchsten Punkt ab und hockt die Beine an
+- auf dem **Gymnastikboden** beginnend in der Rückenlage im C-Minus mit gestellten Armen. Auf Signal einen Kick ins C-Plus, gefolgt von Hocke und damit Rollbewegung rückwärts in Nackenlage und Griff an die Knie
+- auf **Mattenberg bzw. Mattentisch**: ähnlich wie vorherige Übung vom Gymnastikboden, nur mit vollständiger Rolle vom Mattenberg herunter auf einen Weichboden; der Kopf ragt leicht über das Ende der Matte hinaus; die Helfer sichern die Bewegung mit dem Oberarmgriff ab. Pluspunkte für aktive Öffnungsphase zwischen 12 - 3 Uhr
+- **Telemark auf dem Trampolin** - der Helfer steht hinter dem Aktiven und stützt die Schulterblätter; niedrig anspringen - nach dem Anzählen führt der Aktive die Vorspannung & Kick aus und zielt etwa auf eine Rotation in waagerechte Lage. Der Helfer stützt den oberen Rücken mit **gestreckten** Armen bis über den Kopf.
+
+
+- Zwei Helfer auf dem Trampolin - Die Helfer fassen den Aktiven mit einer Hand von unten am Hosenbund, mit der anderen an der Schulter. Der Aktive macht einen Salto; die Helfer unterstützen die Bewegung in der Luft. Wichtig für die Helfer: stehen bleiben und nicht loslassen
 - danach:
     In der Luft die Hand vom Hosenbund zusätzlich zum Oberarm führen
 - den Griff in der Luft lösen und den Aktiven nach einer kurzen freien Flugphase kurz vor der Landung auffangen
@@ -59,11 +58,11 @@ Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere
 
 .. rubric:: Fehler und Korrekturen TODO
 
-- Beine und Hüfte werden nicht genügend (lange) nach vorne geschoben; das Anhocken erfolgt zu früh
-- Arme und/oder Kopf fällt/fallen nach hinten
-- Oberkörper bewegt sich nach vorne
-- Der Absprung erfolgt mir Vorlage
-- das Öffnen erfolgt zu früh (zu wenig Schwung) oder zu spät (der Aktive fällt nach hinten)
+- Ziehen der Schulter oder Kopf im Absprung: zurück zur Vorübung (Telemark) bis die Technik sitzt
+- Knie werden im Absprung nach vorne geschoben: potentiell gefährlich, vornehmen bei "drei" höher abzuspringen
+- Oberkörper macht Gegenbewegung (Hock-Vorbewegung): Aufrecht abspringen, Arme gefühlt zur Decke ziehen
+- Öffnung in die Bücke, bzw. Beine richtung Tuch: Rotation beschleunigen, höher springen oder später öffnen
+
 
 Ausführung
 
@@ -82,19 +81,19 @@ Vorübung
 - Erste Phase Boden: Kick gegen eine dicke Matte bei der Erwärmung üben
 - Zweite Phase Matte: In Rückenlage aus der Überstreckung (Becken abgehoben) die Beine schnell anhocken, sodass eine Rückwärtsrolle entsteht, Arme kommen von oben, Rotation kann mit dem Kopf gestoppt werden
 - Mattenberg auf Schulterhöhe mit Minitramp davor, Aktiver springt in die Rückenlage mit Kick und Anhocken
-- Mattentisch, Rückenlage des Aktiven mit Kopf & Hals über der Kante, 3/4 RW mit Aufstrecken  zwei Helfer sichern die über den Kopf gestreckten Oberarme
+- Mattentisch, Rückenlage des Aktiven mit Kopf & Hals über der Kante, 3/4 RW mit Aufstrecken -> zwei Helfer sichern die über den Kopf gestreckten Oberarme
 - Wenig zu empfehlen: Sprossenwandlauf, Wandlauf, Muffel
-- Auf dem Trampolin, Schulterblätter des Aktiven halten, Arme sind gestellt, Aktiver soll auf „3“ NUR die Beckenbewegung mit Beinkick machen, danach wie ein Brett in die Waagerechte kommen, der Trainer steht im Telemarkstand dabei hinter / unter ihm  vorsichtig anfangen
+- Auf dem Trampolin, Schulterblätter des Aktiven halten, Arme sind gestellt, Aktiver soll auf „3“ NUR die Beckenbewegung mit Beinkick machen, danach wie ein Brett in die Waagerechte kommen, der Trainer steht im Telemarkstand dabei hinter / unter ihm -> vorsichtig anfangen
 - Für schwierige Fälle: geführter Salto an den Oberarmen. Zwei Trainer halten den Aktiven an den Oberarmen (Daumen zeigen jeweils Richtung Hand des Aktiven) und lassen ihn einen Salto springen
 
 Nächste Schritte:
 - Pflichtübungen zum Verbinden des Saltos, Salto in Sitz, B-Salto
 
 Hilfestellung:
-- Trainer steht seitlich vom Aktiven und hält mit einer Hand den Hosenbund (Führt den Salto in die Höhe) und unterstützt mit der anderen Hand den mittleren Rücken  so kann die Rückenhand im Salto viele Aufgaben erfüllen: Druck am tiefen Rücken gibt Höhe und Rotation, Druck an den Schulterblättern stoppt den Salto (Führen in die Rückenlage), Zug an der Schulter gibt sehr viel Rotation, bringt aber oft eine Schraube dazu!
-- In der Landung sollte der Trainer in kritischen Fällen den Klammergriff anwenden um einen Sturz zu vermeiden
+- Trainer steht seitlich vom Aktiven und hält mit einer Hand den Hosenbund (Führt den Salto in die Höhe) und unterstützt mit der anderen Hand den mittleren Rücken -> so kann die Rückenhand im Salto viele Aufgaben erfüllen: Druck am tiefen Rücken gibt Höhe und Rotation, Druck an den Schulterblättern stoppt den Salto (Führen in die Rückenlage), Zug an der Schulter gibt sehr viel Rotation, bringt aber oft eine Schraube dazu!
 - Mit steigendem Fortschritt kann der Trainer im Sprung den Hosenbund loslassen, das ermöglicht dem Aktiven mehr Höhe
 - Als letzte Stufe läuft der Trainer vom Rand in den Saltosprung und fixiert in der Endphase des Saltos oft nur noch die Schulter
+- **Oberarmdrehgriff** für schwierige Fälle beim Salto-Rückwärts: Zwei Trainer halten den Aktiven an den Oberarmen (Drehrichtung einbeziehen, Daumen zeigen jeweils Richtung Hand des Aktiven) und lassen ihn einen Salto springen
 
 
 Salto vorwärts
@@ -138,7 +137,7 @@ Hilfestellung:
 Barani
 -----------------------------
 
-Schraubentypen erlernen  je nach Aktivem entscheiden
+Schraubentypen erlernen -> je nach Aktivem entscheiden
 
 Symmetrieschraube:
 

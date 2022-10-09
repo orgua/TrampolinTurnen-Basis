@@ -305,6 +305,6 @@ und angebracht ist.
 - zu wenig Spannung in der Landung; der Turner bleibt quasi auf dem Tuch liegen
 - die Arme wirbeln beim Aufstehen unkontrolliert durch die Luft: Arme ruhig an den Körper anlegen
 
-.. rubric:: Hilfestellung
+.. rubric:: Hilfestellung - Kontrollieren der Füße
 
-Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechte zusätzlich das Stoppen einer Vorwärtsbewegung. Kurz vor der Tuchberührung die Füße loslassen, sonst droht Verletzungsgefahr. Dies funktioniert auch mit Reinlaufen vom Rand.
+Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechte zusätzlich das Stoppen einer Vorwärtsbewegung. Kurz vor der Tuchberührung die Füße loslassen, sonst droht Verletzungsgefahr für den Trainer. Diese Technik funktioniert auch mit Reinlaufen vom Rand.

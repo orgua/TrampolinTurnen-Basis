@@ -6,7 +6,7 @@
 Einführung ins Trampolinturnen
 ================================
 
-Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer.
+Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer. Es wird daran gearbeitet die Basisscheine I und II, sowie Teile vom Trainer C abzudecken.
 
 .. toctree::
    :maxdepth: 2
@@ -20,10 +20,10 @@ Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer.
    content/spiele.rst
    content/grundspruenge.rst
    content/sprungverbindung.rst
+   content/fortsprung.rst
    content/materialien.rst
 
 .. content/fortsprung.rst
-
 
 ..
    Indices and tables

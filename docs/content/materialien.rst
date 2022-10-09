@@ -17,11 +17,14 @@ Zum Abschluss noch einige Hinweise für den Trainer bezüglich der Trainingsorga
 ~~~~~~~~~~~~~
 
 - Sprünge auf Zeit: wahlweise 10 Strecksprünge nach einer Steigphase von 3-5 Sprüngen, alternativ mit Pflicht- oder Kürübung bzw. Teilen daraus
+
+    - das Zeitspringen macht sich auch gut um einen Fortschritt bei Anfängern deutlich zu machen (erste Stunden nach Tuchgewöhnung vs. 6 Monate später)
+
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
 - das Spiel Koffer-Packen (siehe :doc:`Spiele <spiele>` mit vielen) übt Sprungverbindungen und fordert heraus
 - Übungen synchron turnen - so lernen Aktive das Halten von Höhe und bemerken durch Höhenverlust Fehler während der Landungen
 
-Trainingsorganisation Studium
+Trainingsorganisation im Studium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs innerhalb eines Semesters mit einer wöchentlichen Doppelstunde gut umsetzen.
@@ -35,6 +38,8 @@ Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs i
 - Bücke
 - Salto rückwärts
 - Salto vorwärts und Barani (für ganz schnelle)
+
+.. _Pflichten:
 
 Pflichtübungen
 --------------
@@ -137,4 +142,20 @@ Quellen
 - Arbeitshilfen vom DTB
 - http://heiny.info/uni/sport/phasentrampolin.html
 - https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf - Trainer C Mitschrift von Jan von Horsten
--
+
+Test von Style-Elementen
+------------------------
+
+.. rubric:: TODO: Entfernen für finale Dokumente
+
+.. note::
+    TEST für verschiedene Admonitions
+
+.. warning::
+    Don't eat yellow snow
+
+.. tip::
+    Try again
+
+.. caution::
+    Caution, Important
