@@ -128,10 +128,12 @@ Literaturhinweise
 Links
 -----
 
+- `Infos zum DTB Basisschein <https://www.dtb.de/trampolinturnen/themen/dtb-basisschein-trampolin/>`_
+- Code of Points (`CoP Trampolin <https://www.gymnastics.sport/site/rules/#7>`_)
+- `Rahmentrainingskonzeption Trampolinturnen <https://www.dtb.de/?ss360Query=rahmentrainingskonzeption%20trampolinturnen>`_
+
 - `Webseiten-Version des Dokuments <https://orgua.github.io/TrampolinTurnen-Basis/>`_
 - `Projekt-Quellen des Dokuments <https://github.com/orgua/TrampolinTurnen-Basis>`_ mit aktueller Version der PDF
-
-- `Infos zum DTB Basisschein <https://www.dtb.de/trampolinturnen/themen/dtb-basisschein-trampolin/>`_
 
 
 Quellen
